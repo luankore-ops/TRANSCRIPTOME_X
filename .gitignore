@@ -1,0 +1,30 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+
+# Local environments and editor settings
+.Renviron
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and log files
+*.tmp
+*.temp
+*.log
+*.bak
+~$*
+
+# Large/raw input data (retrieve from the original public source)
+data/raw/
+data/external/
+
+# Local caches
+.cache/
