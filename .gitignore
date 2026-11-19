@@ -1,0 +1,44 @@
+﻿# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and IDEs
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and log files
+*.tmp
+*.temp
+*.log
+*.bak
+~$*
+logs/
+
+# Raw and external data
+data/raw/
+data/external/
+
+# Local caches
+.cache/
+
+# Credentials and environment variables
+.env
+.env.*
+!.env.example
