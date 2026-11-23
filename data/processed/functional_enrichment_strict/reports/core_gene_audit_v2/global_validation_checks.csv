@@ -1,0 +1,7 @@
+"check","passed"
+"No duplicate Ensembl keys",TRUE
+"No ambiguous symbols integrated",FALSE
+"All integrated rows have Ensembl ID",FALSE
+"All integrated rows have significant DE",FALSE
+"All integrated rows have consistent direction",FALSE
+"Three previously missing genes recovered",TRUE

@@ -1,0 +1,10 @@
+"check","passed"
+"No duplicate strict Ensembl keys",TRUE
+"Strict mapping symbols unique",TRUE
+"Strict mapping Ensembl unique",TRUE
+"All strict records have Ensembl ID",TRUE
+"All strict records have significant DE",TRUE
+"All strict records have consistent direction",TRUE
+"Unresolved records preserved",TRUE
+"Three previously missing genes recovered",TRUE
+"All records accounted for",TRUE

@@ -1,0 +1,260 @@
+============================================================
+TRANSCRIPTOME-X
+DISCORDANT GENE FUNCTIONAL ANALYSIS
+FINAL REPORT
+============================================================
+
+PARAMETRI ANALISI
+------------------------------------------------------------
+Soglia FDR: 0.05
+Min gene set size: 10
+Max gene set size: 500
+Correzione multipli test: Benjamini-Hochberg
+Organismo: Homo sapiens
+Universo: tutti i geni testati e mappabili a Entrez ID
+Database: org.Hs.eg.db
+Ontologie: GO BP, GO CC, GO MF, Reactome
+
+MAPPING SUMMARY
+------------------------------------------------------------
+         contrast genes_tested genes_with_entrez genes_without_entrez genes_with_symbol
+ siNRP1_3_vs_siNT        17531             15118                 2413             15118
+ siNRP1_5_vs_siNT        17531             15118                 2413             15118
+ unique_entrez_ids
+             15067
+             15067
+
+GENE GROUP SUMMARY
+------------------------------------------------------------
+         contrast                    group genes_original genes_mapped percentage_mapped
+ siNRP1_3_vs_siNT       COMMON_ALL_METHODS           2444         2080          85.10638
+ siNRP1_3_vs_siNT    DISCORDANT_ANY_METHOD            504          473          93.84921
+ siNRP1_3_vs_siNT         ALTERNATIVE_ONLY            258          237          91.86047
+ siNRP1_3_vs_siNT MIXED_METHOD_DISCORDANCE            246          236          95.93496
+ siNRP1_3_vs_siNT                 TMM_ONLY              0            0                NA
+ siNRP1_3_vs_siNT         EXCLUSIVE_TMMwsp             22           21          95.45455
+ siNRP1_3_vs_siNT            EXCLUSIVE_RLE             10           10         100.00000
+ siNRP1_3_vs_siNT  EXCLUSIVE_UPPERQUARTILE            198          178          89.89899
+ siNRP1_5_vs_siNT       COMMON_ALL_METHODS           3305         3008          91.01362
+ siNRP1_5_vs_siNT    DISCORDANT_ANY_METHOD            230          204          88.69565
+ siNRP1_5_vs_siNT         ALTERNATIVE_ONLY            115           99          86.08696
+ siNRP1_5_vs_siNT MIXED_METHOD_DISCORDANCE            115          105          91.30435
+ siNRP1_5_vs_siNT                 TMM_ONLY              0            0                NA
+ siNRP1_5_vs_siNT         EXCLUSIVE_TMMwsp             25           21          84.00000
+ siNRP1_5_vs_siNT            EXCLUSIVE_RLE             36           27          75.00000
+ siNRP1_5_vs_siNT  EXCLUSIVE_UPPERQUARTILE             13           12          92.30769
+
+ENRICHMENT EXECUTION SUMMARY
+------------------------------------------------------------
+         contrast                    group ontology genes_original genes_mapped universe_size
+ siNRP1_3_vs_siNT       COMMON_ALL_METHODS       BP           2444         2080         15067
+ siNRP1_3_vs_siNT       COMMON_ALL_METHODS       CC           2444         2080         15067
+ siNRP1_3_vs_siNT       COMMON_ALL_METHODS       MF           2444         2080         15067
+ siNRP1_3_vs_siNT       COMMON_ALL_METHODS Reactome           2444         2080         15067
+ siNRP1_3_vs_siNT    DISCORDANT_ANY_METHOD       BP            504          473         15067
+ siNRP1_3_vs_siNT    DISCORDANT_ANY_METHOD       CC            504          473         15067
+ siNRP1_3_vs_siNT    DISCORDANT_ANY_METHOD       MF            504          473         15067
+ siNRP1_3_vs_siNT    DISCORDANT_ANY_METHOD Reactome            504          473         15067
+ siNRP1_3_vs_siNT         ALTERNATIVE_ONLY       BP            258          237         15067
+ siNRP1_3_vs_siNT         ALTERNATIVE_ONLY       CC            258          237         15067
+ siNRP1_3_vs_siNT         ALTERNATIVE_ONLY       MF            258          237         15067
+ siNRP1_3_vs_siNT         ALTERNATIVE_ONLY Reactome            258          237         15067
+ siNRP1_3_vs_siNT MIXED_METHOD_DISCORDANCE       BP            246          236         15067
+ siNRP1_3_vs_siNT MIXED_METHOD_DISCORDANCE       CC            246          236         15067
+ siNRP1_3_vs_siNT MIXED_METHOD_DISCORDANCE       MF            246          236         15067
+ siNRP1_3_vs_siNT MIXED_METHOD_DISCORDANCE Reactome            246          236         15067
+ siNRP1_3_vs_siNT                 TMM_ONLY       BP              0            0         15067
+ siNRP1_3_vs_siNT                 TMM_ONLY       CC              0            0         15067
+ siNRP1_3_vs_siNT                 TMM_ONLY       MF              0            0         15067
+ siNRP1_3_vs_siNT                 TMM_ONLY Reactome              0            0         15067
+ siNRP1_3_vs_siNT         EXCLUSIVE_TMMwsp       BP             22           21         15067
+ siNRP1_3_vs_siNT         EXCLUSIVE_TMMwsp       CC             22           21         15067
+ siNRP1_3_vs_siNT         EXCLUSIVE_TMMwsp       MF             22           21         15067
+ siNRP1_3_vs_siNT         EXCLUSIVE_TMMwsp Reactome             22           21         15067
+ siNRP1_3_vs_siNT            EXCLUSIVE_RLE       BP             10           10         15067
+ siNRP1_3_vs_siNT            EXCLUSIVE_RLE       CC             10           10         15067
+ siNRP1_3_vs_siNT            EXCLUSIVE_RLE       MF             10           10         15067
+ siNRP1_3_vs_siNT            EXCLUSIVE_RLE Reactome             10           10         15067
+ siNRP1_3_vs_siNT  EXCLUSIVE_UPPERQUARTILE       BP            198          178         15067
+ siNRP1_3_vs_siNT  EXCLUSIVE_UPPERQUARTILE       CC            198          178         15067
+ siNRP1_3_vs_siNT  EXCLUSIVE_UPPERQUARTILE       MF            198          178         15067
+ siNRP1_3_vs_siNT  EXCLUSIVE_UPPERQUARTILE Reactome            198          178         15067
+ siNRP1_5_vs_siNT       COMMON_ALL_METHODS       BP           3305         3008         15067
+ siNRP1_5_vs_siNT       COMMON_ALL_METHODS       CC           3305         3008         15067
+ siNRP1_5_vs_siNT       COMMON_ALL_METHODS       MF           3305         3008         15067
+ siNRP1_5_vs_siNT       COMMON_ALL_METHODS Reactome           3305         3008         15067
+ siNRP1_5_vs_siNT    DISCORDANT_ANY_METHOD       BP            230          204         15067
+ siNRP1_5_vs_siNT    DISCORDANT_ANY_METHOD       CC            230          204         15067
+ siNRP1_5_vs_siNT    DISCORDANT_ANY_METHOD       MF            230          204         15067
+ siNRP1_5_vs_siNT    DISCORDANT_ANY_METHOD Reactome            230          204         15067
+ siNRP1_5_vs_siNT         ALTERNATIVE_ONLY       BP            115           99         15067
+ siNRP1_5_vs_siNT         ALTERNATIVE_ONLY       CC            115           99         15067
+ siNRP1_5_vs_siNT         ALTERNATIVE_ONLY       MF            115           99         15067
+ siNRP1_5_vs_siNT         ALTERNATIVE_ONLY Reactome            115           99         15067
+ siNRP1_5_vs_siNT MIXED_METHOD_DISCORDANCE       BP            115          105         15067
+ siNRP1_5_vs_siNT MIXED_METHOD_DISCORDANCE       CC            115          105         15067
+ siNRP1_5_vs_siNT MIXED_METHOD_DISCORDANCE       MF            115          105         15067
+ siNRP1_5_vs_siNT MIXED_METHOD_DISCORDANCE Reactome            115          105         15067
+ siNRP1_5_vs_siNT                 TMM_ONLY       BP              0            0         15067
+ siNRP1_5_vs_siNT                 TMM_ONLY       CC              0            0         15067
+ siNRP1_5_vs_siNT                 TMM_ONLY       MF              0            0         15067
+ siNRP1_5_vs_siNT                 TMM_ONLY Reactome              0            0         15067
+ siNRP1_5_vs_siNT         EXCLUSIVE_TMMwsp       BP             25           21         15067
+ siNRP1_5_vs_siNT         EXCLUSIVE_TMMwsp       CC             25           21         15067
+ siNRP1_5_vs_siNT         EXCLUSIVE_TMMwsp       MF             25           21         15067
+ siNRP1_5_vs_siNT         EXCLUSIVE_TMMwsp Reactome             25           21         15067
+ siNRP1_5_vs_siNT            EXCLUSIVE_RLE       BP             36           27         15067
+ siNRP1_5_vs_siNT            EXCLUSIVE_RLE       CC             36           27         15067
+ siNRP1_5_vs_siNT            EXCLUSIVE_RLE       MF             36           27         15067
+ siNRP1_5_vs_siNT            EXCLUSIVE_RLE Reactome             36           27         15067
+ siNRP1_5_vs_siNT  EXCLUSIVE_UPPERQUARTILE       BP             13           12         15067
+ siNRP1_5_vs_siNT  EXCLUSIVE_UPPERQUARTILE       CC             13           12         15067
+ siNRP1_5_vs_siNT  EXCLUSIVE_UPPERQUARTILE       MF             13           12         15067
+ siNRP1_5_vs_siNT  EXCLUSIVE_UPPERQUARTILE Reactome             13           12         15067
+                 status terms_returned significant_terms
+ RECOVERED_EXISTING_CSV           4729                24
+ RECOVERED_EXISTING_CSV            634                 6
+ RECOVERED_EXISTING_CSV            964                12
+ RECOVERED_EXISTING_CSV           1424                 5
+ RECOVERED_EXISTING_CSV           3235                 0
+ RECOVERED_EXISTING_CSV            478                 0
+ RECOVERED_EXISTING_CSV            649                 1
+ RECOVERED_EXISTING_CSV           1081                 0
+ RECOVERED_EXISTING_CSV           2137                 0
+ RECOVERED_EXISTING_CSV            398                 0
+ RECOVERED_EXISTING_CSV            451                 0
+ RECOVERED_EXISTING_CSV            823                 0
+ RECOVERED_EXISTING_CSV           2507                 0
+ RECOVERED_EXISTING_CSV            311                 0
+ RECOVERED_EXISTING_CSV            472                 0
+ RECOVERED_EXISTING_CSV            631                 0
+    SKIPPED_EMPTY_GROUP              0                 0
+    SKIPPED_EMPTY_GROUP              0                 0
+    SKIPPED_EMPTY_GROUP              0                 0
+    SKIPPED_EMPTY_GROUP              0                 0
+              COMPLETED            474                 0
+              COMPLETED             62                 0
+              COMPLETED             79                 0
+              COMPLETED            173                 0
+              COMPLETED            308                 0
+              COMPLETED             56                 2
+              COMPLETED             47                 0
+              COMPLETED            182                 0
+              COMPLETED           1732                 1
+              COMPLETED            359                 0
+              COMPLETED            379                 0
+              COMPLETED            621                 0
+              COMPLETED           4933               199
+              COMPLETED            676                20
+              COMPLETED           1014                11
+              COMPLETED           1532                 0
+              COMPLETED           2370                 1
+              COMPLETED            329                 0
+              COMPLETED            486                 0
+              COMPLETED            709                 0
+              COMPLETED           1383                 0
+              COMPLETED            211                 0
+              COMPLETED            279                 0
+              COMPLETED            463                 2
+              COMPLETED           1769                 0
+              COMPLETED            239                 0
+              COMPLETED            348                 0
+              COMPLETED            426                 0
+    SKIPPED_EMPTY_GROUP              0                 0
+    SKIPPED_EMPTY_GROUP              0                 0
+    SKIPPED_EMPTY_GROUP              0                 0
+    SKIPPED_EMPTY_GROUP              0                 0
+              COMPLETED            314                 0
+              COMPLETED             38                 0
+              COMPLETED             86                 0
+              COMPLETED            168                 0
+              COMPLETED            309                 0
+              COMPLETED             49                 0
+              COMPLETED             86                 0
+              COMPLETED             74                 0
+              COMPLETED            328                10
+              COMPLETED             49                 0
+              COMPLETED             32                 0
+              COMPLETED             57                 0
+                                               message
+ Risultato recuperato dal CSV esistente: 4729 termini.
+  Risultato recuperato dal CSV esistente: 634 termini.
+  Risultato recuperato dal CSV esistente: 964 termini.
+ Risultato recuperato dal CSV esistente: 1424 termini.
+ Risultato recuperato dal CSV esistente: 3235 termini.
+  Risultato recuperato dal CSV esistente: 478 termini.
+  Risultato recuperato dal CSV esistente: 649 termini.
+ Risultato recuperato dal CSV esistente: 1081 termini.
+ Risultato recuperato dal CSV esistente: 2137 termini.
+  Risultato recuperato dal CSV esistente: 398 termini.
+  Risultato recuperato dal CSV esistente: 451 termini.
+  Risultato recuperato dal CSV esistente: 823 termini.
+ Risultato recuperato dal CSV esistente: 2507 termini.
+  Risultato recuperato dal CSV esistente: 311 termini.
+  Risultato recuperato dal CSV esistente: 472 termini.
+  Risultato recuperato dal CSV esistente: 631 termini.
+                        Nessun gene Entrez nel gruppo.
+                        Nessun gene Entrez nel gruppo.
+                        Nessun gene Entrez nel gruppo.
+                        Nessun gene Entrez nel gruppo.
+                               474 termini restituiti.
+                                62 termini restituiti.
+                                79 termini restituiti.
+                               173 termini restituiti.
+                               308 termini restituiti.
+                                56 termini restituiti.
+                                47 termini restituiti.
+                               182 termini restituiti.
+                              1732 termini restituiti.
+                               359 termini restituiti.
+                               379 termini restituiti.
+                               621 termini restituiti.
+                              4933 termini restituiti.
+                               676 termini restituiti.
+                              1014 termini restituiti.
+                              1532 termini restituiti.
+                              2370 termini restituiti.
+                               329 termini restituiti.
+                               486 termini restituiti.
+                               709 termini restituiti.
+                              1383 termini restituiti.
+                               211 termini restituiti.
+                               279 termini restituiti.
+                               463 termini restituiti.
+                              1769 termini restituiti.
+                               239 termini restituiti.
+                               348 termini restituiti.
+                               426 termini restituiti.
+                        Nessun gene Entrez nel gruppo.
+                        Nessun gene Entrez nel gruppo.
+                        Nessun gene Entrez nel gruppo.
+                        Nessun gene Entrez nel gruppo.
+                               314 termini restituiti.
+                                38 termini restituiti.
+                                86 termini restituiti.
+                               168 termini restituiti.
+                               309 termini restituiti.
+                                49 termini restituiti.
+                                86 termini restituiti.
+                                74 termini restituiti.
+                               328 termini restituiti.
+                                49 termini restituiti.
+                                32 termini restituiti.
+                                57 termini restituiti.
+
+INTERPRETAZIONE METODOLOGICA
+------------------------------------------------------------
+L'enrichment e' stato eseguito separatamente per ciascun contrasto e gruppo.
+L'universo e' costituito dai geni testati e mappabili a Entrez ID.
+Le liste con meno di 10 geni mappati non sono state analizzate.
+I risultati sono stati corretti con Benjamini-Hochberg all'interno di ciascuna analisi.
+Un risultato non significativo non dimostra assenza di rilevanza biologica.
+L'enrichment non dimostra attivazione o inibizione di pathway.
+Le liste esclusive dei metodi possono avere potenza limitata.
+I termini arricchiti non dimostrano effetti causali del knockdown.
+L'analisi non risolve la limitazione relativa agli effective lengths RSEM non disponibili.
+
+NOTA SUI RISULTATI RECUPERATI
+------------------------------------------------------------
+I CSV validi gia' presenti sono stati recuperati senza ripetere le rispettive analisi.
+I gruppi vuoti sono stati registrati come SKIPPED_EMPTY_GROUP.

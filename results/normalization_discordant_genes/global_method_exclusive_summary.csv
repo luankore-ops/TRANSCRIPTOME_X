@@ -1,0 +1,9 @@
+"contrast","method","exclusive_significant_genes"
+"siNRP1_3_vs_siNT","TMM",0
+"siNRP1_3_vs_siNT","TMMwsp",22
+"siNRP1_3_vs_siNT","RLE",10
+"siNRP1_3_vs_siNT","upperquartile",198
+"siNRP1_5_vs_siNT","TMM",0
+"siNRP1_5_vs_siNT","TMMwsp",25
+"siNRP1_5_vs_siNT","RLE",36
+"siNRP1_5_vs_siNT","upperquartile",13

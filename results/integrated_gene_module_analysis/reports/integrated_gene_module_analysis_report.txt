@@ -1,0 +1,778 @@
+============================================================
+TRANSCRIPTOME-X
+INTEGRATED GENE MODULE ANALYSIS - SCRIPT 33
+============================================================
+
+PROJECT: C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X 
+FDR CUTOFF: 0.05 
+
+INPUT FILES
+------------------------------------------------------------
+DE 1: C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/normalization_sensitivity/DE_TMM_siNRP1_3_vs_siNT.csv 
+DE 2: C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/normalization_sensitivity/DE_TMM_siNRP1_5_vs_siNT.csv 
+SIGNATURES: C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/functional_enrichment_interpretation/tables/significant_term_gene_signatures.csv 
+
+GLOBAL DIFFERENTIAL EXPRESSION
+------------------------------------------------------------
+         contrast
+ siNRP1_3_vs_siNT
+ siNRP1_5_vs_siNT
+                                                                                                             input_file
+ C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/normalization_sensitivity/DE_TMM_siNRP1_3_vs_siNT.csv
+ C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/normalization_sensitivity/DE_TMM_siNRP1_5_vs_siNT.csv
+ total_records records_with_symbol unique_symbols significant_genes up_genes down_genes
+         17531               17531          17475              2690     1165       1525
+         17531               17531          17475              3420     1647       1773
+
+MODULE SUMMARY
+------------------------------------------------------------
+                           module candidate_genes detected_siNRP1_3 detected_siNRP1_5
+                   ECM_REMODELING              52                47                47
+               TGFB_BMP_SIGNALING              32                28                28
+       CELL_ADHESION_CYTOSKELETON              49                48                48
+ GROWTH_FACTOR_RECEPTOR_SIGNALING              45                36                36
+ detected_both significant_siNRP1_3 significant_siNRP1_5 significant_both
+            47                   20                   25               18
+            28                   11                   12                7
+            48                   16                   16                7
+            36                   12                   16                8
+ significant_both_concordant significant_both_discordant up_siNRP1_3 down_siNRP1_3 up_siNRP1_5
+                          15                           3           4            16          11
+                           4                           3           1            10           6
+                           2                           5           2            14          12
+                           6                           2           4             8          10
+ down_siNRP1_5
+            14
+             6
+             4
+             6
+
+MODULE GENES WITH SIGNIFICANT RESULTS
+------------------------------------------------------------
+
+MODULE: ECM_REMODELING 
+ gene_symbol logFC_siNRP1_3  FDR_siNRP1_3 logFC_siNRP1_5   FDR_siNRP1_5 direction_concordance
+       TIMP3     -0.8826233 0.00198007401      2.2930395 0.000001994883            DISCORDANT
+       FBLN1     -1.5114465 0.00093637942     -2.5316040 0.000020500344            CONCORDANT
+      COL5A1     -2.2992936 0.00002119563     -0.8866318 0.001911826746            CONCORDANT
+       MATN2     -2.0825905 0.00006610548     -0.6436429 0.024113275404            CONCORDANT
+        MMP9      0.6471345 0.33955384382      3.7508984 0.000082196278            CONCORDANT
+       THBS1     -1.9130429 0.00009850147     -0.5727093 0.041282742277            CONCORDANT
+      COL4A2     -0.7852485 0.00520636244     -1.2723431 0.000128235474            CONCORDANT
+        MMP1      1.6285342 0.00047142540      1.4448017 0.000444974999            CONCORDANT
+        MMP3      1.1639702 0.05007031397      2.2684515 0.000544271240            CONCORDANT
+        RELN      3.4528828 0.00080962684      2.1448398 0.022871841772            CONCORDANT
+       TIMP2     -1.1781248 0.00085493633      0.5220759 0.041563692870            DISCORDANT
+       FRAS1     -1.2671450 0.00096699315     -0.5581608 0.044804215126            CONCORDANT
+    SERPINH1     -0.8062197 0.01784529304      1.1874412 0.001413558737            DISCORDANT
+       HTRA1     -1.6114456 0.00276333417     -1.3351283 0.004712537397            CONCORDANT
+    SERPINE1      0.2375402 0.38896999893     -0.9087023 0.003111902207            DISCORDANT
+         TNC     -0.1671405 0.59112221157      0.9597057 0.003538072560            DISCORDANT
+       TIMP4     -1.1937735 0.00415556577     -0.7102487 0.036988165235            CONCORDANT
+      COL6A1     -0.3904310 0.11847377296      0.7709173 0.004932054374            DISCORDANT
+      COL4A1     -0.8757171 0.00555682122     -0.3476390 0.176865951150            CONCORDANT
+        CCN2      0.7379655 0.02337581094      0.8767935 0.007692086933            CONCORDANT
+       PLOD2     -1.0455222 0.00802927248     -0.7231549 0.035243458239            CONCORDANT
+     ADAMTS6      2.1417084 0.00844450143      1.8560585 0.013469712451            CONCORDANT
+         VTN     -2.3264958 0.00978270048     -0.7097542 0.254472596692            CONCORDANT
+        CCN3     -0.9850759 0.01203308332     -0.8059750 0.024226963177            CONCORDANT
+         LUM     -1.4605881 0.02103897932     -1.3372893 0.026035948697            CONCORDANT
+         BGN     -0.9534021 0.42731824722     -4.1803473 0.021126619833            CONCORDANT
+       POSTN     -0.6727988 0.54933825147     -3.0517392 0.049995588467            CONCORDANT
+                 joint_class
+ SIGNIFICANT_BOTH_DISCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_DISCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_DISCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_5
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_3
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_5
+
+MODULE: TGFB_BMP_SIGNALING 
+ gene_symbol logFC_siNRP1_3  FDR_siNRP1_3 logFC_siNRP1_5 FDR_siNRP1_5 direction_concordance
+       THBS1    -1.91304292 0.00009850147     -0.5727093 0.0412827423            CONCORDANT
+      TGFBR3    -1.90075567 0.00023191611     -0.6494607 0.0343306682            CONCORDANT
+      TGFBR2     0.02526271 0.95593357683     -1.5844846 0.0007523002            DISCORDANT
+         ENG    -0.60040397 0.05160771411      1.2101445 0.0009615606            DISCORDANT
+      BMPR1B    -1.92228351 0.00120605884     -0.6360236 0.0949231049            CONCORDANT
+      ACVR2B     0.09262726 0.79950795911      1.2301158 0.0012276746            CONCORDANT
+       TGFB2    -0.98790949 0.00445560353      1.0660136 0.0015593154            DISCORDANT
+       SMAD6    -1.34939325 0.00410580362     -0.4038957 0.2597051239            CONCORDANT
+        BMP5    -1.30675194 0.02987039840      1.3283791 0.0056102272            DISCORDANT
+        BMP4    -1.07478437 0.00713092622      0.7200604 0.0356030145            DISCORDANT
+        CCN2     0.73796554 0.02337581094      0.8767935 0.0076920869            CONCORDANT
+        CCN3    -0.98507591 0.01203308332     -0.8059750 0.0242269632            CONCORDANT
+       SMAD2    -0.46906858 0.06690514773     -0.5801260 0.0241132754            CONCORDANT
+         NOG    -0.68333643 0.03024784718      0.2625731 0.3657403948            DISCORDANT
+       TGFB3    -0.85377832 0.04519455157     -0.7787876 0.0558024323            CONCORDANT
+        BMP6     0.51141038 0.29256129485     -1.2408152 0.0457041569            DISCORDANT
+                 joint_class
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_5
+ SIGNIFICANT_BOTH_DISCORDANT
+   SIGNIFICANT_ONLY_siNRP1_3
+ SIGNIFICANT_BOTH_DISCORDANT
+ SIGNIFICANT_BOTH_DISCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_5
+
+MODULE: CELL_ADHESION_CYTOSKELETON 
+ gene_symbol logFC_siNRP1_3  FDR_siNRP1_3 logFC_siNRP1_5   FDR_siNRP1_5 direction_concordance
+       TAGLN     2.56484000 0.00002119563    3.484676377 0.000001009091            CONCORDANT
+        SDC1    -0.22517766 0.31300719967   -2.347585253 0.000001931076            CONCORDANT
+        CDH1    -3.83424443 0.00041128558    2.873216255 0.000012428119            DISCORDANT
+       FSCN1    -0.13710394 0.65738265810    1.895934150 0.000031943108            DISCORDANT
+      CTNNB1    -1.66384342 0.00006610548   -0.117868000 0.617764091693            CONCORDANT
+        CNN1     0.63144814 0.45936643015    3.365533303 0.000106090463            CONCORDANT
+       ITGB4     0.05056849 0.91781984262   -2.061698775 0.000230177298            DISCORDANT
+        CAV2    -0.42429644 0.06163040940    0.991920835 0.000452089350            DISCORDANT
+       ITGA6    -1.17722628 0.00055614769    0.451011797 0.054394925164            DISCORDANT
+        SDC2    -1.25185253 0.00088751369    0.702261259 0.012849916998            DISCORDANT
+      PDLIM1    -0.57474383 0.01502044721    0.859969266 0.001022838286            DISCORDANT
+        GPC1    -1.16347840 0.00131558282    0.818097789 0.005884596429            DISCORDANT
+        PAK2    -0.85426079 0.00377858681   -0.710128487 0.006890745651            CONCORDANT
+      PDLIM5     0.51340094 0.06991018459    0.841537242 0.005753077343            CONCORDANT
+        MYL9     0.91417957 0.00587471004    0.474117631 0.083813615574            CONCORDANT
+         VIM    -0.73879255 0.00587471004    0.009384725 0.972202124058            DISCORDANT
+        SDC4    -1.07817449 0.00704914794   -0.494336645 0.136725762470            CONCORDANT
+       ITGB5    -1.02276056 0.01082093766    0.011916359 0.977117051842            DISCORDANT
+        TPM1    -0.73081269 0.01732171537    0.593263375 0.035603014517            DISCORDANT
+       ROCK2    -0.72016676 0.08446747306   -0.926392850 0.027991785983            CONCORDANT
+       ITGA1    -1.01303619 0.02997200784    0.135946522 0.769882055321            DISCORDANT
+       ITGA2    -0.70731585 0.03001418769    0.554558401 0.065650562033            DISCORDANT
+       MYH10    -0.56592132 0.03425587243    0.406271599 0.099170217225            DISCORDANT
+         VCL    -0.10499617 0.63868427038    0.432469223 0.037851844846            DISCORDANT
+        CAV1    -0.40390607 0.21486544281    0.666096819 0.040856666675            DISCORDANT
+                 joint_class
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+ SIGNIFICANT_BOTH_DISCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+ SIGNIFICANT_BOTH_DISCORDANT
+ SIGNIFICANT_BOTH_DISCORDANT
+ SIGNIFICANT_BOTH_DISCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_3
+ SIGNIFICANT_BOTH_DISCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_5
+
+MODULE: GROWTH_FACTOR_RECEPTOR_SIGNALING 
+ gene_symbol logFC_siNRP1_3 FDR_siNRP1_3 logFC_siNRP1_5    FDR_siNRP1_5 direction_concordance
+        NRP1     -0.6928770 0.0247835266     -4.8769530 0.0000003023637            CONCORDANT
+        IL6R     -1.1869870 0.0023642461      1.8175750 0.0000498725985            DISCORDANT
+       PDGFB     -0.3592982 0.4960962605      2.8069988 0.0000788012902            DISCORDANT
+         MET      1.1422870 0.0029227105      1.7785549 0.0000817506860            CONCORDANT
+         KDR      0.3277732 0.4265187649      2.0710847 0.0000856557766            CONCORDANT
+        GRB2     -0.9478246 0.0009363794      0.1098624 0.6140847942328            DISCORDANT
+         IL6     -0.8552613 0.0726405570     -1.9360710 0.0009737765583            CONCORDANT
+         LYN     -0.3997125 0.0822251866     -0.8851606 0.0012276745917            CONCORDANT
+        EGFR     -1.0490724 0.0015360700     -0.3580385 0.1431284710828            CONCORDANT
+      PIK3CA     -1.5878855 0.0029227105     -0.9037572 0.0324739544526            CONCORDANT
+      IGFBP3     -0.9903621 0.0036706488      0.7121713 0.0139758039799            DISCORDANT
+       VEGFC      0.6176529 0.0127588048      0.6571205 0.0067357581945            CONCORDANT
+        CCN2      0.7379655 0.0233758109      0.8767935 0.0076920869331            CONCORDANT
+         EGF     -0.9344993 0.0692726495     -1.4848729 0.0112773296631            CONCORDANT
+        FGF1      1.1640637 0.0149539057      0.9148821 0.0378517635254            CONCORDANT
+        FLT1     -0.1780334 0.8160390221      1.3638984 0.0169394874014            DISCORDANT
+       FGFR3     -1.5383456 0.0170117295      0.1004802 0.8608151938564            DISCORDANT
+       IGF1R     -0.7549592 0.0298958488     -0.3229279 0.3114213429872            CONCORDANT
+       ERBB2      0.2017154 0.4698701060     -0.5654735 0.0378272427736            DISCORDANT
+      PDGFRB      0.1017873 0.8001096548      0.7040909 0.0422640052440            CONCORDANT
+                 joint_class
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_DISCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_DISCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+ SIGNIFICANT_BOTH_CONCORDANT
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_3
+   SIGNIFICANT_ONLY_siNRP1_5
+   SIGNIFICANT_ONLY_siNRP1_5
+
+SIGNATURE-MODULE OVERLAP
+------------------------------------------------------------
+         contrast              group ontology
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       MF
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       MF
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       MF
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT   ALTERNATIVE_ONLY Reactome
+ siNRP1_5_vs_siNT   ALTERNATIVE_ONLY Reactome
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS Reactome
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS Reactome
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       MF
+ siNRP1_3_vs_siNT      EXCLUSIVE_RLE       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       MF
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       MF
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS Reactome
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       MF
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS Reactome
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT      EXCLUSIVE_RLE       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       CC
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_3_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+ siNRP1_5_vs_siNT COMMON_ALL_METHODS       BP
+                                                                    term
+                                                         actinin binding
+                                           activation of immune response
+                                       actomyosin structure organization
+                                                            angiogenesis
+                                              animal organ morphogenesis
+                                    anterograde trans-synaptic signaling
+                                                        axon development
+                                                            axonogenesis
+                                                       blood circulation
+                                                blood vessel development
+                                              blood vessel morphogenesis
+                                                   BMP signaling pathway
+                                                       brain development
+                                                     calcium ion binding
+                                              cardiac muscle contraction
+                                       cardiac muscle tissue development
+                                     cardiac muscle tissue morphogenesis
+                                           cardiac ventricle development
+                                         cardiac ventricle morphogenesis
+                                                      cell-cell junction
+                                                 cell-substrate junction
+                                         cell adhesion mediator activity
+                                                         cell chemotaxis
+                                                             cell growth
+                   cell morphogenesis involved in neuron differentiation
+                                           cell projection morphogenesis
+ cell surface receptor protein serine/threonine kinase signaling pathway
+         cell surface receptor protein tyrosine kinase signaling pathway
+         cell surface receptor protein tyrosine kinase signaling pathway
+                                cellular anatomical entity morphogenesis
+                   cellular component assembly involved in morphogenesis
+                                       cellular response to BMP stimulus
+                            cellular response to decreased oxygen levels
+                             cellular response to growth factor stimulus
+                             cellular response to growth factor stimulus
+                                            cellular response to hypoxia
+                                      cellular response to oxygen levels
+                                          chemical synaptic transmission
+                                              circulatory system process
+                                                contractile muscle fiber
+                                             cortical actin cytoskeleton
+                                                   cortical cytoskeleton
+                                                    developmental growth
+                          developmental growth involved in morphogenesis
+         Developmental Lineage of Mammary Gland Luminal Epithelial Cells
+              Developmental Lineage of Mammary Gland Myoepithelial Cells
+                                                       ECM proteoglycans
+                                                 embryonic morphogenesis
+                                                       endocytic vesicle
+                                              endocytic vesicle membrane
+                                             endoplasmic reticulum lumen
+                                          endothelial cell proliferation
+                                                   epidermis development
+                                         epithelial cell differentiation
+                                           epithelial cell proliferation
+                                    epithelial to mesenchymal transition
+                           establishment or maintenance of cell polarity
+                                        external encapsulating structure
+                                        external encapsulating structure
+                           external encapsulating structure organization
+                                        external side of plasma membrane
+                                                    extracellular matrix
+                                                    extracellular matrix
+                                       extracellular matrix organization
+                                       Extracellular matrix organization
+                                    extracellular structure organization
+                                        fibroblast growth factor binding
+                                                              filopodium
+                                                          focal adhesion
+                                                   forebrain development
+                            G protein-coupled receptor signaling pathway
+                                       glycoprotein biosynthetic process
+                                          glycoprotein metabolic process
+                                                                  growth
+                                                   growth factor binding
+                                                   growth factor binding
+                                                        head development
+                                                       heart contraction
+                                                       heart development
+                                                           heart process
+                                                              hemostasis
+                                                              Hemostasis
+      immune response-activating cell surface receptor signaling pathway
+      immune response-regulating cell surface receptor signaling pathway
+                            immune response-regulating signaling pathway
+                                      insulin-like growth factor binding
+                                            keratinocyte differentiation
+                                                    Laminin interactions
+                                            leukocyte cell-cell adhesion
+                                                     leukocyte migration
+                                                   lymphocyte activation
+                                                    membrane microdomain
+                                                           membrane raft
+                                        mesenchymal cell differentiation
+                                                  mesenchyme development
+                                                             microvillus
+                                          morphogenesis of an epithelium
+                              multicellular organismal-level homeostasis
+                                             muscle cell differentiation
+                                                      muscle contraction
+                                                muscle organ development
+                                              muscle organ morphogenesis
+                                            muscle structure development
+                                            muscle structure development
+                                                   muscle system process
+                                               muscle tissue development
+                                             muscle tissue morphogenesis
+                                                               myofibril
+                                                      myofibril assembly
+                                    negative regulation of cell adhesion
+                             negative regulation of cell differentiation
+                                    negative regulation of cell motility
+                    negative regulation of cell population proliferation
+                        negative regulation of cytoskeleton organization
+                   negative regulation of endothelial cell proliferation
+                    negative regulation of epithelial cell proliferation
+                                       negative regulation of locomotion
+                negative regulation of supramolecular fiber organization
+                                         neuron projection morphogenesis
+                                                neuron to neuron synapse
+                                                            ossification
+                   plasma membrane bounded cell projection morphogenesis
+                                         plasma membrane protein complex
+                               positive regulation of cell-cell adhesion
+                                  positive regulation of cell activation
+                                    positive regulation of cell adhesion
+                                   positive regulation of cell migration
+                                    positive regulation of cell motility
+                             positive regulation of leukocyte activation
+                     positive regulation of leukocyte cell-cell adhesion
+                                       positive regulation of locomotion
+                            positive regulation of lymphocyte activation
+                                positive regulation of T cell activation
+                                          protein O-linked glycosylation
+                                                        receptor complex
+                                                        receptor complex
+                                              regulation of angiogenesis
+                               regulation of apoptotic signaling pathway
+                                         regulation of blood circulation
+                                         regulation of body fluid levels
+                                           regulation of cell activation
+                                               regulation of cell growth
+                              regulation of cell projection organization
+               regulation of cellular response to growth factor stimulus
+                            regulation of endothelial cell proliferation
+                             regulation of epithelial cell proliferation
+                                                    regulation of growth
+                                         regulation of heart contraction
+                                      regulation of leukocyte activation
+                              regulation of leukocyte cell-cell adhesion
+                                     regulation of lymphocyte activation
+                                        regulation of muscle contraction
+                                     regulation of muscle system process
+      regulation of plasma membrane bounded cell projection organization
+                                           regulation of ruffle assembly
+                                            regulation of system process
+                                         regulation of T cell activation
+                                   regulation of vasculature development
+                                                   response to bacterium
+                                                         response to BMP
+                                     response to decreased oxygen levels
+                                               response to growth factor
+                                                     response to hypoxia
+                                     response to reactive oxygen species
+                                                    response to wounding
+                                         response to xenobiotic stimulus
+                     module module_genes_in_signature
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         5
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         6
+ CELL_ADHESION_CYTOSKELETON                         6
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         7
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         6
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         6
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         5
+ CELL_ADHESION_CYTOSKELETON                         5
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         5
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         6
+ CELL_ADHESION_CYTOSKELETON                         8
+ CELL_ADHESION_CYTOSKELETON                         6
+ CELL_ADHESION_CYTOSKELETON                         5
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         6
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         6
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         2
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         3
+ CELL_ADHESION_CYTOSKELETON                         1
+ CELL_ADHESION_CYTOSKELETON                         4
+ CELL_ADHESION_CYTOSKELETON                         1
+ [ reached 'max' / getOption("max.print") -- omitted 546 rows ]
+
+FINAL AUDIT
+------------------------------------------------------------
+                           metric value
+              DE records siNRP1.3 17531
+              DE records siNRP1.5 17531
+          Unique symbols siNRP1.3 17475
+          Unique symbols siNRP1.5 17475
+ Common symbols between contrasts 17475
+  Candidate module genes (unique)   174
+        Module comparison records   159
+ Module genes significant in both    40
+  Module genes concordant in both    27
+  Module genes discordant in both    13
+
+INTERPRETATION NOTES
+------------------------------------------------------------
+1. I moduli sono liste candidate definite a priori.
+2. L'appartenenza a un modulo non dimostra attivazione di pathway.
+3. Il logFC descrive l'espressione relativa rispetto a siNT.
+4. La concordanza indica lo stesso segno del logFC nei due contrasti.
+5. I simboli duplicati sono risolti scegliendo il record con FDR minore.
+6. I record duplicati originali sono documentati nell'audit.
+7. Le analisi sono descrittive e non dimostrano causalita'.
+8. Le liste candidate non costituiscono un test formale di gene set.
+9. Le firme enrichment sono integrate solo se contengono simboli leggibili.
+
+============================================================
+END OF REPORT
+============================================================

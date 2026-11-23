@@ -1,0 +1,161 @@
+============================================================
+TRANSCRIPTOME-X
+SCRIPT 36 - SHARED PATHWAY PRIORITY ANALYSIS
+============================================================
+
+INPUT
+Pathway-gene evidence records: 15399 
+Unique genes: 1913 
+Unique pathways: 282 
+
+PATHWAY STATUS
+ pathway_status pathway_count
+  ONLY_siNRP1_5           231
+  ONLY_siNRP1_3            39
+         SHARED            12
+
+PRIORITY CLASS DISTRIBUTION
+  priority_class pathway_count
+     EXPLORATORY            40
+   HIGH_PRIORITY            44
+ MEDIUM_PRIORITY           198
+
+SHARED PATHWAYS
+Number of shared pathways: 12 
+
+ shared_rank                                                            term priority_score
+           1                     cellular response to growth factor stimulus          90.79
+           2 cell surface receptor protein tyrosine kinase signaling pathway          89.53
+           3                                    muscle structure development          89.31
+           4                           signaling receptor regulator activity          83.84
+           5                           signaling receptor activator activity          82.03
+           6                                        receptor ligand activity          81.03
+           7                                external encapsulating structure          78.40
+           8                                            extracellular matrix          78.40
+           9                                                    ossification          74.65
+          10                                                 cell chemotaxis          74.57
+          11                                                receptor complex          72.98
+          12                                           growth factor binding          64.92
+  priority_class total_genes significant_both concordant_genes discordant_genes
+   HIGH_PRIORITY         196               38               24               14
+   HIGH_PRIORITY         182               36               24               12
+   HIGH_PRIORITY         170               41               29               12
+   HIGH_PRIORITY         142               36               25               11
+   HIGH_PRIORITY         137               33               22               11
+   HIGH_PRIORITY         133               32               21               11
+   HIGH_PRIORITY         124               34               20               14
+   HIGH_PRIORITY         124               34               20               14
+ MEDIUM_PRIORITY         111               27               15               12
+ MEDIUM_PRIORITY          93               21               15                6
+ MEDIUM_PRIORITY         103               19               11                8
+ MEDIUM_PRIORITY          57               14                9                5
+                                                                                                                                                                                                                    modules
+                                                                        CELL_ADHESION_CYTOSKELETON;ECM_REMODELING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+                                                                        CELL_ADHESION_CYTOSKELETON;ECM_REMODELING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+                                                                        CELL_ADHESION_CYTOSKELETON;ECM_REMODELING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+                                                                                                   ECM_REMODELING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+                                                                                                   ECM_REMODELING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+                                                                                                   ECM_REMODELING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+ CELL_ADHESION_CYTOSKELETON;ECM_REMODELING;ECM_REMODELING | GROWTH_FACTOR_RECEPTOR_SIGNALING | TGFB_BMP_SIGNALING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+ CELL_ADHESION_CYTOSKELETON;ECM_REMODELING;ECM_REMODELING | GROWTH_FACTOR_RECEPTOR_SIGNALING | TGFB_BMP_SIGNALING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+ CELL_ADHESION_CYTOSKELETON;ECM_REMODELING;ECM_REMODELING | GROWTH_FACTOR_RECEPTOR_SIGNALING | TGFB_BMP_SIGNALING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+                                                                        CELL_ADHESION_CYTOSKELETON;ECM_REMODELING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+                                                                                                                           CELL_ADHESION_CYTOSKELETON;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+ CELL_ADHESION_CYTOSKELETON;ECM_REMODELING;ECM_REMODELING | GROWTH_FACTOR_RECEPTOR_SIGNALING | TGFB_BMP_SIGNALING;ECM_REMODELING | TGFB_BMP_SIGNALING;GROWTH_FACTOR_RECEPTOR_SIGNALING;NO_DEFINED_MODULE;TGFB_BMP_SIGNALING
+
+GENE-LEVEL DIRECTIONAL EVIDENCE
+Significant in both contrasts: 4103 
+Concordant records: 2629 
+Discordant records: 1474 
+
+MODULE SUPPORT
+                                                                 module pathway_count
+                                                      NO_DEFINED_MODULE           282
+                                                         ECM_REMODELING           108
+                                             CELL_ADHESION_CYTOSKELETON           176
+                                       GROWTH_FACTOR_RECEPTOR_SIGNALING           177
+                                                     TGFB_BMP_SIGNALING           167
+                                    ECM_REMODELING | TGFB_BMP_SIGNALING            87
+ ECM_REMODELING | GROWTH_FACTOR_RECEPTOR_SIGNALING | TGFB_BMP_SIGNALING             9
+ unique_gene_count significant_siNRP1_3 significant_siNRP1_5 significant_both concordant_genes
+              1833                  758                 1399              345              241
+                23                   17                   21               15               12
+                24                   14                   16                7                2
+                18                   11                   14                7                5
+                12                    7                    9                4                1
+                 2                    2                    2                2                2
+                 1                    1                    1                1                1
+ discordant_genes directional_concordance
+              104                  0.6986
+                3                  0.8000
+                5                  0.2857
+                2                  0.7143
+                3                  0.2500
+                0                  1.0000
+                0                  1.0000
+
+TOP 15 PRIORITIZED PATHWAYS
+ priority_rank                                                               term
+             1                        cellular response to growth factor stimulus
+             2    cell surface receptor protein tyrosine kinase signaling pathway
+             3                                       muscle structure development
+             4                         multicellular organismal-level homeostasis
+             5                              signaling receptor regulator activity
+             6                                                             growth
+             7                                            vasculature development
+             8                                          response to growth factor
+             9                         regulation of cell projection organization
+            10                                           blood vessel development
+            11                              signaling receptor activator activity
+            12 regulation of plasma membrane bounded cell projection organization
+            13                                         blood vessel morphogenesis
+            14                                           receptor ligand activity
+            15                                                calcium ion binding
+ pathway_status priority_score priority_class significant_genes_siNRP1_3
+         SHARED          90.79  HIGH_PRIORITY                         94
+         SHARED          89.53  HIGH_PRIORITY                        100
+         SHARED          89.31  HIGH_PRIORITY                         84
+  ONLY_siNRP1_5          83.96  HIGH_PRIORITY                         29
+         SHARED          83.84  HIGH_PRIORITY                         65
+  ONLY_siNRP1_5          83.84  HIGH_PRIORITY                         36
+  ONLY_siNRP1_5          83.28  HIGH_PRIORITY                         37
+  ONLY_siNRP1_5          83.12  HIGH_PRIORITY                         38
+  ONLY_siNRP1_5          82.43  HIGH_PRIORITY                         32
+  ONLY_siNRP1_5          82.33  HIGH_PRIORITY                         37
+         SHARED          82.03  HIGH_PRIORITY                         62
+  ONLY_siNRP1_5          81.60  HIGH_PRIORITY                         31
+  ONLY_siNRP1_5          81.05  HIGH_PRIORITY                         35
+         SHARED          81.03  HIGH_PRIORITY                         60
+  ONLY_siNRP1_5          80.25  HIGH_PRIORITY                         31
+ significant_genes_siNRP1_5 concordant_genes discordant_genes
+                        139               24               14
+                        118               24               12
+                        127               29               12
+                        130               23                6
+                        110               25               11
+                        127               28                8
+                        143               24               13
+                        144               24               14
+                        130               23                9
+                        137               24               13
+                        105               22               11
+                        127               22                9
+                        129               23               12
+                        102               21               11
+                        114               23                8
+
+METHODOLOGICAL NOTES
+- Pathway status reflects signature membership in Script 35.
+- Gene counts are unique within each pathway.
+- A gene may contribute to multiple pathways.
+- Concordance is evaluated only for genes significant in both contrasts with valid directions.
+- The priority score is descriptive and uses the documented weighted components.
+- Pathway prioritization does not demonstrate pathway activation or inhibition.
+- No new enrichment tests or differential expression analyses were performed.
+
+OUTPUT DIRECTORY
+C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/shared_pathway_priority 
+
+============================================================
+END OF SCRIPT 36
+============================================================

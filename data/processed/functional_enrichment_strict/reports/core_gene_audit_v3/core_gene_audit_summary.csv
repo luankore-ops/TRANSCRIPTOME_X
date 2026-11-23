@@ -1,0 +1,4 @@
+"comparison","direction","total_records","strict_records","unresolved_records","significant_DE","direction_consistent"
+"siNRP1_3_vs_siNT","DOWN",744,703,41,703,0
+"siNRP1_5_vs_siNT","DOWN",156,143,13,143,0
+"siNRP1_5_vs_siNT","UP",861,809,52,809,0

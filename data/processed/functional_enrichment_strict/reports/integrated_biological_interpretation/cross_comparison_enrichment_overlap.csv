@@ -1,0 +1,9 @@
+"direction","method","terms_siNRP1_3","terms_siNRP1_5","shared_terms","only_siNRP1_3","only_siNRP1_5","jaccard"
+"UP","BP",0,269,0,0,269,0
+"UP","MF",0,20,0,0,20,0
+"UP","CC",0,45,0,0,45,0
+"UP","REACTOME",0,60,0,0,60,0
+"DOWN","BP",110,10,0,110,10,0
+"DOWN","MF",14,0,0,14,0,0
+"DOWN","CC",29,4,0,29,4,0
+"DOWN","REACTOME",4,1,0,4,1,0

@@ -1,0 +1,9 @@
+"method","contrast","genes_tested","significant_FDR_0_05","significant_FDR_0_01"
+"TMM","siNRP1_3_vs_siNT",17531,2690,1018
+"TMM","siNRP1_5_vs_siNT",17531,3420,1610
+"TMMwsp","siNRP1_3_vs_siNT",17531,2710,1025
+"TMMwsp","siNRP1_5_vs_siNT",17531,3418,1610
+"RLE","siNRP1_3_vs_siNT",17531,2705,1022
+"RLE","siNRP1_5_vs_siNT",17531,3435,1602
+"upperquartile","siNRP1_3_vs_siNT",17531,2677,951
+"upperquartile","siNRP1_5_vs_siNT",17531,3416,1602

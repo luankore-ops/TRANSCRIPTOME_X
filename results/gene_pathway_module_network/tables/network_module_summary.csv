@@ -1,0 +1,5 @@
+"module","unique_genes","pathways_represented","significant_both","concordant_genes","discordant_genes","multi_module_genes","mean_hub_score"
+"ECM_REMODELING",26,19,18,15,3,3,52.47
+"CELL_ADHESION_CYTOSKELETON",24,23,7,2,5,0,43.51
+"GROWTH_FACTOR_RECEPTOR_SIGNALING",19,17,8,6,2,1,56.82
+"TGFB_BMP_SIGNALING",15,14,7,4,3,3,60.06

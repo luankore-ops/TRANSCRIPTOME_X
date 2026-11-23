@@ -1,0 +1,2200 @@
+"node_id","community_id"
+"G::A2M",1
+"G::AAMP",1
+"G::ABCA5",2
+"G::ABCC3",3
+"G::ABCC4",1
+"G::ABCC6",3
+"G::ABCG1",4
+"G::ABHD10",3
+"G::ABHD12",5
+"G::ABHD17A",2
+"G::ABI3",6
+"G::ABRAXAS2",7
+"G::ACAA1",3
+"G::ACACB",6
+"G::ACADVL",3
+"G::ACBD3",7
+"G::ACER2",3
+"G::ACHE",8
+"G::ACSM3",9
+"G::ACTB",2
+"G::ACTBL2",6
+"G::ACTL6A",2
+"G::ACVR2B",5
+"G::ACVRL1",10
+"G::ADAM10",1
+"G::ADAM12",1
+"G::ADAM22",2
+"G::ADAM9",5
+"G::ADAMTS15",1
+"G::ADAMTS3",1
+"G::ADAMTS6",1
+"G::ADAMTS7",5
+"G::ADAMTSL1",1
+"G::ADAMTSL5",1
+"G::ADGRA3",4
+"G::ADGRD1",9
+"G::ADGRE1",4
+"G::ADGRE5",7
+"G::ADGRF1",11
+"G::ADGRF5",11
+"G::ADGRG1",5
+"G::ADGRG6",5
+"G::ADNP",6
+"G::ADORA1",8
+"G::ADORA2A",8
+"G::ADORA2B",8
+"G::AFAP1L2",5
+"G::AFF3",1
+"G::AGA",12
+"G::AGFG2",9
+"G::AGO1",10
+"G::AGPAT2",3
+"G::AGRN",11
+"G::AHDC1",10
+"G::AHR",2
+"G::AHRR",3
+"G::AIM2",6
+"G::AIP",5
+"G::AK4",13
+"G::AKAP11",5
+"G::AKAP12",2
+"G::AKAP9",9
+"G::AKR1A1",1
+"G::AKR1C1",3
+"G::AKR1C2",11
+"G::AKR1C3",3
+"G::ALAD",2
+"G::ALCAM",5
+"G::ALDH1A3",1
+"G::ALOXE3",3
+"G::ALPK3",9
+"G::ALPP",4
+"G::AMIGO2",6
+"G::AMN",3
+"G::AMOTL1",10
+"G::ANGPTL2",7
+"G::ANKRD1",9
+"G::ANKRD2",9
+"G::ANKRD6",7
+"G::ANLN",7
+"G::ANXA1",2
+"G::ANXA5",7
+"G::ANXA6",7
+"G::ANXA8",7
+"G::ANXA8L1",4
+"G::AOC2",3
+"G::AOC3",4
+"G::APH1A",4
+"G::APH1B",4
+"G::API5",5
+"G::APLN",10
+"G::APLP1",6
+"G::APOE",6
+"G::APOL1",1
+"G::APOOL",1
+"G::AQP1",3
+"G::AQP3",3
+"G::AQP5",1
+"G::AQP5-AS1",5
+"G::AREG",11
+"G::ARG2",2
+"G::ARHGAP24",7
+"G::ARHGAP31",7
+"G::ARHGAP33",6
+"G::ARHGEF16",10
+"G::ARHGEF18",7
+"G::ARHGEF19",7
+"G::ARHGEF40",6
+"G::ARHGEF6",7
+"G::ARID4A",5
+"G::ARID4B",5
+"G::ARL13B",6
+"G::ARL14",7
+"G::ARMC10",3
+"G::ARMCX5-GPRASP2",6
+"G::ARNT2",3
+"G::ARPIN",6
+"G::ARRB1",9
+"G::ARRB2",9
+"G::ARRDC3",3
+"G::ARSA",1
+"G::ARSB",1
+"G::ARSD",1
+"G::ARTN",11
+"G::AS3MT",3
+"G::ASB2",1
+"G::ASGR1",4
+"G::ASH1L",7
+"G::ASPSCR1",4
+"G::ASXL2",9
+"G::ATAD1",8
+"G::ATG12",4
+"G::ATL1",6
+"G::ATM",2
+"G::ATOH8",1
+"G::ATP1A1",9
+"G::ATP1A3",8
+"G::ATP1B1",1
+"G::ATP1B3",1
+"G::ATP2A3",9
+"G::ATP2B2",1
+"G::ATP2C1",4
+"G::ATP5F1A",10
+"G::ATP5F1C",13
+"G::ATP5IF1",13
+"G::ATP5ME",13
+"G::ATP5PF",6
+"G::ATP6V0A4",4
+"G::ATP6V0C",4
+"G::ATP6V0D1",1
+"G::ATP6V0D2",1
+"G::ATP6V0E2",4
+"G::ATP6V1E1",1
+"G::ATP8B1",6
+"G::ATXN7",7
+"G::AURKA",3
+"G::AVPR2",6
+"G::B3GALNT1",12
+"G::B3GALT9",12
+"G::B4GALNT1",12
+"G::B4GALT4",12
+"G::B4GALT5",12
+"G::BACE1",8
+"G::BACE2",12
+"G::BAK1",3
+"G::BAMBI",5
+"G::BANF1",2
+"G::BANK1",2
+"G::BARD1",3
+"G::BCAP29",5
+"G::BCAR1",2
+"G::BCAT2",14
+"G::BCCIP",7
+"G::BCL7A",2
+"G::BCOR",9
+"G::BDH1",4
+"G::BDNF",6
+"G::BECN1",3
+"G::BGN",1
+"G::BHLHA15",9
+"G::BHLHE41",9
+"G::BICRAL",2
+"G::BID",3
+"G::BMI1",15
+"G::BMP1",1
+"G::BMP4",2
+"G::BMP5",5
+"G::BMP6",5
+"G::BMP8A",5
+"G::BMPR1B",12
+"G::BNIP3",3
+"G::BNIPL",6
+"G::BORCS7",4
+"G::BRCA2",10
+"G::BRMS1L",5
+"G::BRSK2",6
+"G::BSCL2",3
+"G::BSN",7
+"G::BTBD7",10
+"G::BTG2",3
+"G::BTN2A2",2
+"G::BTN3A2",2
+"G::BTN3A3",2
+"G::BTRC",2
+"G::C12ORF57",9
+"G::C1GALT1C1L",12
+"G::C1QBP",10
+"G::C1S",4
+"G::C2CD2L",1
+"G::C3",10
+"G::C3AR1",10
+"G::C5",11
+"G::C5AR2",10
+"G::C9ORF72",6
+"G::CA12",1
+"G::CA2",11
+"G::CABLES1",1
+"G::CABYR",4
+"G::CACHD1",4
+"G::CACNA2D1",9
+"G::CACNB4",9
+"G::CAD",3
+"G::CALB2",7
+"G::CALCOCO2",7
+"G::CALM2",9
+"G::CALM3",9
+"G::CALU",1
+"G::CAMK1",8
+"G::CAMK2D",9
+"G::CAMK2G",8
+"G::CAMK2N1",8
+"G::CAMKMT",11
+"G::CAMSAP1",7
+"G::CANX",1
+"G::CAPN1",7
+"G::CAPRIN1",6
+"G::CAPZA1",7
+"G::CAPZB",7
+"G::CARM1",6
+"G::CARMIL1",7
+"G::CARMIL2",7
+"G::CASP1",2
+"G::CASP6",3
+"G::CASP7",9
+"G::CAST",1
+"G::CAV1",9
+"G::CAV2",9
+"G::CAV3",9
+"G::CAVIN1",4
+"G::CAVIN4",9
+"G::CBFB",2
+"G::CBLB",2
+"G::CBR3",3
+"G::CBX5",1
+"G::CCBE1",10
+"G::CCDC134",2
+"G::CCDC32",6
+"G::CCDC47",5
+"G::CCDC88A",5
+"G::CCL2",10
+"G::CCL24",10
+"G::CCL26",10
+"G::CCL3",11
+"G::CCL3L1",11
+"G::CCN2",5
+"G::CCN3",10
+"G::CCN5",1
+"G::CCNA2",3
+"G::CCNO",3
+"G::CCR10",5
+"G::CCRL2",5
+"G::CCSAP",7
+"G::CD180",2
+"G::CD22",2
+"G::CD24",2
+"G::CD248",1
+"G::CD274",2
+"G::CD320",11
+"G::CD34",1
+"G::CD44",2
+"G::CD47",1
+"G::CD52",4
+"G::CD55",2
+"G::CD59",7
+"G::CD68",2
+"G::CD7",2
+"G::CD74",2
+"G::CD79B",2
+"G::CD82",4
+"G::CD83",4
+"G::CD8A",2
+"G::CD9",7
+"G::CDC42BPG",9
+"G::CDC42EP5",6
+"G::CDC50A",1
+"G::CDCA3",7
+"G::CDH1",6
+"G::CDH11",8
+"G::CDH24",4
+"G::CDH3",3
+"G::CDH5",10
+"G::CDK2",3
+"G::CDK5",8
+"G::CDK5RAP2",7
+"G::CDK6",5
+"G::CDKL1",6
+"G::CDKN1C",10
+"G::CDKN2C",6
+"G::CEACAM1",1
+"G::CELF1",10
+"G::CEMIP",10
+"G::CEMIP2",10
+"G::CENPF",6
+"G::CEP290",10
+"G::CEP55",10
+"G::CEP97",6
+"G::CERCAM",2
+"G::CERS1",9
+"G::CFB",4
+"G::CFL1",7
+"G::CGAS",2
+"G::CGN",7
+"G::CH25H",1
+"G::CHCHD2",3
+"G::CHD7",1
+"G::CHLSN",11
+"G::CHMP5",2
+"G::CHN1",6
+"G::CHRD",5
+"G::CHRNA7",8
+"G::CHRNB1",8
+"G::CHST15",12
+"G::CHST3",12
+"G::CHST4",12
+"G::CHSY1",5
+"G::CHSY3",12
+"G::CIC",6
+"G::CIITA",7
+"G::CITED1",10
+"G::CITED2",3
+"G::CKAP2",7
+"G::CLASP1",1
+"G::CLCF1",2
+"G::CLCN5",3
+"G::CLDN2",7
+"G::CLIP1",7
+"G::CLIP2",7
+"G::CLIP4",7
+"G::CLMP",8
+"G::CLOCK",3
+"G::CLP1",6
+"G::CLSTN1",8
+"G::CLU",11
+"G::CMBL",3
+"G::CMKLR1",1
+"G::CMKLR2",11
+"G::CMTM3",11
+"G::CMTM8",11
+"G::CNIH2",8
+"G::CNKSR1",5
+"G::CNKSR3",1
+"G::CNN1",9
+"G::CNN2",7
+"G::CNN3",7
+"G::CNOT7",10
+"G::CNTROB",6
+"G::COA8",3
+"G::COBL",6
+"G::COCH",1
+"G::COL11A2",1
+"G::COL17A1",1
+"G::COL18A1",1
+"G::COL4A1",1
+"G::COL4A2",1
+"G::COL4A4",1
+"G::COL4A5",1
+"G::COL4A6",1
+"G::COL5A1",1
+"G::COL6A1",9
+"G::COL7A1",1
+"G::COL8A1",10
+"G::COL9A2",1
+"G::COL9A3",1
+"G::COLEC12",4
+"G::COLGALT2",1
+"G::CORO1A",7
+"G::CORO1B",5
+"G::CORO1C",15
+"G::CPEB2",3
+"G::CPEB3",8
+"G::CPNE1",6
+"G::CPNE3",5
+"G::CPS1",14
+"G::CPT1A",3
+"G::CPT1C",5
+"G::CPZ",1
+"G::CRABP2",3
+"G::CREB1",3
+"G::CREB3L1",1
+"G::CREBBP",5
+"G::CRIM1",5
+"G::CRISPLD2",1
+"G::CRK",3
+"G::CRLF1",11
+"G::CRLF2",2
+"G::CROCC",6
+"G::CRYBG3",7
+"G::CSF1",10
+"G::CSF1R",10
+"G::CSF2",11
+"G::CSF2RA",5
+"G::CSF3",11
+"G::CSGALNACT2",12
+"G::CSK",2
+"G::CSNK1A1",2
+"G::CSPG5",11
+"G::CSRP1",9
+"G::CSRP2",9
+"G::CSRP3",9
+"G::CST7",2
+"G::CTBP2",10
+"G::CTF1",11
+"G::CTH",14
+"G::CTNNA1",4
+"G::CTNNB1",8
+"G::CTNNBIP1",5
+"G::CTNND1",10
+"G::CTNS",6
+"G::CTSC",1
+"G::CTSS",1
+"G::CTSZ",10
+"G::CUL7",5
+"G::CX3CL1",8
+"G::CXADR",1
+"G::CXCL1",11
+"G::CXCL14",11
+"G::CXCL16",10
+"G::CXCL2",11
+"G::CXCL3",11
+"G::CXCL8",10
+"G::CXCR4",10
+"G::CYB5R3",9
+"G::CYBB",10
+"G::CYBRD1",3
+"G::CYP1A1",2
+"G::CYP27B1",5
+"G::CYP2J2",9
+"G::CYP2R1",3
+"G::CYP2U1",3
+"G::CYRIB",2
+"G::CYSRT1",3
+"G::DAB2",6
+"G::DAB2IP",10
+"G::DACT3",6
+"G::DAG1",1
+"G::DAPK3",9
+"G::DAW1",9
+"G::DCAF1",6
+"G::DCLRE1C",2
+"G::DDX6",7
+"G::DEAF1",10
+"G::DECR1",3
+"G::DEF8",7
+"G::DEFB103B",11
+"G::DEK",9
+"G::DEPTOR",11
+"G::DES",9
+"G::DGKG",7
+"G::DGKQ",11
+"G::DHFR",3
+"G::DHX58",2
+"G::DICER1",6
+"G::DIO2",2
+"G::DIP2B",6
+"G::DISC1",6
+"G::DIXDC1",6
+"G::DKK1",9
+"G::DLC1",7
+"G::DLK2",4
+"G::DMBT1",4
+"G::DMTN",7
+"G::DNAJC6",8
+"G::DNM3",8
+"G::DOC2A",8
+"G::DOCK10",1
+"G::DOCK2",9
+"G::DOCK9",1
+"G::DOK4",5
+"G::DPP4",1
+"G::DRAM1",3
+"G::DRAXIN",6
+"G::DRP2",8
+"G::DSC2",1
+"G::DSE",12
+"G::DSG2",5
+"G::DTX4",2
+"G::DUSP10",2
+"G::DUSP2",1
+"G::DUSP22",2
+"G::DUSP3",2
+"G::DYNC1H1",3
+"G::DYNC1LI1",4
+"G::DYNLT1",7
+"G::DYRK3",3
+"G::DYSF",4
+"G::E2F1",3
+"G::E2F7",10
+"G::EBP",5
+"G::ECE1",1
+"G::ECM1",10
+"G::ECSCR",10
+"G::ECT2",15
+"G::EDIL3",1
+"G::EDN2",10
+"G::EDNRA",9
+"G::EEF1A2",4
+"G::EEF2",5
+"G::EEIG1",2
+"G::EFCAB14",4
+"G::EFEMP1",11
+"G::EFHD2",4
+"G::EFNA2",6
+"G::EFNB2",11
+"G::EFNB3",6
+"G::EFTUD2",3
+"G::EGF",10
+"G::EGFR",5
+"G::EGLN1",8
+"G::EGLN3",3
+"G::EGR1",8
+"G::EHD2",9
+"G::EHD3",9
+"G::EID2B",9
+"G::EIF2AK1",10
+"G::EIF2B1",2
+"G::EIF4E2",2
+"G::ELFN2",8
+"G::ELMO2",10
+"G::EMB",6
+"G::EML1",6
+"G::EMP1",3
+"G::EMP2",5
+"G::ENC1",6
+"G::ENDOD1",1
+"G::ENG",9
+"G::ENO1",9
+"G::ENOX2",4
+"G::ENPP1",6
+"G::ENPP4",7
+"G::EPAS1",9
+"G::EPB41L1",9
+"G::EPB41L4B",10
+"G::EPB41L5",5
+"G::EPHA10",6
+"G::EPHA2",10
+"G::EPHB3",6
+"G::EPHB6",6
+"G::EPM2A",4
+"G::EPN1",10
+"G::EPPK1",10
+"G::EPS8",7
+"G::ERAP1",10
+"G::ERAP2",1
+"G::ERBB2",10
+"G::EREG",11
+"G::ERFE",5
+"G::ERMAP",2
+"G::ERO1A",3
+"G::ERRFI1",3
+"G::ESAM",1
+"G::ESD",1
+"G::ESM1",1
+"G::ESYT2",4
+"G::ESYT3",4
+"G::ETV7",9
+"G::EVC",6
+"G::EVI2B",2
+"G::EVL",6
+"G::EVPL",3
+"G::EXPH5",3
+"G::EXT2",12
+"G::EYA4",3
+"G::F2RL1",10
+"G::F2RL2",7
+"G::F3",10
+"G::F8",7
+"G::FABP3",3
+"G::FAM107A",8
+"G::FAM162A",3
+"G::FAM20B",12
+"G::FANCA",2
+"G::FAS",4
+"G::FBL",5
+"G::FBLN1",1
+"G::FBN1",1
+"G::FBP1",13
+"G::FBXO2",10
+"G::FBXO27",12
+"G::FBXW8",5
+"G::FCGR2A",2
+"G::FCGRT",4
+"G::FERMT3",7
+"G::FES",6
+"G::FEZF1",6
+"G::FFAR4",5
+"G::FGF1",10
+"G::FGF11",11
+"G::FGF14",11
+"G::FGF18",10
+"G::FGF5",11
+"G::FGFBP1",10
+"G::FGFBP3",5
+"G::FGFR3",5
+"G::FGFR4",5
+"G::FHL1",6
+"G::FHL2",5
+"G::FHL3",9
+"G::FHOD1",7
+"G::FHOD3",9
+"G::FIBCD1",1
+"G::FIBP",5
+"G::FKBP1A",9
+"G::FKBP1C",9
+"G::FKBP7",1
+"G::FKBP9",4
+"G::FKRP",12
+"G::FLG",1
+"G::FLI1",7
+"G::FLOT1",4
+"G::FLOT2",2
+"G::FLRT2",11
+"G::FLT1",10
+"G::FLT3LG",11
+"G::FLVCR1",3
+"G::FMNL3",10
+"G::FMOD",1
+"G::FNIP1",2
+"G::FOSL1",10
+"G::FOXF2",9
+"G::FOXJ2",10
+"G::FOXO1",3
+"G::FOXO3",2
+"G::FOXP2",6
+"G::FRAS1",1
+"G::FRG1",9
+"G::FRK",5
+"G::FRS3",5
+"G::FSCN1",6
+"G::FSTL1",5
+"G::FTH1",10
+"G::FUT4",10
+"G::FUZ",5
+"G::FXR2",8
+"G::FXYD2",4
+"G::FYCO1",7
+"G::FYN",2
+"G::FZD1",3
+"G::FZD6",6
+"G::FZD7",9
+"G::FZD8",4
+"G::G0S2",3
+"G::G6PD",9
+"G::GAB2",4
+"G::GABRE",8
+"G::GALNS",12
+"G::GALNT10",12
+"G::GALNT11",12
+"G::GALNT12",12
+"G::GALNT14",12
+"G::GALNT18",12
+"G::GALNT2",12
+"G::GALNT3",4
+"G::GALNT5",12
+"G::GALNT7",12
+"G::GAREM1",5
+"G::GATA2",1
+"G::GBP1",2
+"G::GBP4",2
+"G::GBP5",11
+"G::GCLM",9
+"G::GCNT1",12
+"G::GCNT2",5
+"G::GDF1",5
+"G::GDF11",11
+"G::GDF5",5
+"G::GDF7",5
+"G::GDPD5",4
+"G::GFOD2",1
+"G::GGCX",7
+"G::GIT1",7
+"G::GJA1",9
+"G::GJA3",4
+"G::GJB2",4
+"G::GJB3",4
+"G::GJC2",4
+"G::GLCE",12
+"G::GLIPR2",10
+"G::GLS2",3
+"G::GLUD1",6
+"G::GLUD2",14
+"G::GLUL",10
+"G::GNAI2",8
+"G::GNAO1",8
+"G::GNAQ",1
+"G::GNB5",4
+"G::GNG11",1
+"G::GNG12",4
+"G::GNG5",4
+"G::GNPTAB",4
+"G::GPC1",9
+"G::GPC6",1
+"G::GPHRB",2
+"G::GPI",11
+"G::GPNMB",2
+"G::GPR137",2
+"G::GPR153",11
+"G::GPR156",5
+"G::GPR176",8
+"G::GPR180",11
+"G::GPR37",3
+"G::GPR63",5
+"G::GPR68",11
+"G::GPR85",11
+"G::GPRC5B",4
+"G::GPRC5C",5
+"G::GPSM1",7
+"G::GPSM2",7
+"G::GRB2",1
+"G::GRB7",1
+"G::GREB1L",10
+"G::GRIK4",8
+"G::GRIN3B",5
+"G::GRK5",11
+"G::GSDME",10
+"G::GSN",7
+"G::GSTA4",3
+"G::GSTM3",3
+"G::GUCY1B1",3
+"G::GUK1",3
+"G::GXYLT1",12
+"G::GXYLT2",12
+"G::H2AC6",10
+"G::H2BC12",11
+"G::H2BC5",2
+"G::H3-3A",6
+"G::HABP4",9
+"G::HACD1",9
+"G::HADHB",2
+"G::HAPLN3",1
+"G::HAS2",5
+"G::HBA1",3
+"G::HCN4",9
+"G::HDAC5",9
+"G::HDAC7",5
+"G::HDGFL2",6
+"G::HDGFL3",11
+"G::HES1",1
+"G::HESX1",6
+"G::HEY2",9
+"G::HFE",2
+"G::HID1",4
+"G::HIF1A",5
+"G::HIF1AN",10
+"G::HINFP",9
+"G::HIP1",8
+"G::HIP1R",7
+"G::HIPK2",5
+"G::HIVEP1",5
+"G::HK1",4
+"G::HK2",10
+"G::HLA-DMA",2
+"G::HLA-DMB",2
+"G::HLA-DPA1",2
+"G::HLA-DPB1",2
+"G::HLA-DRA",2
+"G::HLA-DRB1",2
+"G::HLA-DRB5",2
+"G::HLA-F",4
+"G::HMGA1",7
+"G::HMGA2",10
+"G::HMOX1",10
+"G::HNRNPD",8
+"G::HNRNPU",5
+"G::HOMER1",8
+"G::HOXB3",10
+"G::HOXB7",10
+"G::HOXD4",1
+"G::HP1BP3",3
+"G::HPCAL4",4
+"G::HPSE",10
+"G::HRH1",9
+"G::HS3ST3B1",12
+"G::HSBP1",9
+"G::HSD17B12",1
+"G::HSD3B7",1
+"G::HSPB1",10
+"G::HSPG2",10
+"G::HTR1D",8
+"G::HTR7",8
+"G::HTRA1",1
+"G::HTRA3",5
+"G::HYAL1",10
+"G::HYAL2",6
+"G::HYOU1",3
+"G::ICAM2",11
+"G::ICOSLG",2
+"G::IER2",5
+"G::IFI35",2
+"G::IFITM3",7
+"G::IFNAR1",2
+"G::IFNAR2",5
+"G::IFNLR1",4
+"G::IFT20",6
+"G::IFT88",6
+"G::IGF1R",5
+"G::IGFBP1",6
+"G::IGFBP2",5
+"G::IGFBP3",5
+"G::IGFBP4",5
+"G::IGFBP6",5
+"G::IGFBPL1",6
+"G::IGHV3-15",2
+"G::IKBKE",2
+"G::IKZF3",2
+"G::IL11",11
+"G::IL16",11
+"G::IL17D",11
+"G::IL17RD",5
+"G::IL18",2
+"G::IL1B",8
+"G::IL1RAP",8
+"G::IL1RAPL1",6
+"G::IL20RA",5
+"G::IL23A",11
+"G::IL24",11
+"G::IL27RA",1
+"G::IL2RB",5
+"G::IL2RG",2
+"G::IL34",10
+"G::IL6",2
+"G::IL6R",10
+"G::IL7R",2
+"G::INCA1",10
+"G::ING1",5
+"G::INO80",6
+"G::INPP5K",7
+"G::INSYN1",8
+"G::INTS9",5
+"G::IQGAP3",7
+"G::IRAK3",2
+"G::IRF2",2
+"G::IRF5",2
+"G::IRF6",10
+"G::IRX3",9
+"G::ISCU",13
+"G::ISG15",5
+"G::ITGA1",1
+"G::ITGA2",1
+"G::ITGA6",1
+"G::ITGA7",1
+"G::ITGAV",7
+"G::ITGAX",10
+"G::ITGB1BP2",9
+"G::ITGB2",10
+"G::ITGB4",7
+"G::ITGB5",1
+"G::ITGBL1",7
+"G::ITPK1",1
+"G::ITPR1",3
+"G::ITPR2",3
+"G::JAG1",11
+"G::JAK1",10
+"G::JHY",6
+"G::JPH1",9
+"G::JUND",3
+"G::JUP",9
+"G::KANK1",7
+"G::KATNB1",7
+"G::KAZALD1",11
+"G::KAZN",3
+"G::KCNIP4",4
+"G::KCNJ14",4
+"G::KCNJ5",9
+"G::KCNMB4",9
+"G::KCNS3",4
+"G::KCP",5
+"G::KCTD12",6
+"G::KDM3A",3
+"G::KDM6B",1
+"G::KDR",10
+"G::KDSR",4
+"G::KIF14",6
+"G::KIF18B",7
+"G::KIF20B",6
+"G::KIF21A",6
+"G::KIF25",7
+"G::KIF5B",6
+"G::KIFC2",6
+"G::KISS1",11
+"G::KLC1",1
+"G::KLC3",1
+"G::KMT2A",2
+"G::KMT2E",3
+"G::KMT5B",2
+"G::KRT15",3
+"G::KRT17",6
+"G::KRT18",7
+"G::KRT19",9
+"G::KRT7",3
+"G::KRT8",9
+"G::KRT86",3
+"G::KXD1",4
+"G::L1CAM",1
+"G::LAMA1",1
+"G::LAMA2",9
+"G::LAMA3",1
+"G::LAMB3",1
+"G::LAMC1",1
+"G::LAMP2",4
+"G::LAMP3",2
+"G::LANCL1",11
+"G::LAP3",7
+"G::LATS2",6
+"G::LBX2",1
+"G::LCN2",3
+"G::LDOC1",2
+"G::LEF1",2
+"G::LEFTY1",11
+"G::LEPR",5
+"G::LGALS8",10
+"G::LGALS9",2
+"G::LGALS9B",2
+"G::LGMN",8
+"G::LHX6",6
+"G::LIFR",11
+"G::LIMD1",5
+"G::LIMS1",5
+"G::LIMS2",7
+"G::LIN28A",10
+"G::LIN7A",8
+"G::LIPE",4
+"G::LLGL1",6
+"G::LMBRD1",4
+"G::LMO7",7
+"G::LNPEP",9
+"G::LONRF2",3
+"G::LOXL4",1
+"G::LPAR1",10
+"G::LPCAT1",4
+"G::LPCAT2",4
+"G::LPIN1",3
+"G::LPL",1
+"G::LRFN1",8
+"G::LRG1",10
+"G::LRP4",1
+"G::LRP6",4
+"G::LRRC15",10
+"G::LRRC32",5
+"G::LRRC8A",2
+"G::LRRK2",6
+"G::LTB",11
+"G::LTBP1",1
+"G::LTBP3",1
+"G::LUM",1
+"G::LXN",1
+"G::LY6K",4
+"G::LY75",4
+"G::LYN",2
+"G::LYPD1",4
+"G::LYPD5",4
+"G::LZTS3",8
+"G::MAFB",3
+"G::MAGED1",10
+"G::MAGI2",5
+"G::MAL2",1
+"G::MALL",4
+"G::MALT1",2
+"G::MAN1A1",12
+"G::MAN1A2",12
+"G::MAN1C1",12
+"G::MAN2A1",12
+"G::MAOB",6
+"G::MAP1B",6
+"G::MAP2",6
+"G::MAP2K4",2
+"G::MAP3K1",2
+"G::MAP3K5",3
+"G::MAPK8IP1",2
+"G::MAPKAP1",6
+"G::MAPKBP1",2
+"G::MAPRE2",10
+"G::MARCHF5",3
+"G::MARK2",6
+"G::MARK4",2
+"G::MATN2",1
+"G::MAZ",10
+"G::MBD2",9
+"G::MBOAT1",6
+"G::MBP",8
+"G::MBTPS1",1
+"G::MCAM",10
+"G::MCFD2",4
+"G::MCIDAS",6
+"G::MCL1",3
+"G::MCM7",3
+"G::MCOLN1",5
+"G::MCOLN2",2
+"G::MCTP1",8
+"G::MCUB",9
+"G::MDK",2
+"G::MDM2",3
+"G::MED1",9
+"G::MED28",7
+"G::MEF2A",9
+"G::MEF2C",2
+"G::MEGF6",4
+"G::MEGF9",1
+"G::MEIS2",6
+"G::MESD",12
+"G::MEST",12
+"G::MET",10
+"G::MFNG",12
+"G::MFSD2A",6
+"G::MGAT2",12
+"G::MGAT5B",12
+"G::MGST2",2
+"G::MICA",11
+"G::MICAL1",1
+"G::MICAL2",1
+"G::MICB",2
+"G::MID2",7
+"G::MINAR1",6
+"G::MINPP1",1
+"G::MISP",7
+"G::MKKS",1
+"G::MKX",9
+"G::MLPH",7
+"G::MLST8",3
+"G::MMP1",1
+"G::MMP10",1
+"G::MMP15",1
+"G::MMP24",1
+"G::MMP3",3
+"G::MMP8",1
+"G::MMP9",3
+"G::MMRN2",10
+"G::MPDZ",7
+"G::MPP3",7
+"G::MPP4",7
+"G::MPZL1",7
+"G::MSLN",4
+"G::MST1R",5
+"G::MT1E",6
+"G::MT1F",6
+"G::MTCL1",7
+"G::MTCL2",5
+"G::MTDH",1
+"G::MTFP1",3
+"G::MTFR2",3
+"G::MTHFD2L",14
+"G::MTHFR",10
+"G::MTMR4",5
+"G::MTOR",5
+"G::MTPN",7
+"G::MTR",3
+"G::MTSS2",5
+"G::MTUS1",10
+"G::MUC4",1
+"G::MUL1",6
+"G::MUSK",1
+"G::MVP",5
+"G::MYB",2
+"G::MYBPH",9
+"G::MYCBPAP",9
+"G::MYL2",9
+"G::MYL6",9
+"G::MYL9",9
+"G::MYLK",9
+"G::MYO19",3
+"G::MYO1E",3
+"G::MYO5B",3
+"G::MYO7A",1
+"G::MYOM3",9
+"G::NACC2",10
+"G::NAMPT",11
+"G::NAPB",8
+"G::NAPEPLD",3
+"G::NAV2",6
+"G::NAV3",7
+"G::NCALD",4
+"G::NCAPH",2
+"G::NCDN",8
+"G::NCF2",3
+"G::NDP",11
+"G::NDRG1",3
+"G::NDRG2",6
+"G::NDRG3",6
+"G::NDUFA1",13
+"G::NDUFA13",13
+"G::NDUFC1",13
+"G::NDUFC2",3
+"G::NDUFS3",6
+"G::NDUFS4",6
+"G::NEBL",9
+"G::NECTIN1",6
+"G::NECTIN2",2
+"G::NEDD4L",6
+"G::NEDD9",10
+"G::NEGR1",8
+"G::NEK8",9
+"G::NELL2",6
+"G::NEO1",6
+"G::NES",7
+"G::NEU3",4
+"G::NEURL1",9
+"G::NEURL2",9
+"G::NFIA",5
+"G::NFIB",6
+"G::NFKB1",2
+"G::NFKBID",2
+"G::NFKBIZ",2
+"G::NGFR",10
+"G::NHERF1",10
+"G::NIN",7
+"G::NINJ2",6
+"G::NKX3-1",10
+"G::NLGN1",8
+"G::NLRP3",2
+"G::NMI",2
+"G::NMNAT2",6
+"G::NMT2",11
+"G::NMU",9
+"G::NNT",3
+"G::NOCT",2
+"G::NOG",8
+"G::NOL3",3
+"G::NOMO3",5
+"G::NOS3",10
+"G::NOSTRIN",4
+"G::NOTCH2NLA",6
+"G::NOTCH2NLB",6
+"G::NOTCH2NLC",6
+"G::NOTCH4",5
+"G::NOX5",10
+"G::NPAS2",3
+"G::NPEPPS",3
+"G::NPPB",11
+"G::NPR2",6
+"G::NPR3",9
+"G::NQO1",8
+"G::NR1D1",2
+"G::NR1D2",9
+"G::NR2F2",10
+"G::NR4A1",5
+"G::NR4A2",3
+"G::NR4A3",13
+"G::NRAS",10
+"G::NRBP2",3
+"G::NRCAM",6
+"G::NREP",5
+"G::NRG2",11
+"G::NRP1",10
+"G::NRP2",5
+"G::NSMF",8
+"G::NT5DC3",5
+"G::NTRK1",6
+"G::NUCB2",4
+"G::NUCKS1",5
+"G::NUMA1",5
+"G::NYAP1",6
+"G::OAS2",2
+"G::OBSL1",9
+"G::OCLN",7
+"G::ODAPH",9
+"G::ODF2",6
+"G::OPHN1",6
+"G::OPN3",3
+"G::OPRL1",11
+"G::OSGIN2",11
+"G::OSMR",5
+"G::OSR2",10
+"G::OSTF1",5
+"G::P2RX5",8
+"G::P3H2",1
+"G::P3H4",2
+"G::PACSIN1",6
+"G::PADI1",4
+"G::PAEP",2
+"G::PAFAH1B1",6
+"G::PAFAH2",7
+"G::PAK2",6
+"G::PAK6",8
+"G::PALS1",6
+"G::PAPLN",1
+"G::PARD3B",7
+"G::PARD6A",7
+"G::PARD6B",1
+"G::PARL",3
+"G::PAX5",2
+"G::PBRM1",9
+"G::PBX1",6
+"G::PCDH18",6
+"G::PCDH7",1
+"G::PCDHB2",4
+"G::PCDHB4",8
+"G::PCDHGA5",4
+"G::PCDHGB1",4
+"G::PCDHGC5",4
+"G::PCID2",2
+"G::PCOLCE2",1
+"G::PCSK9",3
+"G::PDCD1LG2",2
+"G::PDCD6",10
+"G::PDE3B",5
+"G::PDE4B",1
+"G::PDE7B",8
+"G::PDE8A",5
+"G::PDE9A",8
+"G::PDGFB",10
+"G::PDGFD",10
+"G::PDGFRL",5
+"G::PDIA3",1
+"G::PDIA6",1
+"G::PDLIM1",9
+"G::PDLIM2",9
+"G::PDLIM3",9
+"G::PDLIM5",9
+"G::PECAM1",10
+"G::PEF1",4
+"G::PEG10",5
+"G::PELI3",3
+"G::PER3",8
+"G::PEX13",6
+"G::PFDN4",7
+"G::PFKFB3",13
+"G::PFKM",1
+"G::PGAM4",10
+"G::PGAM5",3
+"G::PGF",10
+"G::PGK1",3
+"G::PHACTR4",10
+"G::PHF10",2
+"G::PHLDB2",1
+"G::PHLPP1",10
+"G::PHLPP2",6
+"G::PHOSPHO1",1
+"G::PICK1",8
+"G::PID1",3
+"G::PIH1D1",3
+"G::PIK3AP1",2
+"G::PIK3CA",7
+"G::PIK3CD",10
+"G::PIK3CG",10
+"G::PIK3R2",1
+"G::PIK3R3",1
+"G::PINK1",3
+"G::PIP4K2A",5
+"G::PIP4K2B",5
+"G::PIP4P1",4
+"G::PIP5K1A",10
+"G::PIP5K1C",10
+"G::PITPNM3",4
+"G::PITX2",6
+"G::PKD2",10
+"G::PKM",10
+"G::PLA2G12A",4
+"G::PLA2G4A",2
+"G::PLAC8",3
+"G::PLAU",1
+"G::PLAUR",1
+"G::PLB1",1
+"G::PLCB2",10
+"G::PLCD4",4
+"G::PLCE1",5
+"G::PLCG2",2
+"G::PLCH1",4
+"G::PLEKHA2",2
+"G::PLEKHA4",4
+"G::PLEKHH2",7
+"G::PLEKHO1",9
+"G::PLOD2",1
+"G::PLP2",10
+"G::PLS3",4
+"G::PLSCR4",2
+"G::PLXDC1",5
+"G::PLXNA4",6
+"G::PLXNB1",6
+"G::PLXNC1",6
+"G::PLXND1",6
+"G::PMEPA1",5
+"G::PMP22",6
+"G::PODXL",10
+"G::POGLUT1",12
+"G::POMT1",12
+"G::POMT2",12
+"G::PON3",3
+"G::POU2F3",3
+"G::POU6F1",9
+"G::PPARG",10
+"G::PPFIA1",7
+"G::PPFIBP1",7
+"G::PPL",3
+"G::PPM1A",5
+"G::PPP1CC",7
+"G::PPP1R10",7
+"G::PPP2R1A",6
+"G::PPP2R1B",4
+"G::PPP2R5A",1
+"G::PPP3R1",8
+"G::PRDM5",1
+"G::PRDX1",3
+"G::PRELID1",2
+"G::PRICKLE1",1
+"G::PRICKLE2",8
+"G::PRKAA1",2
+"G::PRKACA",9
+"G::PRKACB",1
+"G::PRKAG2",1
+"G::PRKAR2A",7
+"G::PRKCH",1
+"G::PRKD2",10
+"G::PROM2",4
+"G::PROS1",7
+"G::PRR3",7
+"G::PRR5",6
+"G::PRRG4",7
+"G::PRRT2",8
+"G::PRSS2",1
+"G::PRSS23",1
+"G::PRSS3",4
+"G::PSAPL1",6
+"G::PSG4",1
+"G::PSG9",2
+"G::PSMB2",2
+"G::PSMB3",2
+"G::PSMB9",2
+"G::PSRC1",6
+"G::PTEN",8
+"G::PTGFRN",9
+"G::PTGS1",1
+"G::PTH1R",5
+"G::PTHLH",11
+"G::PTK6",5
+"G::PTN",10
+"G::PTP4A3",10
+"G::PTPMT1",3
+"G::PTPN1",3
+"G::PTPN14",10
+"G::PTPN18",5
+"G::PTPRB",10
+"G::PTPRG",6
+"G::PTPRR",5
+"G::PTX3",1
+"G::PVR",11
+"G::RAB10",6
+"G::RAB17",6
+"G::RAB22A",4
+"G::RAB27B",1
+"G::RAB29",2
+"G::RAB32",4
+"G::RAB38",4
+"G::RAB5A",8
+"G::RAB5C",4
+"G::RAC2",2
+"G::RAC3",6
+"G::RACGAP1",4
+"G::RAET1L",11
+"G::RALA",10
+"G::RALB",5
+"G::RAMP1",12
+"G::RAMP2",10
+"G::RAP1B",8
+"G::RAPGEF1",5
+"G::RAPGEF3",10
+"G::RARG",1
+"G::RARRES2",1
+"G::RASEF",4
+"G::RASGRF1",8
+"G::RASIP1",10
+"G::RASL10B",9
+"G::RASSF10",2
+"G::RBBP4",5
+"G::RBM22",4
+"G::RBM24",9
+"G::RBM38",9
+"G::RBPJ",9
+"G::RBPMS",5
+"G::RBSN",1
+"G::RBX1",5
+"G::RC3H2",2
+"G::RCC2",7
+"G::RCN1",1
+"G::RCOR1",3
+"G::RCSD1",9
+"G::RDH12",3
+"G::RDX",7
+"G::RECK",1
+"G::RELA",2
+"G::RELN",6
+"G::REPS1",4
+"G::RERG",6
+"G::RFFL",3
+"G::RGMB",5
+"G::RGS10",11
+"G::RGS12",11
+"G::RGS19",11
+"G::RGS7",11
+"G::RHEB",8
+"G::RHOB",10
+"G::RIC8B",11
+"G::RIOK3",2
+"G::RIPK1",3
+"G::RNASE4",2
+"G::RNF10",8
+"G::RNF31",5
+"G::RNF7",10
+"G::ROBO4",6
+"G::ROCK2",9
+"G::ROGDI",6
+"G::ROR1",5
+"G::RORB",2
+"G::RP1",3
+"G::RPL11",9
+"G::RPL24",9
+"G::RPL26",3
+"G::RPL27",9
+"G::RPL30",9
+"G::RPL31",9
+"G::RPL32",9
+"G::RPL34",9
+"G::RPL35",9
+"G::RPL36",9
+"G::RPL36A",9
+"G::RPL37",9
+"G::RPL37A",9
+"G::RPL38",9
+"G::RPL39",9
+"G::RPLP2",9
+"G::RPN2",12
+"G::RPS10",7
+"G::RPS11",7
+"G::RPS15",7
+"G::RPS17",7
+"G::RPS18",7
+"G::RPS19",10
+"G::RPS2",5
+"G::RPS24",3
+"G::RPS27A",4
+"G::RPS28",4
+"G::RPS29",7
+"G::RPS3",7
+"G::RPS3A",7
+"G::RPS6KA3",6
+"G::RPS7",7
+"G::RPTOR",3
+"G::RRAS2",7
+"G::RRBP1",5
+"G::RSU1",7
+"G::RTF1",1
+"G::RTN1",6
+"G::RTN4",6
+"G::RUBCN",7
+"G::RUNX2",5
+"G::RXYLT1",12
+"G::S100A11",10
+"G::S100A2",4
+"G::S100A3",4
+"G::S100A4",5
+"G::S100A5",4
+"G::S100P",4
+"G::S1PR1",10
+"G::S1PR3",2
+"G::SACK1G",5
+"G::SAMD10",4
+"G::SAMD12",5
+"G::SAP30",5
+"G::SAPCD2",1
+"G::SARM1",6
+"G::SAV1",10
+"G::SBDS",10
+"G::SCARF1",6
+"G::SCARF2",7
+"G::SCG2",10
+"G::SCG5",11
+"G::SCN5A",9
+"G::SCUBE3",5
+"G::SDC1",9
+"G::SDC2",6
+"G::SDC3",1
+"G::SDC4",1
+"G::SEC14L1",2
+"G::SEMA3A",6
+"G::SEMA3D",6
+"G::SEMA3E",10
+"G::SEMA3F",6
+"G::SEMA3G",6
+"G::SEMA5A",10
+"G::SEMA6B",11
+"G::SEPHS2",14
+"G::SEPTIN4",3
+"G::SERPINB2",7
+"G::SERPINB4",11
+"G::SERPINB7",10
+"G::SERPINB8",1
+"G::SERPINB9",1
+"G::SERPINE1",10
+"G::SERPINE2",7
+"G::SERPINF1",10
+"G::SERPINH1",1
+"G::SERPINI1",6
+"G::SERTAD2",6
+"G::SESN1",6
+"G::SFMBT1",9
+"G::SGK1",6
+"G::SGK3",6
+"G::SGMS1",3
+"G::SGMS2",5
+"G::SGTA",16
+"G::SH2B2",2
+"G::SH2D1B",2
+"G::SH3BP1",7
+"G::SH3GL1",7
+"G::SH3KBP1",2
+"G::SH3RF2",10
+"G::SH3TC2",5
+"G::SH3YL1",7
+"G::SHB",10
+"G::SHC4",5
+"G::SHCBP1",5
+"G::SHISA2",5
+"G::SHISA5",7
+"G::SHISA9",5
+"G::SHOX2",9
+"G::SHROOM1",7
+"G::SHROOM2",6
+"G::SHROOM3",1
+"G::SIN3A",6
+"G::SIPA1L1",6
+"G::SIRPA",1
+"G::SIRT4",13
+"G::SIX1",5
+"G::SIX4",9
+"G::SKA1",7
+"G::SKI",5
+"G::SKIL",6
+"G::SLAIN1",7
+"G::SLAIN2",7
+"G::SLC12A2",10
+"G::SLC12A8",1
+"G::SLC16A7",8
+"G::SLC19A1",2
+"G::SLC1A3",8
+"G::SLC22A3",1
+"G::SLC22A4",2
+"G::SLC22A5",9
+"G::SLC25A12",4
+"G::SLC25A13",13
+"G::SLC25A38",3
+"G::SLC25A40",3
+"G::SLC28A3",1
+"G::SLC29A2",9
+"G::SLC2A1",1
+"G::SLC2A13",1
+"G::SLC2A3",9
+"G::SLC2A6",13
+"G::SLC30A1",8
+"G::SLC31A1",10
+"G::SLC35F6",3
+"G::SLC36A1",1
+"G::SLC38A1",8
+"G::SLC38A2",6
+"G::SLC39A10",5
+"G::SLC39A6",2
+"G::SLC39A8",3
+"G::SLC40A1",3
+"G::SLC47A1",1
+"G::SLC4A2",2
+"G::SLC4A4",9
+"G::SLC6A6",8
+"G::SLC7A1",2
+"G::SLC7A7",1
+"G::SLC9A1",9
+"G::SLC9A2",3
+"G::SLC9A3",1
+"G::SLC9A6",6
+"G::SLC9A8",1
+"G::SLC9D1",10
+"G::SLCO3A1",1
+"G::SLITRK5",6
+"G::SMAD1",5
+"G::SMAD2",5
+"G::SMAD6",5
+"G::SMARCA2",2
+"G::SMARCC2",2
+"G::SMARCD1",9
+"G::SMARCD2",2
+"G::SMARCD3",2
+"G::SMIM1",3
+"G::SMPDL3A",2
+"G::SMPDL3B",2
+"G::SMTN",9
+"G::SMYD2",10
+"G::SMYD3",9
+"G::SNAI1",5
+"G::SNCAIP",8
+"G::SNTB1",7
+"G::SNTB2",7
+"G::SNX18",4
+"G::SNX27",7
+"G::SNX3",6
+"G::SNX5",9
+"G::SNX6",5
+"G::SOBP",1
+"G::SOCS1",2
+"G::SOCS2",5
+"G::SOCS4",5
+"G::SOCS7",6
+"G::SOD2",3
+"G::SOD3",3
+"G::SORCS2",8
+"G::SOX13",2
+"G::SOX15",9
+"G::SOX4",2
+"G::SOX6",9
+"G::SP100",10
+"G::SP6",5
+"G::SPAG5",7
+"G::SPATC1L",7
+"G::SPCS3",16
+"G::SPEF1",7
+"G::SPEN",2
+"G::SPG21",2
+"G::SPNS2",1
+"G::SPP1",6
+"G::SPRED3",5
+"G::SPRY4",5
+"G::SPTBN1",7
+"G::SPTBN2",7
+"G::SPX",9
+"G::SQSTM1",2
+"G::SRF",1
+"G::SRGAP2",6
+"G::SRGN",1
+"G::SRPX",1
+"G::SSPN",9
+"G::ST14",3
+"G::ST3GAL1",12
+"G::ST3GAL4",12
+"G::ST8SIA4",12
+"G::STAC",9
+"G::STARD10",7
+"G::STAT5A",2
+"G::STAT6",3
+"G::STC1",9
+"G::STK26",6
+"G::STK39",1
+"G::STMN1",5
+"G::STMN3",6
+"G::STOM",4
+"G::STON1",4
+"G::STS",3
+"G::STT3B",12
+"G::STX11",8
+"G::STX2",4
+"G::STX3",10
+"G::STX8",4
+"G::STXBP5",8
+"G::SUCO",5
+"G::SULT1A3",3
+"G::SUN1",6
+"G::SUPT20H",1
+"G::SUV39H1",3
+"G::SVIL",7
+"G::SYDE1",10
+"G::SYN1",4
+"G::SYNC",9
+"G::SYNE1",9
+"G::SYNE2",6
+"G::SYNGR3",8
+"G::SYNPO",8
+"G::SYPL1",8
+"G::SYT1",6
+"G::SYT11",8
+"G::SYT17",6
+"G::SYT2",6
+"G::SYT7",8
+"G::TACR2",8
+"G::TACSTD2",10
+"G::TAF9B",6
+"G::TAGLN",9
+"G::TAOK3",6
+"G::TAP2",4
+"G::TAPBPL",2
+"G::TAPT1",5
+"G::TBC1D30",6
+"G::TBCB",7
+"G::TBX1",5
+"G::TBXA2R",10
+"G::TCF12",9
+"G::TCF7",2
+"G::TCHP",6
+"G::TDRD7",3
+"G::TEAD4",9
+"G::TENT5A",5
+"G::TENT5C",2
+"G::TERT",10
+"G::TET1",12
+"G::TET2",12
+"G::TET3",12
+"G::TFAP4",10
+"G::TFF2",11
+"G::TFPI",1
+"G::TFPI2",1
+"G::TFRC",2
+"G::TGFA",11
+"G::TGFB1I1",5
+"G::TGFB2",9
+"G::TGFBR2",2
+"G::TGFBR3",5
+"G::TGFBRAP1",5
+"G::TGM4",1
+"G::TH",9
+"G::THBS1",10
+"G::THRA",3
+"G::THY1",2
+"G::TIAM2",6
+"G::TICAM2",2
+"G::TIE1",10
+"G::TIFA",2
+"G::TIMELESS",10
+"G::TIMP2",1
+"G::TIMP3",1
+"G::TIMP4",1
+"G::TIRAP",2
+"G::TJAP1",7
+"G::TLR3",10
+"G::TLR4",2
+"G::TM4SF19",2
+"G::TM7SF2",5
+"G::TMBIM1",3
+"G::TMCO1",5
+"G::TMEFF1",7
+"G::TMEM102",1
+"G::TMEM106B",6
+"G::TMEM14A",3
+"G::TMEM204",7
+"G::TMEM216",6
+"G::TMEM258",12
+"G::TMEM64",2
+"G::TMEM65",9
+"G::TMIE",1
+"G::TMOD2",9
+"G::TMSB4X",10
+"G::TMTC2",12
+"G::TMX3",1
+"G::TNC",6
+"G::TNFAIP1",9
+"G::TNFAIP2",10
+"G::TNFRSF11A",5
+"G::TNFRSF1B",2
+"G::TNFSF10",11
+"G::TNFSF13",2
+"G::TNFSF15",11
+"G::TNFSF18",2
+"G::TNIK",1
+"G::TNIP3",2
+"G::TNNC1",9
+"G::TNNI3",9
+"G::TNNT1",9
+"G::TNNT2",9
+"G::TNS3",7
+"G::TNS4",7
+"G::TNXB",1
+"G::TOR1B",1
+"G::TOR2A",11
+"G::TP63",5
+"G::TP73",9
+"G::TPD52",4
+"G::TPM1",9
+"G::TPM4",9
+"G::TPRG1L",8
+"G::TPX2",7
+"G::TRABD2A",4
+"G::TRAC",2
+"G::TRAF1",3
+"G::TRAF4",7
+"G::TRAP1",3
+"G::TRBC1",2
+"G::TRBC2",2
+"G::TRIAP1",3
+"G::TRIB2",2
+"G::TRIM16",5
+"G::TRIM2",3
+"G::TRIM29",1
+"G::TRIM32",6
+"G::TRIM5",2
+"G::TRIM54",7
+"G::TRIM59",7
+"G::TRIM6",2
+"G::TRIM71",5
+"G::TRNP1",6
+"G::TRPC3",9
+"G::TRPM2",1
+"G::TRPM8",4
+"G::TRPV1",8
+"G::TRPV2",6
+"G::TSC22D4",6
+"G::TSPAN33",7
+"G::TSPAN6",2
+"G::TSPAN9",1
+"G::TSPOAP1",8
+"G::TST",3
+"G::TTPA",2
+"G::TUBB2A",6
+"G::TUBB3",6
+"G::TUFT1",9
+"G::TWSG1",5
+"G::TXN",3
+"G::TXNDC12",3
+"G::TXNDC16",1
+"G::TXNDC5",1
+"G::TXNRD2",3
+"G::TYRO3",6
+"G::UBA52",9
+"G::UBASH3B",7
+"G::UBE2B",3
+"G::UBE2D1",5
+"G::UBE2J1",12
+"G::UBE3A",6
+"G::UBN1",7
+"G::UCN2",11
+"G::UFL1",2
+"G::UGT8",6
+"G::ULBP2",11
+"G::ULBP3",11
+"G::UNC13A",6
+"G::UNC13B",8
+"G::UNC45A",9
+"G::UNC5A",6
+"G::UQCRQ",13
+"G::USP18",2
+"G::USP2",8
+"G::USP9X",5
+"G::UVRAG",4
+"G::VAMP3",4
+"G::VAMP7",4
+"G::VAMP8",4
+"G::VASN",5
+"G::VAV1",2
+"G::VAV2",1
+"G::VCL",7
+"G::VDR",3
+"G::VEGFC",10
+"G::VEPH1",5
+"G::VGF",8
+"G::VGLL4",6
+"G::VIPR1",5
+"G::VPS35",3
+"G::VPS4A",7
+"G::VPS54",8
+"G::VSIG10",7
+"G::VSIR",2
+"G::VSNL1",4
+"G::VSTM1",11
+"G::VTN",1
+"G::VWF",7
+"G::WASF1",7
+"G::WBP1L",11
+"G::WDR1",7
+"G::WDR37",3
+"G::WDR62",6
+"G::WEE1",1
+"G::WFDC10B",2
+"G::WFDC3",2
+"G::WFIKKN1",5
+"G::WNT10B",11
+"G::WNT7B",6
+"G::WNT9A",11
+"G::WT1",10
+"G::WWC1",6
+"G::WWOX",3
+"G::WWTR1",5
+"G::XIRP2",9
+"G::XKR8",9
+"G::YBX1",3
+"G::YWHAE",9
+"G::YY1",9
+"G::ZBTB18",9
+"G::ZBTB46",2
+"G::ZBTB7A",5
+"G::ZBTB7B",2
+"G::ZC3H12D",6
+"G::ZCCHC3",2
+"G::ZDHHC18",2
+"G::ZDHHC21",9
+"G::ZFHX2",9
+"G::ZFHX3",8
+"G::ZFP36L2",5
+"G::ZFP91",15
+"G::ZFPM2",9
+"G::ZFYVE9",5
+"G::ZHX2",9
+"G::ZHX3",5
+"G::ZIC2",6
+"G::ZMYND11",3
+"G::ZNF148",6
+"G::ZNF219",11
+"G::ZNF365",6
+"G::ZNF385A",3
+"G::ZNF703",5
+"G::ZNHIT1",9
+"G::ZYX",7
+"G::ZZEF1",4
+"P::BP|||COMMON_ALL_METHODS|||animal organ morphogenesis",9
+"P::BP|||COMMON_ALL_METHODS|||blood vessel morphogenesis",10
+"P::BP|||COMMON_ALL_METHODS|||cardiac muscle tissue development",9
+"P::BP|||COMMON_ALL_METHODS|||cell chemotaxis",10
+"P::BP|||COMMON_ALL_METHODS|||cell morphogenesis involved in neuron differentiation",6
+"P::BP|||COMMON_ALL_METHODS|||cell surface receptor protein tyrosine kinase signaling pathway",5
+"P::BP|||COMMON_ALL_METHODS|||cellular component assembly involved in morphogenesis",9
+"P::BP|||COMMON_ALL_METHODS|||cellular response to decreased oxygen levels",3
+"P::BP|||COMMON_ALL_METHODS|||cellular response to growth factor stimulus",5
+"P::BP|||COMMON_ALL_METHODS|||cellular response to reactive nitrogen species",3
+"P::BP|||COMMON_ALL_METHODS|||circulatory system process",9
+"P::BP|||COMMON_ALL_METHODS|||developmental growth involved in morphogenesis",6
+"P::BP|||COMMON_ALL_METHODS|||endothelial cell migration",10
+"P::BP|||COMMON_ALL_METHODS|||endothelial cell proliferation",10
+"P::BP|||COMMON_ALL_METHODS|||epithelial cell proliferation",10
+"P::BP|||COMMON_ALL_METHODS|||epithelial to mesenchymal transition",5
+"P::BP|||COMMON_ALL_METHODS|||extracellular matrix organization",1
+"P::BP|||COMMON_ALL_METHODS|||extracellular structure organization",1
+"P::BP|||COMMON_ALL_METHODS|||glycoprotein metabolic process",12
+"P::BP|||COMMON_ALL_METHODS|||hemostasis",7
+"P::BP|||COMMON_ALL_METHODS|||immune response activating cell surface receptor signaling pathway",2
+"P::BP|||COMMON_ALL_METHODS|||multicellular organismal level homeostasis",3
+"P::BP|||COMMON_ALL_METHODS|||muscle organ development",9
+"P::BP|||COMMON_ALL_METHODS|||muscle structure development",9
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of apoptotic signaling pathway",3
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of cell differentiation",2
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of immune system process",2
+"P::BP|||COMMON_ALL_METHODS|||ossification",5
+"P::BP|||COMMON_ALL_METHODS|||positive chemotaxis",10
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of cell adhesion",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of cell cell adhesion",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of cell motility",10
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of chemotaxis",10
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of t cell activation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of body fluid levels",7
+"P::BP|||COMMON_ALL_METHODS|||regulation of cell activation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of epithelial cell proliferation",10
+"P::BP|||COMMON_ALL_METHODS|||response to bacterium",2
+"P::BP|||COMMON_ALL_METHODS|||response to decreased oxygen levels",3
+"P::BP|||COMMON_ALL_METHODS|||response to growth factor",5
+"P::BP|||COMMON_ALL_METHODS|||response to hypoxia",3
+"P::BP|||COMMON_ALL_METHODS|||striated muscle tissue development",9
+"P::BP|||COMMON_ALL_METHODS|||ventricular cardiac muscle tissue development",9
+"P::CC|||COMMON_ALL_METHODS|||cell cell junction",7
+"P::CC|||COMMON_ALL_METHODS|||cell substrate junction",7
+"P::CC|||COMMON_ALL_METHODS|||contractile muscle fiber",9
+"P::CC|||COMMON_ALL_METHODS|||endoplasmic reticulum lumen",1
+"P::CC|||COMMON_ALL_METHODS|||external encapsulating structure",1
+"P::CC|||COMMON_ALL_METHODS|||extracellular matrix",1
+"P::CC|||COMMON_ALL_METHODS|||focal adhesion",7
+"P::CC|||COMMON_ALL_METHODS|||membrane microdomain",4
+"P::CC|||COMMON_ALL_METHODS|||neuron to neuron synapse",8
+"P::CC|||COMMON_ALL_METHODS|||receptor complex",5
+"P::CC|||EXCLUSIVE_RLE|||microvillus",7
+"P::MF|||COMMON_ALL_METHODS|||growth factor binding",5
+"P::MF|||COMMON_ALL_METHODS|||heparin binding",1
+"P::MF|||COMMON_ALL_METHODS|||insulin like growth factor binding",5
+"P::MF|||COMMON_ALL_METHODS|||receptor ligand activity",11
+"P::MF|||COMMON_ALL_METHODS|||signaling receptor regulator activity",11
+"P::REACTOME|||COMMON_ALL_METHODS|||extracellular matrix organization",1
+"P::REACTOME|||COMMON_ALL_METHODS|||hemostasis",1
+"P::BP|||COMMON_ALL_METHODS|||activation of immune response",2
+"P::MF|||COMMON_ALL_METHODS|||calcium dependent protein binding",4
+"P::BP|||COMMON_ALL_METHODS|||response to xenobiotic stimulus",3
+"P::CC|||COMMON_ALL_METHODS|||apical plasma membrane",1
+"P::CC|||COMMON_ALL_METHODS|||external side of plasma membrane",4
+"P::CC|||COMMON_ALL_METHODS|||side of membrane",4
+"P::BP|||COMMON_ALL_METHODS|||immune response regulating signaling pathway",2
+"P::BP|||COMMON_ALL_METHODS|||cell projection morphogenesis",6
+"P::BP|||COMMON_ALL_METHODS|||neuron projection morphogenesis",6
+"P::BP|||COMMON_ALL_METHODS|||plasma membrane bounded cell projection morphogenesis",6
+"P::BP|||COMMON_ALL_METHODS|||regulation of cell projection organization",6
+"P::BP|||COMMON_ALL_METHODS|||regulation of plasma membrane bounded cell projection organization",6
+"P::BP|||COMMON_ALL_METHODS|||regulation of ruffle assembly",7
+"P::BP|||COMMON_ALL_METHODS|||ruffle assembly",7
+"P::BP|||COMMON_ALL_METHODS|||ruffle organization",7
+"P::CC|||COMMON_ALL_METHODS|||microtubule end",7
+"P::BP|||COMMON_ALL_METHODS|||developmental growth",6
+"P::BP|||COMMON_ALL_METHODS|||growth",6
+"P::BP|||COMMON_ALL_METHODS|||heart development",9
+"P::BP|||COMMON_ALL_METHODS|||regulation of growth",6
+"P::BP|||COMMON_ALL_METHODS|||epithelial cell differentiation",3
+"P::MF|||DISCORDANT_ANY_METHOD|||protein kinase a binding",7
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of cell adhesion",2
+"P::BP|||COMMON_ALL_METHODS|||anterograde trans synaptic signaling",8
+"P::BP|||COMMON_ALL_METHODS|||chemical synaptic transmission",8
+"P::BP|||COMMON_ALL_METHODS|||synaptic signaling",8
+"P::BP|||COMMON_ALL_METHODS|||trans synaptic signaling",8
+"P::BP|||COMMON_ALL_METHODS|||blood circulation",9
+"P::BP|||COMMON_ALL_METHODS|||axon development",6
+"P::BP|||COMMON_ALL_METHODS|||axonogenesis",6
+"P::BP|||COMMON_ALL_METHODS|||brain development",6
+"P::BP|||COMMON_ALL_METHODS|||establishment or maintenance of cell polarity",7
+"P::BP|||COMMON_ALL_METHODS|||head development",6
+"P::BP|||COMMON_ALL_METHODS|||leukocyte cell cell adhesion",2
+"P::BP|||COMMON_ALL_METHODS|||lymphocyte activation",2
+"P::BP|||COMMON_ALL_METHODS|||morphogenesis of an epithelium",10
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of cell activation",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of cell development",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of hemopoiesis",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte activation",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte cell cell adhesion",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte differentiation",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of lymphocyte activation",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of myoblast differentiation",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of t cell differentiation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of leukocyte activation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of leukocyte cell cell adhesion",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of leukocyte differentiation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of lymphocyte activation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of t cell activation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of t cell differentiation",2
+"P::BP|||COMMON_ALL_METHODS|||response to wounding",7
+"P::BP|||COMMON_ALL_METHODS|||t cell activation",2
+"P::BP|||COMMON_ALL_METHODS|||tissue morphogenesis",10
+"P::CC|||COMMON_ALL_METHODS|||cortical cytoskeleton",7
+"P::BP|||COMMON_ALL_METHODS|||blood vessel development",10
+"P::BP|||COMMON_ALL_METHODS|||blood vessel remodeling",9
+"P::BP|||COMMON_ALL_METHODS|||bmp signaling pathway",5
+"P::BP|||COMMON_ALL_METHODS|||cell surface receptor protein serine threonine kinase signaling pathway",5
+"P::BP|||COMMON_ALL_METHODS|||cellular response to bmp stimulus",5
+"P::BP|||COMMON_ALL_METHODS|||response to bmp",5
+"P::BP|||COMMON_ALL_METHODS|||tissue remodeling",2
+"P::BP|||COMMON_ALL_METHODS|||vasculature development",10
+"P::CC|||COMMON_ALL_METHODS|||plasma membrane protein complex",4
+"P::BP|||COMMON_ALL_METHODS|||angiogenesis",10
+"P::BP|||COMMON_ALL_METHODS|||cell growth",6
+"P::BP|||COMMON_ALL_METHODS|||epithelial tube morphogenesis",10
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of cell motility",10
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of cell population proliferation",10
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of endothelial cell proliferation",10
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of epithelial cell proliferation",10
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of locomotion",10
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of endothelial cell proliferation",10
+"P::BP|||COMMON_ALL_METHODS|||regulation of cell growth",6
+"P::BP|||COMMON_ALL_METHODS|||regulation of endothelial cell proliferation",10
+"P::BP|||COMMON_ALL_METHODS|||regulation of smad protein signal transduction",5
+"P::BP|||COMMON_ALL_METHODS|||smad protein signal transduction",5
+"P::BP|||COMMON_ALL_METHODS|||external encapsulating structure organization",1
+"P::BP|||COMMON_ALL_METHODS|||glycoprotein biosynthetic process",12
+"P::BP|||COMMON_ALL_METHODS|||leukocyte migration",1
+"P::BP|||COMMON_ALL_METHODS|||muscle cell differentiation",9
+"P::BP|||COMMON_ALL_METHODS|||striated muscle cell differentiation",9
+"P::REACTOME|||COMMON_ALL_METHODS|||o linked glycosylation",12
+"P::BP|||COMMON_ALL_METHODS|||regulation of cellular response to growth factor stimulus",5
+"P::BP|||COMMON_ALL_METHODS|||g protein coupled receptor signaling pathway",11
+"P::BP|||COMMON_ALL_METHODS|||muscle contraction",9
+"P::BP|||COMMON_ALL_METHODS|||muscle system process",9
+"P::BP|||COMMON_ALL_METHODS|||regulation of muscle contraction",9
+"P::BP|||COMMON_ALL_METHODS|||regulation of muscle system process",9
+"P::BP|||COMMON_ALL_METHODS|||regulation of system process",9
+"P::BP|||COMMON_ALL_METHODS|||striated muscle contraction",9
+"P::BP|||COMMON_ALL_METHODS|||adaptive immune response",2
+"P::MF|||COMMON_ALL_METHODS|||calcium ion binding",4
+"P::BP|||COMMON_ALL_METHODS|||neuron apoptotic process",3
+"P::BP|||COMMON_ALL_METHODS|||circadian behavior",8
+"P::BP|||COMMON_ALL_METHODS|||rhythmic behavior",8
+"P::BP|||COMMON_ALL_METHODS|||renal system process",3
+"P::MF|||COMMON_ALL_METHODS|||actinin binding",9
+"P::BP|||COMMON_ALL_METHODS|||embryonic morphogenesis",1
+"P::BP|||COMMON_ALL_METHODS|||cellular anatomical entity morphogenesis",9
+"P::BP|||COMMON_ALL_METHODS|||regulation of angiogenesis",10
+"P::BP|||COMMON_ALL_METHODS|||regulation of vasculature development",10
+"P::BP|||COMMON_ALL_METHODS|||epidermis development",3
+"P::MF|||COMMON_ALL_METHODS|||signaling receptor activator activity",11
+"P::BP|||COMMON_ALL_METHODS|||leukocyte proliferation",2
+"P::BP|||COMMON_ALL_METHODS|||lymphocyte proliferation",2
+"P::BP|||COMMON_ALL_METHODS|||mononuclear cell proliferation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of leukocyte proliferation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of lymphocyte proliferation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of mononuclear cell proliferation",2
+"P::BP|||COMMON_ALL_METHODS|||response to molecule of bacterial origin",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of phosphatidylinositol 3 kinase protein kinase b signal transduction",10
+"P::BP|||DISCORDANT_ANY_METHOD|||cellular respiration",13
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of cell migration",10
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of locomotion",10
+"P::BP|||COMMON_ALL_METHODS|||cardiac muscle contraction",9
+"P::BP|||COMMON_ALL_METHODS|||heart contraction",9
+"P::BP|||COMMON_ALL_METHODS|||heart process",9
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of microtubule polymerization",7
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of microtubule polymerization or depolymerization",7
+"P::BP|||COMMON_ALL_METHODS|||regulation of blood circulation",9
+"P::BP|||COMMON_ALL_METHODS|||regulation of heart contraction",9
+"P::BP|||COMMON_ALL_METHODS|||reactive oxygen species metabolic process",3
+"P::BP|||COMMON_ALL_METHODS|||keratinocyte differentiation",3
+"P::REACTOME|||ALTERNATIVE_ONLY|||developmental lineage of mammary gland luminal epithelial cells",1
+"P::REACTOME|||ALTERNATIVE_ONLY|||developmental lineage of mammary gland myoepithelial cells",1
+"P::BP|||COMMON_ALL_METHODS|||muscle tissue development",9
+"P::CC|||COMMON_ALL_METHODS|||endocytic vesicle",4
+"P::BP|||COMMON_ALL_METHODS|||actomyosin structure organization",9
+"P::BP|||COMMON_ALL_METHODS|||cardiac muscle tissue morphogenesis",9
+"P::BP|||COMMON_ALL_METHODS|||cellular response to hypoxia",3
+"P::BP|||COMMON_ALL_METHODS|||cellular response to oxygen levels",3
+"P::BP|||COMMON_ALL_METHODS|||muscle organ morphogenesis",9
+"P::BP|||COMMON_ALL_METHODS|||muscle tissue morphogenesis",9
+"P::BP|||COMMON_ALL_METHODS|||myofibril assembly",9
+"P::BP|||COMMON_ALL_METHODS|||sarcomere organization",9
+"P::CC|||COMMON_ALL_METHODS|||myofibril",9
+"P::CC|||COMMON_ALL_METHODS|||sarcomere",9
+"P::CC|||COMMON_ALL_METHODS|||cortical actin cytoskeleton",7
+"P::BP|||COMMON_ALL_METHODS|||chemotaxis",10
+"P::BP|||COMMON_ALL_METHODS|||granulocyte migration",10
+"P::BP|||COMMON_ALL_METHODS|||leukocyte chemotaxis",10
+"P::BP|||COMMON_ALL_METHODS|||myeloid leukocyte migration",10
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of alpha beta t cell activation",2
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of lymphocyte activation",2
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of t cell activation",2
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of cd4 positive alpha beta t cell activation",2
+"P::BP|||COMMON_ALL_METHODS|||regulation of cd4 positive alpha beta t cell activation",2
+"P::BP|||COMMON_ALL_METHODS|||taxis",10
+"P::BP|||COMMON_ALL_METHODS|||forebrain development",6
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of supramolecular fiber organization",7
+"P::BP|||COMMON_ALL_METHODS|||response to reactive oxygen species",3
+"P::CC|||COMMON_ALL_METHODS|||endocytic vesicle membrane",4
+"P::BP|||COMMON_ALL_METHODS|||cellular response to nitric oxide",3
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of angiogenesis",10
+"P::BP|||COMMON_ALL_METHODS|||positive regulation of vasculature development",10
+"P::BP|||COMMON_ALL_METHODS|||response to nitric oxide",3
+"P::BP|||COMMON_ALL_METHODS|||telencephalon development",6
+"P::MF|||COMMON_ALL_METHODS|||cytokine activity",11
+"P::MF|||COMMON_ALL_METHODS|||growth factor activity",11
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of cytoskeleton organization",7
+"P::BP|||COMMON_ALL_METHODS|||forebrain cell migration",6
+"P::BP|||COMMON_ALL_METHODS|||telencephalon cell migration",6
+"P::BP|||COMMON_ALL_METHODS|||regulation of apoptotic signaling pathway",3
+"P::BP|||COMMON_ALL_METHODS|||cell killing",11
+"P::BP|||COMMON_ALL_METHODS|||regulation of protein containing complex disassembly",7
+"P::CC|||COMMON_ALL_METHODS|||membrane raft",4
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of protein containing complex disassembly",7
+"P::BP|||COMMON_ALL_METHODS|||negative regulation of protein depolymerization",7
+"P::BP|||COMMON_ALL_METHODS|||protein depolymerization",7
+"P::BP|||COMMON_ALL_METHODS|||regulation of protein depolymerization",7
+"P::BP|||COMMON_ALL_METHODS|||mitochondrial fission",3
+"P::BP|||COMMON_ALL_METHODS|||regulation of mitochondrial fission",3
+"P::MF|||COMMON_ALL_METHODS|||acetylgalactosaminyltransferase activity",12
+"P::MF|||COMMON_ALL_METHODS|||udp glycosyltransferase activity",12
+"P::BP|||COMMON_ALL_METHODS|||protein o linked glycosylation",12
+"P::BP|||COMMON_ALL_METHODS|||protein o linked glycosylation via n acetyl galactosamine",12
+"P::MF|||COMMON_ALL_METHODS|||cytokine receptor binding",11
+"P::BP|||COMMON_ALL_METHODS|||antigen receptor mediated signaling pathway",2
+"P::BP|||COMMON_ALL_METHODS|||immune response regulating cell surface receptor signaling pathway",2
+"P::BP|||COMMON_ALL_METHODS|||t cell receptor signaling pathway",2
+"P::BP|||COMMON_ALL_METHODS|||vascular endothelial growth factor receptor signaling pathway",10
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||amino acid biosynthetic process",14
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||positive regulation of catalytic activity",15
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||positive regulation of molecular function",15
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||regulation of catalytic activity",15
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||regulation of transferase activity",15
+"P::BP|||COMMON_ALL_METHODS|||branching morphogenesis of an epithelial tube",10
+"P::BP|||COMMON_ALL_METHODS|||cardiac ventricle development",9
+"P::BP|||COMMON_ALL_METHODS|||mesenchymal cell differentiation",5
+"P::BP|||COMMON_ALL_METHODS|||mesenchyme development",5
+"P::BP|||COMMON_ALL_METHODS|||morphogenesis of a branching epithelium",10
+"P::BP|||COMMON_ALL_METHODS|||morphogenesis of a branching structure",10
+"P::MF|||COMMON_ALL_METHODS|||cytokine binding",5
+"P::BP|||COMMON_ALL_METHODS|||regulation of chemotaxis",10
+"P::BP|||COMMON_ALL_METHODS|||disruption of cell in another organism",11
+"P::BP|||COMMON_ALL_METHODS|||killing of cells of another organism",11
+"P::BP|||COMMON_ALL_METHODS|||actin filament depolymerization",7
+"P::BP|||COMMON_ALL_METHODS|||regulation of actin filament depolymerization",7
+"P::BP|||COMMON_ALL_METHODS|||respiratory burst",10
+"P::MF|||COMMON_ALL_METHODS|||cell adhesion mediator activity",1
+"P::BP|||COMMON_ALL_METHODS|||host mediated suppression of symbiont invasion",7
+"P::CC|||COMMON_ALL_METHODS|||mhc class ii protein complex",2
+"P::MF|||COMMON_ALL_METHODS|||mhc protein complex binding",2
+"P::REACTOME|||COMMON_ALL_METHODS|||laminin interactions",1
+"P::REACTOME|||COMMON_ALL_METHODS|||ecm proteoglycans",1
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||activation of gtpase activity",15
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||regulation of kinase activity",15
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||regulation of protein kinase activity",15
+"P::BP|||COMMON_ALL_METHODS|||cerebral cortex radially oriented cell migration",6
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||activation of protein kinase activity",15
+"P::BP|||COMMON_ALL_METHODS|||cardiac ventricle morphogenesis",9
+"P::BP|||COMMON_ALL_METHODS|||ventricular cardiac muscle tissue morphogenesis",9
+"P::BP|||COMMON_ALL_METHODS|||regulation of endothelial cell chemotaxis",10
+"P::MF|||COMMON_ALL_METHODS|||fibroblast growth factor binding",5
+"P::MF|||COMMON_ALL_METHODS|||polypeptide n acetylgalactosaminyltransferase activity",12
+"P::BP|||COMMON_ALL_METHODS|||mhc class ii protein complex assembly",2
+"P::BP|||COMMON_ALL_METHODS|||peptide antigen assembly with mhc class ii protein complex",2
+"P::CC|||EXCLUSIVE_RLE|||filopodium",7
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||establishment of protein localization to endoplasmic reticulum",16
+"P::BP|||EXCLUSIVE_UPPERQUARTILE|||protein targeting to er",16
+"M::TGFB_BMP_SIGNALING",5
+"M::ECM_REMODELING",1
+"M::CELL_ADHESION_CYTOSKELETON",9
+"M::GROWTH_FACTOR_RECEPTOR_SIGNALING",10

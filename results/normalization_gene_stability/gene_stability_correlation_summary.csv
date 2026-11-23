@@ -1,0 +1,7 @@
+"contrast","reference","alternative","Spearman_logFC"
+"siNRP1_3_vs_siNT","TMM","TMMwsp",0.999998564173358
+"siNRP1_3_vs_siNT","TMM","RLE",0.999996102166366
+"siNRP1_3_vs_siNT","TMM","upperquartile",0.999970751647274
+"siNRP1_5_vs_siNT","TMM","TMMwsp",0.999999400149971
+"siNRP1_5_vs_siNT","TMM","RLE",0.999993115551183
+"siNRP1_5_vs_siNT","TMM","upperquartile",0.999957622054696

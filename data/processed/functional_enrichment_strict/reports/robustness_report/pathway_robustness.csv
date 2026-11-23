@@ -1,0 +1,17 @@
+"analysis","previous_terms","strict_terms","shared_terms","previous_only","strict_only","jaccard_similarity"
+"siNRP1_3_vs_siNT_UP_BP",0,0,0,0,0,NA
+"siNRP1_3_vs_siNT_UP_MF",0,0,0,0,0,NA
+"siNRP1_3_vs_siNT_UP_CC",0,0,0,0,0,NA
+"siNRP1_3_vs_siNT_UP_REACTOME",0,0,0,0,0,NA
+"siNRP1_3_vs_siNT_DOWN_BP",129,110,110,19,0,0.853
+"siNRP1_3_vs_siNT_DOWN_MF",16,14,14,2,0,0.875
+"siNRP1_3_vs_siNT_DOWN_CC",31,29,29,2,0,0.935
+"siNRP1_3_vs_siNT_DOWN_REACTOME",4,4,4,0,0,1
+"siNRP1_5_vs_siNT_UP_BP",269,269,267,2,2,0.985
+"siNRP1_5_vs_siNT_UP_MF",20,20,20,0,0,1
+"siNRP1_5_vs_siNT_UP_CC",46,45,45,1,0,0.978
+"siNRP1_5_vs_siNT_UP_REACTOME",61,60,60,1,0,0.984
+"siNRP1_5_vs_siNT_DOWN_BP",11,10,10,1,0,0.909
+"siNRP1_5_vs_siNT_DOWN_MF",0,0,0,0,0,NA
+"siNRP1_5_vs_siNT_DOWN_CC",4,4,4,0,0,1
+"siNRP1_5_vs_siNT_DOWN_REACTOME",1,1,1,0,0,1

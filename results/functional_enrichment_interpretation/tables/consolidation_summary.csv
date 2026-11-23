@@ -1,0 +1,14 @@
+"contrast","group","ontology","significant_terms","consolidated_clusters","terms_reduced"
+"siNRP1_3_vs_siNT","COMMON_ALL_METHODS","BP",48,11,37
+"siNRP1_5_vs_siNT","COMMON_ALL_METHODS","BP",398,35,363
+"siNRP1_5_vs_siNT","DISCORDANT_ANY_METHOD","BP",2,1,1
+"siNRP1_3_vs_siNT","EXCLUSIVE_UPPERQUARTILE","BP",2,1,1
+"siNRP1_5_vs_siNT","EXCLUSIVE_UPPERQUARTILE","BP",20,2,18
+"siNRP1_3_vs_siNT","COMMON_ALL_METHODS","CC",12,5,7
+"siNRP1_5_vs_siNT","COMMON_ALL_METHODS","CC",40,11,29
+"siNRP1_3_vs_siNT","EXCLUSIVE_RLE","CC",4,1,3
+"siNRP1_3_vs_siNT","COMMON_ALL_METHODS","MF",24,6,18
+"siNRP1_5_vs_siNT","COMMON_ALL_METHODS","MF",22,7,15
+"siNRP1_3_vs_siNT","DISCORDANT_ANY_METHOD","MF",2,1,1
+"siNRP1_5_vs_siNT","ALTERNATIVE_ONLY","Reactome",4,1,3
+"siNRP1_3_vs_siNT","COMMON_ALL_METHODS","Reactome",10,3,7

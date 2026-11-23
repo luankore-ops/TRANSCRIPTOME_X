@@ -1,0 +1,17 @@
+"comparison","direction","method","significant_genes","mapped_genes","mapping_coverage_percent","background_genes","enriched_terms"
+"siNRP1_3_vs_siNT","UP","BP",1165,853,73.22,14775,0
+"siNRP1_3_vs_siNT","UP","MF",1165,853,73.22,14775,0
+"siNRP1_3_vs_siNT","UP","CC",1165,853,73.22,14775,0
+"siNRP1_3_vs_siNT","UP","REACTOME",1165,853,73.22,14775,0
+"siNRP1_3_vs_siNT","DOWN","BP",1525,1409,92.39,14775,110
+"siNRP1_3_vs_siNT","DOWN","MF",1525,1409,92.39,14775,14
+"siNRP1_3_vs_siNT","DOWN","CC",1525,1409,92.39,14775,29
+"siNRP1_3_vs_siNT","DOWN","REACTOME",1525,1409,92.39,14775,4
+"siNRP1_5_vs_siNT","UP","BP",1647,1428,86.7,14775,269
+"siNRP1_5_vs_siNT","UP","MF",1647,1428,86.7,14775,20
+"siNRP1_5_vs_siNT","UP","CC",1647,1428,86.7,14775,45
+"siNRP1_5_vs_siNT","UP","REACTOME",1647,1428,86.7,14775,60
+"siNRP1_5_vs_siNT","DOWN","BP",1773,1621,91.43,14775,10
+"siNRP1_5_vs_siNT","DOWN","MF",1773,1621,91.43,14775,0
+"siNRP1_5_vs_siNT","DOWN","CC",1773,1621,91.43,14775,4
+"siNRP1_5_vs_siNT","DOWN","REACTOME",1773,1621,91.43,14775,1

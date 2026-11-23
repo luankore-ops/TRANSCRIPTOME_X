@@ -1,0 +1,5 @@
+"comparison","direction","significant_genes","mapped_genes","excluded_genes","mapping_coverage_percent"
+"siNRP1_3_vs_siNT","UP",1165,853,312,73.22
+"siNRP1_3_vs_siNT","DOWN",1525,1409,116,92.39
+"siNRP1_5_vs_siNT","UP",1647,1428,219,86.7
+"siNRP1_5_vs_siNT","DOWN",1773,1621,152,91.43

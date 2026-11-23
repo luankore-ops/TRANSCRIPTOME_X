@@ -1,0 +1,65 @@
+"analysis","ID","Description","old_genes","strict_genes","shared_genes","old_only_genes","strict_only_genes","Jaccard"
+"siNRP1_3_vs_siNT_DOWN_REACTOME","R-HSA-1474244","Extracellular matrix organization",49,49,49,"","",1
+"siNRP1_3_vs_siNT_DOWN_REACTOME","R-HSA-5173105","O-linked glycosylation",22,22,22,"","",1
+"siNRP1_3_vs_siNT_DOWN_REACTOME","R-HSA-216083","Integrin cell surface interactions",18,18,18,"","",1
+"siNRP1_3_vs_siNT_DOWN_REACTOME","R-HSA-3000178","ECM proteoglycans",16,16,16,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-156842","Eukaryotic Translation Elongation",29,29,29,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-2408557","Selenocysteine synthesis",29,29,29,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72764","Eukaryotic Translation Termination",29,29,29,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-156902","Peptide chain elongation",28,28,28,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-192823","Viral mRNA Translation",28,28,28,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9954714","PELO:HBS1L and ABCE1 dissociate a ribosome on a non-stop mRNA",28,28,28,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72689","Formation of a pool of free 40S subunits",30,30,30,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72613","Eukaryotic Translation Initiation",33,33,33,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72737","Cap-dependent Translation Initiation",33,33,33,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72706","GTP hydrolysis and joining of the 60S ribosomal subunit",31,31,31,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9735869","SARS-CoV-1 modulates host translation machinery",17,17,17,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-975956","Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)",28,28,28,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9754678","SARS-CoV-2 modulates host translation machinery",20,20,20,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9954716","ZNF598 and the Ribosome-associated Quality Trigger (RQT) complex dissociate a ribosome stalled on a no-go mRNA",28,28,28,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-156827","L13a-mediated translational silencing of Ceruloplasmin expression",30,30,30,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9633012","Response of EIF2AK4 (GCN2) to amino acid deficiency",28,28,28,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-1799339","SRP-dependent cotranslational protein targeting to membrane",30,30,30,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72695","Formation of the ternary complex, and subsequently, the 43S complex",19,19,19,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-2408522","Selenoamino acid metabolism",29,29,29,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72662","Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",20,20,20,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9711097","Cellular response to starvation",36,36,36,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-927802","Nonsense-Mediated Decay (NMD)",29,29,29,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-975957","Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)",29,29,29,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72649","Translation initiation complex formation",19,19,19,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72702","Ribosomal scanning and start codon recognition",19,19,19,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9948299","Ribosome-associated quality control",33,33,33,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72312","rRNA processing",41,41,41,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-397014","Muscle contraction",29,29,29,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-168273","Influenza Viral RNA Transcription and Replication",31,31,31,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-8868773","rRNA processing in the nucleus and cytosol",37,37,37,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-168255","Influenza Infection",33,33,33,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9010553","Regulation of expression of SLITs and ROBOs",32,32,32,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-5218920","VEGFR2 mediated vascular permeability",11,11,11,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-376176","Signaling by ROBO receptors",37,36,36,"BUB1B-PAK6","",0.972972972972973
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-6791226","Major pathway of rRNA processing in the nucleolus and cytosol",33,33,33,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9006934","Signaling by Receptor Tyrosine Kinases",71,71,71,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9675108","Nervous system development",72,71,71,"BUB1B-PAK6","",0.986111111111111
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-6805567","Keratinization",12,12,12,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-194138","Signaling by VEGF",23,23,23,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-71387","Metabolism of carbohydrates and carbohydrate derivatives",43,43,43,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9692914","SARS-CoV-1-host interactions",21,21,21,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-422475","Axon guidance",68,67,67,"BUB1B-PAK6","",0.985294117647059
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-8856825","Cargo recognition for clathrin-mediated endocytosis",20,19,19,"VAMP7","",0.95
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-6809371","Formation of the cornified envelope",11,11,11,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-109582","Hemostasis",68,68,68,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-163210","Formation of ATP by chemiosmotic coupling",8,8,8,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-4420097","VEGFA-VEGFR2 Pathway",20,20,20,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-8856828","Clathrin-mediated endocytosis",25,24,24,"VAMP7","",0.96
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-3322077","Glycogen synthesis",6,6,6,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-5576891","Cardiac conduction",16,16,16,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-72766","Translation",55,55,55,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-8876384","Listeria monocytogenes entry into host cells",7,7,7,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-71291","Metabolism of amino acids and derivatives",45,45,45,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9856530","High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells",14,14,14,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-445355","Smooth Muscle Contraction",10,10,10,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-76002","Platelet activation, signaling and aggregation",34,34,34,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9634600","Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",5,5,5,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-381426","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",17,17,17,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-114608","Platelet degranulation",20,20,20,"","",1
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-390522","Striated Muscle Contraction",7,7,7,"","",1

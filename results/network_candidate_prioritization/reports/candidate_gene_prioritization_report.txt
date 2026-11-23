@@ -1,0 +1,55 @@
+TRANSCRIPTOME-X
+NETWORK-BASED CANDIDATE GENE PRIORITIZATION
+============================================================
+
+Total candidate genes: 1913
+High priority: 75
+Medium priority: 886
+Exploratory: 952
+Bridge genes: 3
+Articulation genes: 0
+
+TOP 10 CANDIDATE GENES
+----------------------
+1. THBS1 | Score: 89.87 | HIGH | Degree: 67 | Betweenness: 0.02040 | Pathways: 65 | Modules: 2
+2. CCN3 | Score: 89.28 | HIGH | Degree: 47 | Betweenness: 0.00805 | Pathways: 45 | Modules: 2
+3. TGFB2 | Score: 79.66 | HIGH | Degree: 84 | Betweenness: 0.02055 | Pathways: 83 | Modules: 1
+4. BMP4 | Score: 79.65 | HIGH | Degree: 90 | Betweenness: 0.01979 | Pathways: 89 | Modules: 1
+5. CAV1 | Score: 79.59 | HIGH | Degree: 78 | Betweenness: 0.01419 | Pathways: 77 | Modules: 1
+6. NRP1 | Score: 79.50 | HIGH | Degree: 70 | Betweenness: 0.01026 | Pathways: 69 | Modules: 1
+7. LYN | Score: 79.46 | HIGH | Degree: 64 | Betweenness: 0.01076 | Pathways: 63 | Modules: 1
+8. TGFBR3 | Score: 79.26 | HIGH | Degree: 60 | Betweenness: 0.00814 | Pathways: 59 | Modules: 1
+9. ENG | Score: 79.23 | HIGH | Degree: 61 | Betweenness: 0.00655 | Pathways: 60 | Modules: 1
+10. TGFBR2 | Score: 79.20 | HIGH | Degree: 61 | Betweenness: 0.00646 | Pathways: 60 | Modules: 1
+
+BRIDGE AND ARTICULATION GENES
+-----------------------------
+THBS1 | Score: 89.87 | Betweenness: 0.02040 | Modules: 2
+CCN3 | Score: 89.28 | Betweenness: 0.00805 | Modules: 2
+CCN2 | Score: 78.63 | Betweenness: 0.00097 | Modules: 3
+
+SCORING FRAMEWORK
+-----------------
+Betweenness centrality: 30%
+Degree: 20%
+Pathway support: 15%
+Module support: 15%
+Bridge gene status: 10%
+Articulation point status: 10%
+
+INTERPRETATION
+--------------
+The priority score is a descriptive composite ranking.
+It combines network topology and annotation coverage.
+It is not a statistical p-value or a measure of causal relevance.
+Genes with more annotations may receive higher support scores.
+The ranking should be interpreted alongside differential
+expression, pathway enrichment and experimental evidence.
+
+LIMITATIONS
+-----------
+The network is based on gene-pathway-module annotations.
+Edges are not necessarily physical molecular interactions.
+Pathway and module counts depend on selected annotations.
+Centrality depends on the constructed network topology.
+This analysis does not demonstrate pathway activation.

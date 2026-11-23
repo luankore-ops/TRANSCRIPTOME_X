@@ -1,0 +1,4 @@
+"comparison","direction","integrated_rows","distinct_enrichment_symbols","distinct_ensembl_ids","matched_to_ensembl","significant_DE","direction_consistent","missing_ensembl"
+"siNRP1_3_vs_siNT","DOWN",744,744,703,703,703,703,41
+"siNRP1_5_vs_siNT","DOWN",156,156,143,143,143,143,13
+"siNRP1_5_vs_siNT","UP",861,861,809,809,809,809,52

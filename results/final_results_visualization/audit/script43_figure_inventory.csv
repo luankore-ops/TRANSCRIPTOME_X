@@ -1,0 +1,8 @@
+"figure","png_available","pdf_available"
+"Figure_01_Robust_Candidate_Ranking",TRUE,TRUE
+"Figure_02_Shortlist_Expression_Heatmap",TRUE,TRUE
+"Figure_03_Integrated_Evidence_Matrix",TRUE,TRUE
+"Figure_04_Robust_Gene_Module_Network",TRUE,TRUE
+"Figure_05_Integrated_Candidate_Class_Distribution",TRUE,TRUE
+"Figure_06_Knockdown_LogFC_Comparison",TRUE,TRUE
+"Figure_07_Top_15_Integrated_Candidates",TRUE,TRUE

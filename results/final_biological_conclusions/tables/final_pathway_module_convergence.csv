@@ -1,0 +1,669 @@
+"pathway_identifier","module","shared_candidate_count"
+"CC|||COMMON_ALL_METHODS|||external encapsulating structure","ECM_REMODELING",26
+"CC|||COMMON_ALL_METHODS|||extracellular matrix","ECM_REMODELING",26
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein tyrosine kinase signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",16
+"BP|||COMMON_ALL_METHODS|||cellular response to growth factor stimulus","TGFB_BMP_SIGNALING",14
+"BP|||COMMON_ALL_METHODS|||external encapsulating structure organization","ECM_REMODELING",12
+"BP|||COMMON_ALL_METHODS|||extracellular matrix organization","ECM_REMODELING",12
+"BP|||COMMON_ALL_METHODS|||extracellular structure organization","ECM_REMODELING",12
+"REACTOME|||COMMON_ALL_METHODS|||extracellular matrix organization","ECM_REMODELING",12
+"BP|||COMMON_ALL_METHODS|||blood vessel development","GROWTH_FACTOR_RECEPTOR_SIGNALING",11
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell migration","GROWTH_FACTOR_RECEPTOR_SIGNALING",11
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell motility","GROWTH_FACTOR_RECEPTOR_SIGNALING",11
+"BP|||COMMON_ALL_METHODS|||positive regulation of locomotion","GROWTH_FACTOR_RECEPTOR_SIGNALING",11
+"BP|||COMMON_ALL_METHODS|||vasculature development","GROWTH_FACTOR_RECEPTOR_SIGNALING",11
+"CC|||COMMON_ALL_METHODS|||receptor complex","GROWTH_FACTOR_RECEPTOR_SIGNALING",11
+"MF|||COMMON_ALL_METHODS|||growth factor binding","GROWTH_FACTOR_RECEPTOR_SIGNALING",11
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein serine threonine kinase signaling pathway","TGFB_BMP_SIGNALING",11
+"BP|||COMMON_ALL_METHODS|||response to growth factor","TGFB_BMP_SIGNALING",11
+"BP|||COMMON_ALL_METHODS|||muscle structure development","CELL_ADHESION_CYTOSKELETON",10
+"BP|||COMMON_ALL_METHODS|||angiogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",10
+"BP|||COMMON_ALL_METHODS|||blood vessel morphogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",10
+"BP|||COMMON_ALL_METHODS|||cell chemotaxis","GROWTH_FACTOR_RECEPTOR_SIGNALING",10
+"BP|||COMMON_ALL_METHODS|||cellular response to growth factor stimulus","GROWTH_FACTOR_RECEPTOR_SIGNALING",10
+"BP|||COMMON_ALL_METHODS|||chemotaxis","GROWTH_FACTOR_RECEPTOR_SIGNALING",10
+"BP|||COMMON_ALL_METHODS|||response to wounding","GROWTH_FACTOR_RECEPTOR_SIGNALING",10
+"BP|||COMMON_ALL_METHODS|||taxis","GROWTH_FACTOR_RECEPTOR_SIGNALING",10
+"BP|||COMMON_ALL_METHODS|||ossification","TGFB_BMP_SIGNALING",10
+"BP|||COMMON_ALL_METHODS|||regulation of chemotaxis","GROWTH_FACTOR_RECEPTOR_SIGNALING",9
+"BP|||COMMON_ALL_METHODS|||smad protein signal transduction","TGFB_BMP_SIGNALING",9
+"BP|||COMMON_ALL_METHODS|||endothelial cell migration","GROWTH_FACTOR_RECEPTOR_SIGNALING",8
+"BP|||COMMON_ALL_METHODS|||epithelial cell proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",8
+"BP|||COMMON_ALL_METHODS|||response to growth factor","GROWTH_FACTOR_RECEPTOR_SIGNALING",8
+"BP|||COMMON_ALL_METHODS|||blood vessel development","TGFB_BMP_SIGNALING",8
+"BP|||COMMON_ALL_METHODS|||epithelial cell proliferation","TGFB_BMP_SIGNALING",8
+"BP|||COMMON_ALL_METHODS|||heart development","TGFB_BMP_SIGNALING",8
+"BP|||COMMON_ALL_METHODS|||regulation of smad protein signal transduction","TGFB_BMP_SIGNALING",8
+"BP|||COMMON_ALL_METHODS|||vasculature development","TGFB_BMP_SIGNALING",8
+"REACTOME|||COMMON_ALL_METHODS|||extracellular matrix organization","CELL_ADHESION_CYTOSKELETON",7
+"BP|||COMMON_ALL_METHODS|||ossification","GROWTH_FACTOR_RECEPTOR_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell adhesion","GROWTH_FACTOR_RECEPTOR_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||positive regulation of chemotaxis","GROWTH_FACTOR_RECEPTOR_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||regulation of angiogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||regulation of epithelial cell proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||regulation of vasculature development","GROWTH_FACTOR_RECEPTOR_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||angiogenesis","TGFB_BMP_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||animal organ morphogenesis","TGFB_BMP_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||blood vessel morphogenesis","TGFB_BMP_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||bmp signaling pathway","TGFB_BMP_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||cellular response to bmp stimulus","TGFB_BMP_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell population proliferation","TGFB_BMP_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||regulation of epithelial cell proliferation","TGFB_BMP_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||response to bmp","TGFB_BMP_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||tissue morphogenesis","TGFB_BMP_SIGNALING",7
+"MF|||COMMON_ALL_METHODS|||growth factor binding","TGFB_BMP_SIGNALING",7
+"BP|||COMMON_ALL_METHODS|||muscle system process","CELL_ADHESION_CYTOSKELETON",6
+"BP|||COMMON_ALL_METHODS|||regulation of cell projection organization","CELL_ADHESION_CYTOSKELETON",6
+"BP|||COMMON_ALL_METHODS|||regulation of plasma membrane bounded cell projection organization","CELL_ADHESION_CYTOSKELETON",6
+"CC|||COMMON_ALL_METHODS|||cell cell junction","CELL_ADHESION_CYTOSKELETON",6
+"CC|||COMMON_ALL_METHODS|||cell substrate junction","CELL_ADHESION_CYTOSKELETON",6
+"CC|||COMMON_ALL_METHODS|||focal adhesion","CELL_ADHESION_CYTOSKELETON",6
+"REACTOME|||COMMON_ALL_METHODS|||hemostasis","CELL_ADHESION_CYTOSKELETON",6
+"BP|||COMMON_ALL_METHODS|||response to wounding","ECM_REMODELING",6
+"CC|||COMMON_ALL_METHODS|||endoplasmic reticulum lumen","ECM_REMODELING",6
+"MF|||COMMON_ALL_METHODS|||growth factor binding","ECM_REMODELING",6
+"BP|||COMMON_ALL_METHODS|||leukocyte chemotaxis","GROWTH_FACTOR_RECEPTOR_SIGNALING",6
+"BP|||COMMON_ALL_METHODS|||myeloid leukocyte migration","GROWTH_FACTOR_RECEPTOR_SIGNALING",6
+"MF|||COMMON_ALL_METHODS|||signaling receptor activator activity","GROWTH_FACTOR_RECEPTOR_SIGNALING",6
+"MF|||COMMON_ALL_METHODS|||signaling receptor regulator activity","GROWTH_FACTOR_RECEPTOR_SIGNALING",6
+"BP|||COMMON_ALL_METHODS|||epithelial cell differentiation","TGFB_BMP_SIGNALING",6
+"BP|||COMMON_ALL_METHODS|||muscle structure development","TGFB_BMP_SIGNALING",6
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell motility","TGFB_BMP_SIGNALING",6
+"BP|||COMMON_ALL_METHODS|||negative regulation of locomotion","TGFB_BMP_SIGNALING",6
+"MF|||COMMON_ALL_METHODS|||signaling receptor activator activity","TGFB_BMP_SIGNALING",6
+"MF|||COMMON_ALL_METHODS|||signaling receptor regulator activity","TGFB_BMP_SIGNALING",6
+"BP|||COMMON_ALL_METHODS|||actomyosin structure organization","CELL_ADHESION_CYTOSKELETON",5
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein tyrosine kinase signaling pathway","CELL_ADHESION_CYTOSKELETON",5
+"BP|||COMMON_ALL_METHODS|||cellular response to growth factor stimulus","CELL_ADHESION_CYTOSKELETON",5
+"BP|||COMMON_ALL_METHODS|||muscle organ development","CELL_ADHESION_CYTOSKELETON",5
+"BP|||COMMON_ALL_METHODS|||muscle tissue development","CELL_ADHESION_CYTOSKELETON",5
+"BP|||COMMON_ALL_METHODS|||striated muscle tissue development","CELL_ADHESION_CYTOSKELETON",5
+"CC|||COMMON_ALL_METHODS|||membrane microdomain","CELL_ADHESION_CYTOSKELETON",5
+"CC|||COMMON_ALL_METHODS|||membrane raft","CELL_ADHESION_CYTOSKELETON",5
+"CC|||COMMON_ALL_METHODS|||receptor complex","CELL_ADHESION_CYTOSKELETON",5
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell migration","ECM_REMODELING",5
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell motility","ECM_REMODELING",5
+"BP|||COMMON_ALL_METHODS|||positive regulation of locomotion","ECM_REMODELING",5
+"MF|||COMMON_ALL_METHODS|||heparin binding","ECM_REMODELING",5
+"REACTOME|||COMMON_ALL_METHODS|||ecm proteoglycans","ECM_REMODELING",5
+"BP|||COMMON_ALL_METHODS|||endothelial cell proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||epithelial tube morphogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||hemostasis","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||morphogenesis of an epithelium","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell population proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||positive chemotaxis","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||positive regulation of angiogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||positive regulation of vasculature development","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||regulation of body fluid levels","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||regulation of endothelial cell proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||regulation of phosphatidylinositol 3 kinase protein kinase b signal transduction","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||tissue morphogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"MF|||COMMON_ALL_METHODS|||growth factor activity","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"MF|||COMMON_ALL_METHODS|||receptor ligand activity","GROWTH_FACTOR_RECEPTOR_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||cardiac muscle tissue development","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||cardiac ventricle development","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||chemotaxis","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||epithelial to mesenchymal transition","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||epithelial tube morphogenesis","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||mesenchymal cell differentiation","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||mesenchyme development","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||morphogenesis of an epithelium","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||muscle tissue development","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell differentiation","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||negative regulation of immune system process","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||regulation of cellular response to growth factor stimulus","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||striated muscle tissue development","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||taxis","TGFB_BMP_SIGNALING",5
+"CC|||COMMON_ALL_METHODS|||receptor complex","TGFB_BMP_SIGNALING",5
+"MF|||COMMON_ALL_METHODS|||cytokine receptor binding","TGFB_BMP_SIGNALING",5
+"MF|||COMMON_ALL_METHODS|||growth factor activity","TGFB_BMP_SIGNALING",5
+"MF|||COMMON_ALL_METHODS|||heparin binding","TGFB_BMP_SIGNALING",5
+"MF|||COMMON_ALL_METHODS|||receptor ligand activity","TGFB_BMP_SIGNALING",5
+"BP|||COMMON_ALL_METHODS|||cell morphogenesis involved in neuron differentiation","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||cell projection morphogenesis","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||epithelial cell differentiation","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||heart development","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||muscle cell differentiation","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||muscle contraction","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell population proliferation","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||neuron projection morphogenesis","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||plasma membrane bounded cell projection morphogenesis","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||regulation of muscle system process","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||regulation of system process","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||response to growth factor","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||response to wounding","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||striated muscle cell differentiation","CELL_ADHESION_CYTOSKELETON",4
+"CC|||COMMON_ALL_METHODS|||contractile muscle fiber","CELL_ADHESION_CYTOSKELETON",4
+"CC|||COMMON_ALL_METHODS|||myofibril","CELL_ADHESION_CYTOSKELETON",4
+"CC|||COMMON_ALL_METHODS|||plasma membrane protein complex","CELL_ADHESION_CYTOSKELETON",4
+"MF|||COMMON_ALL_METHODS|||cell adhesion mediator activity","CELL_ADHESION_CYTOSKELETON",4
+"BP|||COMMON_ALL_METHODS|||angiogenesis","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||blood vessel development","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||blood vessel morphogenesis","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein tyrosine kinase signaling pathway","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||cellular response to growth factor stimulus","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell motility","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||negative regulation of locomotion","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||ossification","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||response to growth factor","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||vasculature development","ECM_REMODELING",4
+"BP|||COMMON_ALL_METHODS|||branching morphogenesis of an epithelial tube","GROWTH_FACTOR_RECEPTOR_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||epithelial cell differentiation","GROWTH_FACTOR_RECEPTOR_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||morphogenesis of a branching epithelium","GROWTH_FACTOR_RECEPTOR_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||morphogenesis of a branching structure","GROWTH_FACTOR_RECEPTOR_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell differentiation","GROWTH_FACTOR_RECEPTOR_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||positive regulation of endothelial cell proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||regulation of cell activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||vascular endothelial growth factor receptor signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",4
+"CC|||COMMON_ALL_METHODS|||plasma membrane protein complex","GROWTH_FACTOR_RECEPTOR_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||cardiac ventricle morphogenesis","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||cell chemotaxis","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||developmental growth","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||embryonic morphogenesis","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||endothelial cell proliferation","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||growth","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||head development","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||leukocyte migration","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||multicellular organismal level homeostasis","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||muscle organ development","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||negative regulation of epithelial cell proliferation","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell migration","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell motility","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||positive regulation of locomotion","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||regulation of endothelial cell proliferation","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||response to decreased oxygen levels","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||response to hypoxia","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||response to wounding","TGFB_BMP_SIGNALING",4
+"CC|||COMMON_ALL_METHODS|||external encapsulating structure","TGFB_BMP_SIGNALING",4
+"CC|||COMMON_ALL_METHODS|||external side of plasma membrane","TGFB_BMP_SIGNALING",4
+"CC|||COMMON_ALL_METHODS|||extracellular matrix","TGFB_BMP_SIGNALING",4
+"CC|||COMMON_ALL_METHODS|||side of membrane","TGFB_BMP_SIGNALING",4
+"MF|||COMMON_ALL_METHODS|||cytokine activity","TGFB_BMP_SIGNALING",4
+"BP|||COMMON_ALL_METHODS|||animal organ morphogenesis","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||blood circulation","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||circulatory system process","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||embryonic morphogenesis","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||establishment or maintenance of cell polarity","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||g protein coupled receptor signaling pathway","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell motility","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||negative regulation of locomotion","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||regulation of muscle contraction","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||response to decreased oxygen levels","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||response to hypoxia","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||tissue morphogenesis","CELL_ADHESION_CYTOSKELETON",3
+"CC|||COMMON_ALL_METHODS|||external encapsulating structure","CELL_ADHESION_CYTOSKELETON",3
+"CC|||COMMON_ALL_METHODS|||extracellular matrix","CELL_ADHESION_CYTOSKELETON",3
+"CC|||COMMON_ALL_METHODS|||sarcomere","CELL_ADHESION_CYTOSKELETON",3
+"CC|||COMMON_ALL_METHODS|||side of membrane","CELL_ADHESION_CYTOSKELETON",3
+"MF|||COMMON_ALL_METHODS|||growth factor binding","CELL_ADHESION_CYTOSKELETON",3
+"REACTOME|||COMMON_ALL_METHODS|||laminin interactions","CELL_ADHESION_CYTOSKELETON",3
+"BP|||COMMON_ALL_METHODS|||cell chemotaxis","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||chemotaxis","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||embryonic morphogenesis","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||hemostasis","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||leukocyte chemotaxis","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||myeloid leukocyte migration","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||negative regulation of apoptotic signaling pathway","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell adhesion","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell differentiation","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell population proliferation","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||regulation of angiogenesis","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||regulation of apoptotic signaling pathway","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||regulation of body fluid levels","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||regulation of chemotaxis","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||regulation of phosphatidylinositol 3 kinase protein kinase b signal transduction","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||regulation of vasculature development","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||response to bacterium","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||response to molecule of bacterial origin","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||taxis","ECM_REMODELING",3
+"MF|||COMMON_ALL_METHODS|||calcium ion binding","ECM_REMODELING",3
+"REACTOME|||COMMON_ALL_METHODS|||hemostasis","ECM_REMODELING",3
+"BP|||COMMON_ALL_METHODS|||adaptive immune response","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||growth","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||heart development","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||lymphocyte activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell cell adhesion","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell development","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of cell projection organization","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of cellular response to growth factor stimulus","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of endothelial cell chemotaxis","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of plasma membrane bounded cell projection organization","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||response to bacterium","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||t cell activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"CC|||COMMON_ALL_METHODS|||external encapsulating structure","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"CC|||COMMON_ALL_METHODS|||extracellular matrix","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"CC|||COMMON_ALL_METHODS|||side of membrane","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"MF|||COMMON_ALL_METHODS|||cytokine receptor binding","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"MF|||COMMON_ALL_METHODS|||heparin binding","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"MF|||COMMON_ALL_METHODS|||insulin like growth factor binding","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"REACTOME|||COMMON_ALL_METHODS|||hemostasis","GROWTH_FACTOR_RECEPTOR_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||blood circulation","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||brain development","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||branching morphogenesis of an epithelial tube","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||cardiac muscle tissue morphogenesis","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein tyrosine kinase signaling pathway","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||circulatory system process","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||endothelial cell migration","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||epidermis development","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||external encapsulating structure organization","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||extracellular matrix organization","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||extracellular structure organization","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||leukocyte chemotaxis","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||morphogenesis of a branching epithelium","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||morphogenesis of a branching structure","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||muscle cell differentiation","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||muscle organ morphogenesis","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||muscle tissue morphogenesis","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||myeloid leukocyte migration","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||negative regulation of apoptotic signaling pathway","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell adhesion","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of apoptotic signaling pathway","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of cell activation","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of growth","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte activation","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of phosphatidylinositol 3 kinase protein kinase b signal transduction","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||regulation of system process","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||ventricular cardiac muscle tissue development","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||ventricular cardiac muscle tissue morphogenesis","TGFB_BMP_SIGNALING",3
+"CC|||COMMON_ALL_METHODS|||plasma membrane protein complex","TGFB_BMP_SIGNALING",3
+"MF|||COMMON_ALL_METHODS|||cytokine binding","TGFB_BMP_SIGNALING",3
+"REACTOME|||COMMON_ALL_METHODS|||extracellular matrix organization","TGFB_BMP_SIGNALING",3
+"BP|||COMMON_ALL_METHODS|||anterograde trans synaptic signaling","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||axon development","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||axonogenesis","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||blood vessel development","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||blood vessel morphogenesis","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||cardiac muscle contraction","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||cardiac muscle tissue development","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||cell growth","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||cellular anatomical entity morphogenesis","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||cellular component assembly involved in morphogenesis","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||cellular response to oxygen levels","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||chemical synaptic transmission","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||developmental growth","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||endothelial cell proliferation","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||epithelial cell proliferation","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||glycoprotein metabolic process","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||growth","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||heart contraction","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||heart process","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||hemostasis","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||leukocyte migration","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||multicellular organismal level homeostasis","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell differentiation","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||negative regulation of endothelial cell proliferation","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||negative regulation of epithelial cell proliferation","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell adhesion","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell migration","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell motility","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of locomotion","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||regulation of apoptotic signaling pathway","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||regulation of blood circulation","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||regulation of body fluid levels","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||regulation of endothelial cell proliferation","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||regulation of epithelial cell proliferation","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||regulation of heart contraction","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||response to bacterium","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||ruffle organization","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||striated muscle contraction","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||synaptic signaling","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||tissue remodeling","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||trans synaptic signaling","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||vasculature development","CELL_ADHESION_CYTOSKELETON",2
+"CC|||COMMON_ALL_METHODS|||cortical actin cytoskeleton","CELL_ADHESION_CYTOSKELETON",2
+"CC|||COMMON_ALL_METHODS|||cortical cytoskeleton","CELL_ADHESION_CYTOSKELETON",2
+"CC|||COMMON_ALL_METHODS|||endoplasmic reticulum lumen","CELL_ADHESION_CYTOSKELETON",2
+"CC|||COMMON_ALL_METHODS|||neuron to neuron synapse","CELL_ADHESION_CYTOSKELETON",2
+"MF|||COMMON_ALL_METHODS|||actinin binding","CELL_ADHESION_CYTOSKELETON",2
+"REACTOME|||COMMON_ALL_METHODS|||ecm proteoglycans","CELL_ADHESION_CYTOSKELETON",2
+"BP|||COMMON_ALL_METHODS|||animal organ morphogenesis","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||cell growth","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein serine threonine kinase signaling pathway","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||endothelial cell migration","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||epithelial cell differentiation","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||epithelial cell proliferation","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||growth","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||leukocyte migration","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||morphogenesis of an epithelium","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||multicellular organismal level homeostasis","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||muscle cell differentiation","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||muscle structure development","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||negative regulation of immune system process","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of angiogenesis","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of chemotaxis","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of vasculature development","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||reactive oxygen species metabolic process","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||regulation of cell growth","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||regulation of cellular response to growth factor stimulus","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||regulation of growth","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||regulation of system process","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||response to decreased oxygen levels","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||response to hypoxia","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||striated muscle cell differentiation","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||tissue morphogenesis","ECM_REMODELING",2
+"MF|||COMMON_ALL_METHODS|||receptor ligand activity","ECM_REMODELING",2
+"MF|||COMMON_ALL_METHODS|||signaling receptor activator activity","ECM_REMODELING",2
+"MF|||COMMON_ALL_METHODS|||signaling receptor regulator activity","ECM_REMODELING",2
+"REACTOME|||COMMON_ALL_METHODS|||laminin interactions","ECM_REMODELING",2
+"REACTOME|||COMMON_ALL_METHODS|||o linked glycosylation","ECM_REMODELING",2
+"BP|||COMMON_ALL_METHODS|||activation of immune response","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||actomyosin structure organization","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||animal organ morphogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||antigen receptor mediated signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||blood circulation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||cell growth","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||circulatory system process","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||developmental growth","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||developmental growth involved in morphogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||immune response activating cell surface receptor signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||immune response regulating cell surface receptor signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||immune response regulating signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||leukocyte cell cell adhesion","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||leukocyte migration","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||leukocyte proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||lymphocyte proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||mononuclear cell proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||multicellular organismal level homeostasis","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||muscle structure development","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||muscle system process","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||neuron apoptotic process","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte cell cell adhesion","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of lymphocyte activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of t cell activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of cell growth","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of growth","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte cell cell adhesion","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of lymphocyte activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of lymphocyte proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of mononuclear cell proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of t cell activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||response to molecule of bacterial origin","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||response to reactive oxygen species","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||response to xenobiotic stimulus","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"CC|||COMMON_ALL_METHODS|||cell cell junction","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"CC|||COMMON_ALL_METHODS|||cell substrate junction","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"CC|||COMMON_ALL_METHODS|||endocytic vesicle","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"CC|||COMMON_ALL_METHODS|||endocytic vesicle membrane","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"CC|||COMMON_ALL_METHODS|||external side of plasma membrane","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"CC|||COMMON_ALL_METHODS|||focal adhesion","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"CC|||COMMON_ALL_METHODS|||membrane microdomain","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"CC|||COMMON_ALL_METHODS|||membrane raft","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"MF|||COMMON_ALL_METHODS|||cytokine binding","GROWTH_FACTOR_RECEPTOR_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||cell growth","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||granulocyte migration","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||leukocyte cell cell adhesion","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||leukocyte proliferation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||lymphocyte activation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||lymphocyte proliferation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||mononuclear cell proliferation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||negative regulation of endothelial cell proliferation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell activation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell adhesion","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell development","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of endothelial cell proliferation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte activation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||reactive oxygen species metabolic process","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of angiogenesis","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of cell growth","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of chemotaxis","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte cell cell adhesion","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte differentiation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte proliferation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of lymphocyte activation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of lymphocyte proliferation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of mononuclear cell proliferation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of t cell activation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of t cell differentiation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||regulation of vasculature development","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||response to xenobiotic stimulus","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||striated muscle cell differentiation","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||t cell activation","TGFB_BMP_SIGNALING",2
+"CC|||COMMON_ALL_METHODS|||endoplasmic reticulum lumen","TGFB_BMP_SIGNALING",2
+"MF|||COMMON_ALL_METHODS|||fibroblast growth factor binding","TGFB_BMP_SIGNALING",2
+"REACTOME|||COMMON_ALL_METHODS|||hemostasis","TGFB_BMP_SIGNALING",2
+"BP|||COMMON_ALL_METHODS|||activation of immune response","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||angiogenesis","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||bmp signaling pathway","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||brain development","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||cardiac muscle tissue morphogenesis","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||cardiac ventricle development","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||cardiac ventricle morphogenesis","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||cell chemotaxis","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein serine threonine kinase signaling pathway","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||cellular response to bmp stimulus","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||cellular response to decreased oxygen levels","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||cellular response to hypoxia","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||developmental growth involved in morphogenesis","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||epidermis development","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||epithelial to mesenchymal transition","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||external encapsulating structure organization","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||extracellular matrix organization","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||extracellular structure organization","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||forebrain development","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||glycoprotein biosynthetic process","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||head development","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||immune response activating cell surface receptor signaling pathway","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||immune response regulating cell surface receptor signaling pathway","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||immune response regulating signaling pathway","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||keratinocyte differentiation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||leukocyte cell cell adhesion","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||lymphocyte activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||mesenchymal cell differentiation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||mesenchyme development","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||morphogenesis of an epithelium","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||muscle organ morphogenesis","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||muscle tissue morphogenesis","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||myofibril assembly","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell adhesion","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of cytoskeleton organization","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of supramolecular fiber organization","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||ossification","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell cell adhesion","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte cell cell adhesion","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of lymphocyte activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of t cell activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||protein o linked glycosylation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of angiogenesis","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of cell activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of cell growth","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of cellular response to growth factor stimulus","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of growth","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte cell cell adhesion","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of lymphocyte activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of ruffle assembly","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of t cell activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||regulation of vasculature development","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||response to bmp","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||response to reactive oxygen species","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||response to xenobiotic stimulus","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||ruffle assembly","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||sarcomere organization","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||t cell activation","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||vascular endothelial growth factor receptor signaling pathway","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||ventricular cardiac muscle tissue development","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||ventricular cardiac muscle tissue morphogenesis","CELL_ADHESION_CYTOSKELETON",1
+"CC|||COMMON_ALL_METHODS|||endocytic vesicle","CELL_ADHESION_CYTOSKELETON",1
+"CC|||COMMON_ALL_METHODS|||endocytic vesicle membrane","CELL_ADHESION_CYTOSKELETON",1
+"CC|||COMMON_ALL_METHODS|||external side of plasma membrane","CELL_ADHESION_CYTOSKELETON",1
+"MF|||COMMON_ALL_METHODS|||calcium ion binding","CELL_ADHESION_CYTOSKELETON",1
+"MF|||COMMON_ALL_METHODS|||fibroblast growth factor binding","CELL_ADHESION_CYTOSKELETON",1
+"MF|||COMMON_ALL_METHODS|||insulin like growth factor binding","CELL_ADHESION_CYTOSKELETON",1
+"REACTOME|||ALTERNATIVE_ONLY|||developmental lineage of mammary gland luminal epithelial cells","CELL_ADHESION_CYTOSKELETON",1
+"REACTOME|||ALTERNATIVE_ONLY|||developmental lineage of mammary gland myoepithelial cells","CELL_ADHESION_CYTOSKELETON",1
+"BP|||COMMON_ALL_METHODS|||actomyosin structure organization","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||anterograde trans synaptic signaling","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||axon development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||axonogenesis","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||blood vessel remodeling","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||brain development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||cell morphogenesis involved in neuron differentiation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||cell projection morphogenesis","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||cellular response to nitric oxide","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||cellular response to reactive nitrogen species","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||cerebral cortex radially oriented cell migration","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||chemical synaptic transmission","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||developmental growth","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||endothelial cell proliferation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||epidermis development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||forebrain cell migration","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||forebrain development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||g protein coupled receptor signaling pathway","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||granulocyte migration","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||head development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||muscle organ development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||muscle tissue development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of endothelial cell proliferation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of epithelial cell proliferation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||neuron projection morphogenesis","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||plasma membrane bounded cell projection morphogenesis","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell activation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell adhesion","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte activation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||regulation of cell activation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||regulation of cell projection organization","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||regulation of endothelial cell chemotaxis","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||regulation of endothelial cell proliferation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||regulation of epithelial cell proliferation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte activation","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||regulation of plasma membrane bounded cell projection organization","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||regulation of smad protein signal transduction","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||response to nitric oxide","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||response to reactive oxygen species","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||response to xenobiotic stimulus","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||smad protein signal transduction","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||striated muscle tissue development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||synaptic signaling","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||telencephalon cell migration","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||telencephalon development","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||tissue remodeling","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||trans synaptic signaling","ECM_REMODELING",1
+"CC|||COMMON_ALL_METHODS|||cell cell junction","ECM_REMODELING",1
+"CC|||COMMON_ALL_METHODS|||cell substrate junction","ECM_REMODELING",1
+"CC|||COMMON_ALL_METHODS|||contractile muscle fiber","ECM_REMODELING",1
+"CC|||COMMON_ALL_METHODS|||external side of plasma membrane","ECM_REMODELING",1
+"CC|||COMMON_ALL_METHODS|||focal adhesion","ECM_REMODELING",1
+"CC|||COMMON_ALL_METHODS|||membrane microdomain","ECM_REMODELING",1
+"CC|||COMMON_ALL_METHODS|||membrane raft","ECM_REMODELING",1
+"CC|||COMMON_ALL_METHODS|||myofibril","ECM_REMODELING",1
+"CC|||COMMON_ALL_METHODS|||side of membrane","ECM_REMODELING",1
+"MF|||COMMON_ALL_METHODS|||cell adhesion mediator activity","ECM_REMODELING",1
+"MF|||COMMON_ALL_METHODS|||cytokine binding","ECM_REMODELING",1
+"MF|||COMMON_ALL_METHODS|||fibroblast growth factor binding","ECM_REMODELING",1
+"MF|||COMMON_ALL_METHODS|||growth factor activity","ECM_REMODELING",1
+"MF|||COMMON_ALL_METHODS|||insulin like growth factor binding","ECM_REMODELING",1
+"BP|||COMMON_ALL_METHODS|||actin filament depolymerization","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||anterograde trans synaptic signaling","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||axon development","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||axonogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||bmp signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||brain development","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||cardiac muscle contraction","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||cell morphogenesis involved in neuron differentiation","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||cell projection morphogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein serine threonine kinase signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||cellular response to bmp stimulus","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||chemical synaptic transmission","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||epidermis development","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||forebrain development","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||g protein coupled receptor signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||head development","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||heart contraction","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||heart process","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||mesenchymal cell differentiation","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||mesenchyme development","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||mitochondrial fission","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||muscle cell differentiation","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||muscle contraction","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of apoptotic signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell motility","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of cytoskeleton organization","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of endothelial cell proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of epithelial cell proliferation","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of immune system process","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of locomotion","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of lymphocyte activation","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of protein containing complex disassembly","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of protein depolymerization","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of supramolecular fiber organization","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||neuron projection morphogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||plasma membrane bounded cell projection morphogenesis","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of myoblast differentiation","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||protein depolymerization","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||reactive oxygen species metabolic process","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of actin filament depolymerization","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of apoptotic signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte differentiation","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of mitochondrial fission","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of protein containing complex disassembly","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of protein depolymerization","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of system process","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||renal system process","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||response to bmp","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||response to decreased oxygen levels","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||response to hypoxia","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||striated muscle contraction","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||synaptic signaling","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||t cell receptor signaling pathway","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||tissue remodeling","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||trans synaptic signaling","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"CC|||COMMON_ALL_METHODS|||apical plasma membrane","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"CC|||COMMON_ALL_METHODS|||endoplasmic reticulum lumen","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"MF|||COMMON_ALL_METHODS|||calcium ion binding","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"MF|||COMMON_ALL_METHODS|||cytokine activity","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"MF|||COMMON_ALL_METHODS|||fibroblast growth factor binding","GROWTH_FACTOR_RECEPTOR_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||actomyosin structure organization","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||anterograde trans synaptic signaling","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||blood vessel remodeling","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||chemical synaptic transmission","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||developmental growth involved in morphogenesis","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||forebrain development","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||glycoprotein biosynthetic process","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||glycoprotein metabolic process","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||heart contraction","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||heart process","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||hemostasis","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of lymphocyte activation","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||negative regulation of t cell activation","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||neuron apoptotic process","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive chemotaxis","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of angiogenesis","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of cd4 positive alpha beta t cell activation","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell cell adhesion","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of chemotaxis","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of hemopoiesis","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte cell cell adhesion","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte differentiation","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of lymphocyte activation","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of t cell activation","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of t cell differentiation","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||positive regulation of vasculature development","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of blood circulation","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of body fluid levels","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of cd4 positive alpha beta t cell activation","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of cell projection organization","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of endothelial cell chemotaxis","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of heart contraction","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||regulation of plasma membrane bounded cell projection organization","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||response to bacterium","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||response to molecule of bacterial origin","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||synaptic signaling","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||telencephalon development","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||tissue remodeling","TGFB_BMP_SIGNALING",1
+"BP|||COMMON_ALL_METHODS|||trans synaptic signaling","TGFB_BMP_SIGNALING",1
+"CC|||COMMON_ALL_METHODS|||cell cell junction","TGFB_BMP_SIGNALING",1
+"CC|||COMMON_ALL_METHODS|||cell substrate junction","TGFB_BMP_SIGNALING",1
+"CC|||COMMON_ALL_METHODS|||focal adhesion","TGFB_BMP_SIGNALING",1
+"CC|||COMMON_ALL_METHODS|||membrane microdomain","TGFB_BMP_SIGNALING",1
+"CC|||COMMON_ALL_METHODS|||membrane raft","TGFB_BMP_SIGNALING",1
+"MF|||COMMON_ALL_METHODS|||calcium ion binding","TGFB_BMP_SIGNALING",1
+"MF|||COMMON_ALL_METHODS|||insulin like growth factor binding","TGFB_BMP_SIGNALING",1
+"REACTOME|||COMMON_ALL_METHODS|||ecm proteoglycans","TGFB_BMP_SIGNALING",1
+"REACTOME|||COMMON_ALL_METHODS|||o linked glycosylation","TGFB_BMP_SIGNALING",1

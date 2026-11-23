@@ -1,0 +1,6 @@
+"analysis","ID","Description","old_genes","strict_genes","shared_genes","old_only_genes","strict_only_genes","Jaccard"
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-376176","Signaling by ROBO receptors",37,36,36,"BUB1B-PAK6","",0.972972972972973
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-9675108","Nervous system development",72,71,71,"BUB1B-PAK6","",0.986111111111111
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-422475","Axon guidance",68,67,67,"BUB1B-PAK6","",0.985294117647059
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-8856825","Cargo recognition for clathrin-mediated endocytosis",20,19,19,"VAMP7","",0.95
+"siNRP1_5_vs_siNT_UP_REACTOME","R-HSA-8856828","Clathrin-mediated endocytosis",25,24,24,"VAMP7","",0.96

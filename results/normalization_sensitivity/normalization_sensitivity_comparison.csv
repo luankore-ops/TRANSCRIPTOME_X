@@ -1,0 +1,7 @@
+"contrast","reference","alternative","genes_tested","significant_TMM","significant_alternative","significant_overlap","Jaccard_index","Spearman_logFC","direction_concordance_shared_significant"
+"siNRP1_3_vs_siNT","TMM","TMMwsp",17531,2690,2710,2667,0.975850713501647,0.999998564173358,1
+"siNRP1_3_vs_siNT","TMM","RLE",17531,2690,2705,2667,0.977639296187683,0.999996102166366,1
+"siNRP1_3_vs_siNT","TMM","upperquartile",17531,2690,2677,2472,0.853886010362694,0.999970751647274,1
+"siNRP1_5_vs_siNT","TMM","TMMwsp",17531,3420,3418,3362,0.967203682393556,0.999999400149971,1
+"siNRP1_5_vs_siNT","TMM","RLE",17531,3420,3435,3385,0.975504322766571,0.999993115551183,1
+"siNRP1_5_vs_siNT","TMM","upperquartile",17531,3420,3416,3362,0.96776050662061,0.999957622054696,1

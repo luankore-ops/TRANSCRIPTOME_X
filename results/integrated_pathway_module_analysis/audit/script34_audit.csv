@@ -1,0 +1,13 @@
+"metric","value"
+"integrated_input_rows",159
+"integrated_unique_genes",155
+"integrated_gene_module_assignments",159
+"module_definition_assignments",178
+"signature_module_overlap_rows",4178
+"signature_module_summary_rows",1424
+"overlap_rows_with_DE_support",4178
+"unique_bridge_genes",3
+"pathway_module_comparison_rows",670
+"shared_pathway_module_signals",42
+"siNRP1_3_specific_pathway_module_signals",89
+"siNRP1_5_specific_pathway_module_signals",539

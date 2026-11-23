@@ -1,0 +1,5 @@
+"comparison","direction","core_genes","genes_with_ensembl","genes_matched_to_DE","significant_DE_genes","direction_consistent_genes"
+"siNRP1_3_vs_siNT","UP",0,0,0,0,0
+"siNRP1_3_vs_siNT","DOWN",744,703,703,703,703
+"siNRP1_5_vs_siNT","UP",861,809,809,809,809
+"siNRP1_5_vs_siNT","DOWN",156,143,143,143,143

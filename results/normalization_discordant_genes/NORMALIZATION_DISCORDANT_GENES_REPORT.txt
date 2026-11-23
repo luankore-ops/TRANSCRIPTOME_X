@@ -1,0 +1,88 @@
+============================================================
+TRANSCRIPTOME-X
+NORMALIZATION DISCORDANT GENES - FINAL REPORT
+============================================================
+
+Soglia FDR: 0.05 
+Intervallo near-threshold: +/- 0.01 
+Metodi: TMM, TMMwsp, RLE, upperquartile 
+
+CLASSIFICAZIONE GLOBALE
+------------------------------------------------------------
+         contrast          discordance_class gene_count percentage
+ siNRP1_3_vs_siNT                   TMM_ONLY          0  0.0000000
+ siNRP1_3_vs_siNT           ALTERNATIVE_ONLY        258  1.4716787
+ siNRP1_3_vs_siNT    SIGNIFICANT_ALL_METHODS       2444 13.9410188
+ siNRP1_3_vs_siNT   MIXED_METHOD_DISCORDANCE        246  1.4032286
+ siNRP1_3_vs_siNT NOT_SIGNIFICANT_ANY_METHOD      14583 83.1840739
+ siNRP1_5_vs_siNT                   TMM_ONLY          0  0.0000000
+ siNRP1_5_vs_siNT           ALTERNATIVE_ONLY        115  0.6559808
+ siNRP1_5_vs_siNT    SIGNIFICANT_ALL_METHODS       3305 18.8523187
+ siNRP1_5_vs_siNT   MIXED_METHOD_DISCORDANCE        115  0.6559808
+ siNRP1_5_vs_siNT NOT_SIGNIFICANT_ANY_METHOD      13996 79.8357196
+
+GENI SIGNIFICATIVI ESCLUSIVI PER METODO
+------------------------------------------------------------
+         contrast        method exclusive_significant_genes
+ siNRP1_3_vs_siNT           TMM                           0
+ siNRP1_3_vs_siNT        TMMwsp                          22
+ siNRP1_3_vs_siNT           RLE                          10
+ siNRP1_3_vs_siNT upperquartile                         198
+ siNRP1_5_vs_siNT           TMM                           0
+ siNRP1_5_vs_siNT        TMMwsp                          25
+ siNRP1_5_vs_siNT           RLE                          36
+ siNRP1_5_vs_siNT upperquartile                          13
+
+CORRELAZIONI LOGFC
+------------------------------------------------------------
+         contrast reference   alternative Spearman_logFC
+ siNRP1_3_vs_siNT       TMM        TMMwsp      0.9999986
+ siNRP1_3_vs_siNT       TMM           RLE      0.9999961
+ siNRP1_3_vs_siNT       TMM upperquartile      0.9999708
+ siNRP1_5_vs_siNT       TMM        TMMwsp      0.9999994
+ siNRP1_5_vs_siNT       TMM           RLE      0.9999931
+ siNRP1_5_vs_siNT       TMM upperquartile      0.9999576
+
+PROFILI DI SIGNIFICATIVITA'
+------------------------------------------------------------
+         significance_profile gene_count         contrast
+                         NONE      14583 siNRP1_3_vs_siNT
+ TMM;TMMwsp;RLE;upperquartile       2444 siNRP1_3_vs_siNT
+               TMM;TMMwsp;RLE        211 siNRP1_3_vs_siNT
+                upperquartile        198 siNRP1_3_vs_siNT
+                       TMMwsp         22 siNRP1_3_vs_siNT
+                   TMMwsp;RLE         21 siNRP1_3_vs_siNT
+        TMM;RLE;upperquartile         12 siNRP1_3_vs_siNT
+            TMM;upperquartile         11 siNRP1_3_vs_siNT
+                          RLE         10 siNRP1_3_vs_siNT
+            RLE;upperquartile          7 siNRP1_3_vs_siNT
+                   TMM;TMMwsp          7 siNRP1_3_vs_siNT
+     TMM;TMMwsp;upperquartile          5 siNRP1_3_vs_siNT
+                         NONE      13996 siNRP1_5_vs_siNT
+ TMM;TMMwsp;RLE;upperquartile       3305 siNRP1_5_vs_siNT
+                          RLE         36 siNRP1_5_vs_siNT
+                      TMM;RLE         30 siNRP1_5_vs_siNT
+     TMM;TMMwsp;upperquartile         29 siNRP1_5_vs_siNT
+        TMM;RLE;upperquartile         28 siNRP1_5_vs_siNT
+         TMMwsp;upperquartile         27 siNRP1_5_vs_siNT
+                       TMMwsp         25 siNRP1_5_vs_siNT
+               TMM;TMMwsp;RLE         22 siNRP1_5_vs_siNT
+                upperquartile         13 siNRP1_5_vs_siNT
+            RLE;upperquartile         10 siNRP1_5_vs_siNT
+                   TMM;TMMwsp          6 siNRP1_5_vs_siNT
+     TMMwsp;RLE;upperquartile          4 siNRP1_5_vs_siNT
+
+INTERPRETAZIONE
+------------------------------------------------------------
+TMM_ONLY: geni significativi con TMM ma non con gli altri metodi.
+ALTERNATIVE_ONLY: geni non significativi con TMM ma significativi con almeno un metodo alternativo.
+SIGNIFICANT_ALL_METHODS: geni significativi con tutti i metodi.
+MIXED_METHOD_DISCORDANCE: geni significativi con alcuni, ma non tutti, i metodi.
+NOT_SIGNIFICANT_ANY_METHOD: geni non significativi con nessun metodo.
+
+LIMITI INTERPRETATIVI
+------------------------------------------------------------
+La concordanza tra metodi di normalizzazione non dimostra l'assenza di bias.
+La significativita' dipendente dal metodo puo' riflettere differenze di FDR e precisione statistica.
+Questa analisi non sostituisce la disponibilita' di effective length RSEM originali.
+Le categorie discordanti non devono essere interpretate automaticamente come evidenza di effetti biologici distinti.

@@ -1,0 +1,48 @@
+
+project:
+  name: TRANSCRIPTOME-X
+  version: "1.0.0"
+  description: >
+    RNA-seq differential expression and functional
+    enrichment analysis in breast cancer cell lines.
+
+dataset:
+  accession: GSE266566
+  organism: Homo sapiens
+  tissue: Breast cancer
+  cell_line: MDA-MB-231
+
+analysis:
+  control_group: siNT
+  experimental_groups:
+    - siNRP1_3
+    - siNRP1_5
+
+  comparisons:
+    - siNRP1_3_vs_siNT
+    - siNRP1_5_vs_siNT
+
+  differential_expression:
+    method: DESeq2
+    alpha: 0.05
+    lfc_threshold: 1.0
+    adjustment: BH
+
+  enrichment:
+    go_database: GO
+    ontology: BP
+    methods:
+      - ORA
+      - GSEA
+
+software:
+  languages:
+    - Python
+    - R
+
+  python_version: "3.14"
+  r_packages:
+    - DESeq2
+    - tximport
+    - clusterProfiler
+    - org.Hs.eg.db

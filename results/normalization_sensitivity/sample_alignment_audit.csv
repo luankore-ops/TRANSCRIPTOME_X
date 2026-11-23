@@ -1,0 +1,10 @@
+"sample_id","condition","count_column","total_counts"
+"counts.MDAMB231.siNT.RNA.1","siNT","counts.MDAMB231.siNT.RNA.1",37007132.06
+"counts.MDAMB231.siNT.RNA.2","siNT","counts.MDAMB231.siNT.RNA.2",49432014.29
+"counts.MDAMB231.siNT.RNA.3","siNT","counts.MDAMB231.siNT.RNA.3",47811338.53
+"counts.MDAMB231.siNRP1.3.RNA.1","siNRP1_3","counts.MDAMB231.siNRP1.3.RNA.1",45512281.94
+"counts.MDAMB231.siNRP1.3.RNA.2","siNRP1_3","counts.MDAMB231.siNRP1.3.RNA.2",47384832.91
+"counts.MDAMB231.siNRP1.3.RNA.3","siNRP1_3","counts.MDAMB231.siNRP1.3.RNA.3",31112927.1
+"counts.MDAMB231.siNRP1.5.RNA.1","siNRP1_5","counts.MDAMB231.siNRP1.5.RNA.1",44149605.18
+"counts.MDAMB231.siNRP1.5.RNA.2","siNRP1_5","counts.MDAMB231.siNRP1.5.RNA.2",39709173.95
+"counts.MDAMB231.siNRP1.5.RNA.3","siNRP1_5","counts.MDAMB231.siNRP1.5.RNA.3",42896556.19

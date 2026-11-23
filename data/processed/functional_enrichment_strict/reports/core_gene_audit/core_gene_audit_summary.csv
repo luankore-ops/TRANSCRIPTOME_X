@@ -1,0 +1,4 @@
+"comparison","direction","integrated_rows","distinct_symbols","distinct_gene_ids","significant_DE","direction_consistent","ambiguous_symbols"
+"siNRP1_3_vs_siNT","DOWN",744,744,742,742,742,0
+"siNRP1_5_vs_siNT","DOWN",156,156,156,156,156,0
+"siNRP1_5_vs_siNT","UP",861,861,860,860,860,0

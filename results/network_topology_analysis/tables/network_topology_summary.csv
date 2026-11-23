@@ -1,0 +1,13 @@
+"metric","value"
+"total_nodes",2199
+"gene_nodes",1913
+"pathway_nodes",282
+"module_nodes",4
+"total_edges",15556
+"gene_pathway_edges",15399
+"gene_module_edges",84
+"pathway_module_edges",73
+"connected_components",5
+"louvain_communities",16
+"articulation_points",72
+"multi_module_bridge_genes",3

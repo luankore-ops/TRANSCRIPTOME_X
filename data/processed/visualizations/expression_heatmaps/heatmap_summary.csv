@@ -1,0 +1,3 @@
+"comparison","significant_genes","selected_genes","genes_in_heatmap","nrp1_selected","png_exists","pdf_exists","csv_exists"
+"siNRP1_3_vs_siNT",2690,50,50,FALSE,TRUE,TRUE,TRUE
+"siNRP1_5_vs_siNT",3420,50,50,TRUE,TRUE,TRUE,TRUE

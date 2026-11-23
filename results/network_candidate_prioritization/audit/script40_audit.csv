@@ -1,0 +1,15 @@
+"metric","value"
+"input_gene_pathway_records",15399
+"unique_gene_pathway_records",15399
+"input_gene_module_records",84
+"unique_gene_module_records",84
+"topology_gene_records",1913
+"candidate_genes",1913
+"genes_with_pathway_support",1913
+"genes_with_module_support",80
+"genes_with_topology_support",1913
+"bridge_genes",3
+"articulation_genes",0
+"high_priority_genes",75
+"medium_priority_genes",886
+"exploratory_genes",952

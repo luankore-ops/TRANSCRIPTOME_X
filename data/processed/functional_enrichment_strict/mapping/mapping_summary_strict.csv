@@ -1,0 +1,10 @@
+"metric","value"
+"Original tested genes",17531
+"Unique Ensembl IDs",17531
+"Ensembl IDs with at least one mapping",15118
+"Ensembl IDs with multiple Entrez mappings",264
+"Entrez IDs with multiple Ensembl mappings",292
+"Strict one-to-one Ensembl IDs",14775
+"Strict one-to-one Entrez IDs",14775
+"Unmapped or ambiguous Ensembl IDs",2756
+"Strict background coverage percentage",84.28

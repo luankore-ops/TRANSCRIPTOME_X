@@ -1,0 +1,138 @@
+============================================================
+TRANSCRIPTOME-X
+PATHWAY CONCORDANCE AND SPECIFICITY - SCRIPT 35
+============================================================
+
+PROJECT: C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X
+OUTPUT: C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/pathway_concordance_specificity
+
+PATHWAY STATUS
+------------------------------------------------------------
+ pathway_status count
+  ONLY_siNRP1_3    39
+  ONLY_siNRP1_5   231
+         SHARED    12
+
+PATHWAY COUNTS BY ONTOLOGY AND GROUP
+------------------------------------------------------------
+ ontology                   group pathway_status pathway_count
+       BP      COMMON_ALL_METHODS  ONLY_siNRP1_3            19
+       CC      COMMON_ALL_METHODS  ONLY_siNRP1_3             3
+       MF      COMMON_ALL_METHODS  ONLY_siNRP1_3             8
+ Reactome      COMMON_ALL_METHODS  ONLY_siNRP1_3             5
+       MF   DISCORDANT_ANY_METHOD  ONLY_siNRP1_3             1
+       CC           EXCLUSIVE_RLE  ONLY_siNRP1_3             2
+       BP EXCLUSIVE_UPPERQUARTILE  ONLY_siNRP1_3             1
+ Reactome        ALTERNATIVE_ONLY  ONLY_siNRP1_5             2
+       BP      COMMON_ALL_METHODS  ONLY_siNRP1_5           194
+       CC      COMMON_ALL_METHODS  ONLY_siNRP1_5            17
+       MF      COMMON_ALL_METHODS  ONLY_siNRP1_5             7
+       BP   DISCORDANT_ANY_METHOD  ONLY_siNRP1_5             1
+       BP EXCLUSIVE_UPPERQUARTILE  ONLY_siNRP1_5            10
+       BP      COMMON_ALL_METHODS         SHARED             5
+       CC      COMMON_ALL_METHODS         SHARED             3
+       MF      COMMON_ALL_METHODS         SHARED             4
+
+GENE-LEVEL SUPPORT
+------------------------------------------------------------
+                       metric value
+         Pathway-gene records 15399
+                 Unique genes  1913
+ Significant siNRP1.3 records  5502
+ Significant siNRP1.5 records 13933
+          Significant in both  4103
+           Concordant records  2629
+           Discordant records  1474
+
+TOP PATHWAYS WITH GENES SIGNIFICANT IN BOTH CONTRASTS
+------------------------------------------------------------
+                                                            term ontology              group
+                                    muscle structure development       BP COMMON_ALL_METHODS
+                                                          growth       BP COMMON_ALL_METHODS
+                                              synaptic signaling       BP COMMON_ALL_METHODS
+                            anterograde trans-synaptic signaling       BP COMMON_ALL_METHODS
+                                  chemical synaptic transmission       BP COMMON_ALL_METHODS
+                                        trans-synaptic signaling       BP COMMON_ALL_METHODS
+                           signaling receptor regulator activity       MF COMMON_ALL_METHODS
+                                       response to growth factor       BP COMMON_ALL_METHODS
+                     cellular response to growth factor stimulus       BP COMMON_ALL_METHODS
+                                        blood vessel development       BP COMMON_ALL_METHODS
+                     negative regulation of cell differentiation       BP COMMON_ALL_METHODS
+                                         vasculature development       BP COMMON_ALL_METHODS
+                                                      Hemostasis Reactome COMMON_ALL_METHODS
+ cell surface receptor protein tyrosine kinase signaling pathway       BP COMMON_ALL_METHODS
+                                      animal organ morphogenesis       BP COMMON_ALL_METHODS
+                                      blood vessel morphogenesis       BP COMMON_ALL_METHODS
+                           positive regulation of cell migration       BP COMMON_ALL_METHODS
+                            positive regulation of cell motility       BP COMMON_ALL_METHODS
+                               positive regulation of locomotion       BP COMMON_ALL_METHODS
+                      regulation of cell projection organization       BP COMMON_ALL_METHODS
+ pathway_status significant_both concordant_significant_both discordant_significant_both
+         SHARED               41                          29                          12
+  ONLY_siNRP1_5               36                          28                           8
+  ONLY_siNRP1_3               33                          27                           6
+  ONLY_siNRP1_3               32                          26                           6
+  ONLY_siNRP1_3               32                          26                           6
+  ONLY_siNRP1_3               32                          26                           6
+         SHARED               36                          25                          11
+  ONLY_siNRP1_5               38                          24                          14
+         SHARED               38                          24                          14
+  ONLY_siNRP1_5               37                          24                          13
+  ONLY_siNRP1_5               37                          24                          13
+  ONLY_siNRP1_5               37                          24                          13
+  ONLY_siNRP1_3               36                          24                          12
+         SHARED               36                          24                          12
+  ONLY_siNRP1_5               36                          23                          13
+  ONLY_siNRP1_5               35                          23                          12
+  ONLY_siNRP1_5               35                          23                          12
+  ONLY_siNRP1_5               35                          23                          12
+  ONLY_siNRP1_5               35                          23                          12
+  ONLY_siNRP1_5               32                          23                           9
+ concordance_fraction
+            0.7073171
+            0.7777778
+            0.8181818
+            0.8125000
+            0.8125000
+            0.8125000
+            0.6944444
+            0.6315789
+            0.6315789
+            0.6486486
+            0.6486486
+            0.6486486
+            0.6666667
+            0.6666667
+            0.6388889
+            0.6571429
+            0.6571429
+            0.6571429
+            0.6571429
+            0.7187500
+
+INTERPRETATION LIMITATIONS
+------------------------------------------------------------
+1. Il confronto usa le signature funzionali gia' disponibili.
+2. Non sono stati eseguiti nuovi test di arricchimento.
+3. SHARED indica la presenza dello stesso termine, ontologia
+   e gruppo nelle signature dei due confronti.
+4. ONLY indica assenza dalla signature dell'altro confronto,
+   non assenza biologica del pathway.
+5. I geni possono comparire in piu' pathway e moduli.
+6. I conteggi pathway-gene non sono conteggi di geni unici globali.
+7. Concordanza indica lo stesso segno del logFC nei due confronti.
+8. La significativita' e' definita come FDR < 0.05.
+9. L'appartenenza a una signature non dimostra attivazione.
+10. I risultati sono descrittivi e non dimostrano causalita'.
+
+OUTPUT FILES
+------------------------------------------------------------
+tables/pathway_gene_evidence.csv
+tables/pathway_concordance_summary.csv
+tables/pathway_shared_specificity.csv
+tables/pathway_gene_lists.csv
+tables/pathway_module_crosswalk.csv
+audit/script35_audit.csv
+reports/pathway_concordance_specificity_report.txt
+
+SCRIPT 35 COMPLETATO

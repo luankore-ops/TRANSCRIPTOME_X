@@ -1,0 +1,283 @@
+"pathway_id","term","ontology","group","pathway_status","signature_genes_siNRP1_3","signature_genes_siNRP1_5","unique_signature_genes","significant_genes_siNRP1_3","significant_genes_siNRP1_5","significant_both","concordant_significant_both","discordant_significant_both","concordance_fraction"
+"BP|||COMMON_ALL_METHODS|||anterograde trans synaptic signaling","anterograde trans-synaptic signaling","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",82,0,82,82,32,32,26,6,0.8125
+"BP|||COMMON_ALL_METHODS|||chemical synaptic transmission","chemical synaptic transmission","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",82,0,82,82,32,32,26,6,0.8125
+"BP|||COMMON_ALL_METHODS|||circadian behavior","circadian behavior","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",12,0,12,12,4,4,3,1,0.75
+"BP|||COMMON_ALL_METHODS|||embryonic morphogenesis","embryonic morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",51,0,51,51,15,15,7,8,0.466666666666667
+"BP|||COMMON_ALL_METHODS|||epithelial to mesenchymal transition","epithelial to mesenchymal transition","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",32,0,32,32,12,12,6,6,0.5
+"BP|||COMMON_ALL_METHODS|||external encapsulating structure organization","external encapsulating structure organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",50,0,50,50,21,21,12,9,0.571428571428571
+"BP|||COMMON_ALL_METHODS|||extracellular matrix organization","extracellular matrix organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",50,0,50,50,21,21,12,9,0.571428571428571
+"BP|||COMMON_ALL_METHODS|||extracellular structure organization","extracellular structure organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",50,0,50,50,21,21,12,9,0.571428571428571
+"BP|||COMMON_ALL_METHODS|||glycoprotein biosynthetic process","glycoprotein biosynthetic process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",57,0,57,57,10,10,7,3,0.7
+"BP|||COMMON_ALL_METHODS|||glycoprotein metabolic process","glycoprotein metabolic process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",64,0,64,64,12,12,7,5,0.583333333333333
+"BP|||COMMON_ALL_METHODS|||leukocyte migration","leukocyte migration","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",49,0,49,49,21,21,13,8,0.619047619047619
+"BP|||COMMON_ALL_METHODS|||mesenchymal cell differentiation","mesenchymal cell differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",40,0,40,40,15,15,9,6,0.6
+"BP|||COMMON_ALL_METHODS|||mesenchyme development","mesenchyme development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",46,0,46,46,19,19,13,6,0.684210526315789
+"BP|||COMMON_ALL_METHODS|||protein o linked glycosylation","protein O-linked glycosylation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",35,0,35,35,8,8,5,3,0.625
+"BP|||COMMON_ALL_METHODS|||protein o linked glycosylation via n acetyl galactosamine","protein O-linked glycosylation via N-acetyl-galactosamine","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",15,0,15,15,4,4,3,1,0.75
+"BP|||COMMON_ALL_METHODS|||regulation of cellular response to growth factor stimulus","regulation of cellular response to growth factor stimulus","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",48,0,48,48,19,19,10,9,0.526315789473684
+"BP|||COMMON_ALL_METHODS|||rhythmic behavior","rhythmic behavior","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",12,0,12,12,4,4,3,1,0.75
+"BP|||COMMON_ALL_METHODS|||synaptic signaling","synaptic signaling","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",88,0,88,88,33,33,27,6,0.818181818181818
+"BP|||COMMON_ALL_METHODS|||trans synaptic signaling","trans-synaptic signaling","BP","COMMON_ALL_METHODS","ONLY_siNRP1_3",84,0,84,84,32,32,26,6,0.8125
+"BP|||EXCLUSIVE_UPPERQUARTILE|||amino acid biosynthetic process","amino acid biosynthetic process","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_3",6,0,6,0,2,0,0,0,
+"CC|||COMMON_ALL_METHODS|||apical plasma membrane","apical plasma membrane","CC","COMMON_ALL_METHODS","ONLY_siNRP1_3",56,0,56,55,17,17,10,7,0.588235294117647
+"CC|||COMMON_ALL_METHODS|||endoplasmic reticulum lumen","endoplasmic reticulum lumen","CC","COMMON_ALL_METHODS","ONLY_siNRP1_3",53,0,53,53,19,19,10,9,0.526315789473684
+"CC|||COMMON_ALL_METHODS|||neuron to neuron synapse","neuron to neuron synapse","CC","COMMON_ALL_METHODS","ONLY_siNRP1_3",61,0,61,61,21,21,14,7,0.666666666666667
+"CC|||EXCLUSIVE_RLE|||filopodium","filopodium","CC","EXCLUSIVE_RLE","ONLY_siNRP1_3",2,0,2,0,1,0,0,0,
+"CC|||EXCLUSIVE_RLE|||microvillus","microvillus","CC","EXCLUSIVE_RLE","ONLY_siNRP1_3",2,0,2,0,1,0,0,0,
+"MF|||COMMON_ALL_METHODS|||acetylgalactosaminyltransferase activity","acetylgalactosaminyltransferase activity","MF","COMMON_ALL_METHODS","ONLY_siNRP1_3",12,0,12,12,2,2,2,0,1
+"MF|||COMMON_ALL_METHODS|||cell adhesion mediator activity","cell adhesion mediator activity","MF","COMMON_ALL_METHODS","ONLY_siNRP1_3",21,0,21,21,7,7,3,4,0.428571428571429
+"MF|||COMMON_ALL_METHODS|||cytokine binding","cytokine binding","MF","COMMON_ALL_METHODS","ONLY_siNRP1_3",27,0,27,27,12,12,9,3,0.75
+"MF|||COMMON_ALL_METHODS|||fibroblast growth factor binding","fibroblast growth factor binding","MF","COMMON_ALL_METHODS","ONLY_siNRP1_3",9,0,9,9,5,5,3,2,0.6
+"MF|||COMMON_ALL_METHODS|||heparin binding","heparin binding","MF","COMMON_ALL_METHODS","ONLY_siNRP1_3",27,0,27,27,13,13,9,4,0.692307692307692
+"MF|||COMMON_ALL_METHODS|||insulin like growth factor binding","insulin-like growth factor binding","MF","COMMON_ALL_METHODS","ONLY_siNRP1_3",8,0,8,8,3,3,2,1,0.666666666666667
+"MF|||COMMON_ALL_METHODS|||polypeptide n acetylgalactosaminyltransferase activity","polypeptide N-acetylgalactosaminyltransferase activity","MF","COMMON_ALL_METHODS","ONLY_siNRP1_3",8,0,8,8,2,2,2,0,1
+"MF|||COMMON_ALL_METHODS|||udp glycosyltransferase activity","UDP-glycosyltransferase activity","MF","COMMON_ALL_METHODS","ONLY_siNRP1_3",27,0,27,27,5,5,4,1,0.8
+"MF|||DISCORDANT_ANY_METHOD|||protein kinase a binding","protein kinase A binding","MF","DISCORDANT_ANY_METHOD","ONLY_siNRP1_3",8,0,8,4,4,1,1,0,1
+"REACTOME|||COMMON_ALL_METHODS|||ecm proteoglycans","ECM proteoglycans","Reactome","COMMON_ALL_METHODS","ONLY_siNRP1_3",18,0,18,18,5,5,3,2,0.6
+"REACTOME|||COMMON_ALL_METHODS|||extracellular matrix organization","Extracellular matrix organization","Reactome","COMMON_ALL_METHODS","ONLY_siNRP1_3",56,0,56,56,19,19,10,9,0.526315789473684
+"REACTOME|||COMMON_ALL_METHODS|||hemostasis","Hemostasis","Reactome","COMMON_ALL_METHODS","ONLY_siNRP1_3",87,0,87,87,36,36,24,12,0.666666666666667
+"REACTOME|||COMMON_ALL_METHODS|||laminin interactions","Laminin interactions","Reactome","COMMON_ALL_METHODS","ONLY_siNRP1_3",12,0,12,12,1,1,1,0,1
+"REACTOME|||COMMON_ALL_METHODS|||o linked glycosylation","O-linked glycosylation","Reactome","COMMON_ALL_METHODS","ONLY_siNRP1_3",25,0,25,25,8,8,6,2,0.75
+"BP|||COMMON_ALL_METHODS|||actin filament depolymerization","actin filament depolymerization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,20,20,5,20,5,5,0,1
+"BP|||COMMON_ALL_METHODS|||activation of immune response","activation of immune response","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,107,107,19,107,19,15,4,0.789473684210526
+"BP|||COMMON_ALL_METHODS|||actomyosin structure organization","actomyosin structure organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,49,49,18,49,18,12,6,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||adaptive immune response","adaptive immune response","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,82,82,10,82,10,5,5,0.5
+"BP|||COMMON_ALL_METHODS|||angiogenesis","angiogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,120,120,33,120,33,21,12,0.636363636363636
+"BP|||COMMON_ALL_METHODS|||animal organ morphogenesis","animal organ morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,109,109,36,109,36,23,13,0.638888888888889
+"BP|||COMMON_ALL_METHODS|||antigen receptor mediated signaling pathway","antigen receptor-mediated signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,42,42,5,42,5,2,3,0.4
+"BP|||COMMON_ALL_METHODS|||axon development","axon development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,84,84,20,84,20,13,7,0.65
+"BP|||COMMON_ALL_METHODS|||axonogenesis","axonogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,75,75,19,75,19,12,7,0.631578947368421
+"BP|||COMMON_ALL_METHODS|||blood circulation","blood circulation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,81,81,24,81,24,12,12,0.5
+"BP|||COMMON_ALL_METHODS|||blood vessel development","blood vessel development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,137,137,37,137,37,24,13,0.648648648648649
+"BP|||COMMON_ALL_METHODS|||blood vessel morphogenesis","blood vessel morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,129,129,35,129,35,23,12,0.657142857142857
+"BP|||COMMON_ALL_METHODS|||blood vessel remodeling","blood vessel remodeling","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,11,11,1,11,1,1,0,1
+"BP|||COMMON_ALL_METHODS|||bmp signaling pathway","BMP signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,34,34,11,34,11,4,7,0.363636363636364
+"BP|||COMMON_ALL_METHODS|||brain development","brain development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,108,108,24,108,24,14,10,0.583333333333333
+"BP|||COMMON_ALL_METHODS|||branching morphogenesis of an epithelial tube","branching morphogenesis of an epithelial tube","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,23,23,8,23,8,7,1,0.875
+"BP|||COMMON_ALL_METHODS|||cardiac muscle contraction","cardiac muscle contraction","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,30,30,9,30,9,5,4,0.555555555555556
+"BP|||COMMON_ALL_METHODS|||cardiac muscle tissue development","cardiac muscle tissue development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,43,43,16,43,16,9,7,0.5625
+"BP|||COMMON_ALL_METHODS|||cardiac muscle tissue morphogenesis","cardiac muscle tissue morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,6,15,6,4,2,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||cardiac ventricle development","cardiac ventricle development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,23,23,9,23,9,6,3,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||cardiac ventricle morphogenesis","cardiac ventricle morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,18,18,7,18,7,5,2,0.714285714285714
+"BP|||COMMON_ALL_METHODS|||cell growth","cell growth","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,92,92,22,92,22,16,6,0.727272727272727
+"BP|||COMMON_ALL_METHODS|||cell killing","cell killing","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,34,34,11,33,11,7,4,0.636363636363636
+"BP|||COMMON_ALL_METHODS|||cell morphogenesis involved in neuron differentiation","cell morphogenesis involved in neuron differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,97,97,27,97,27,19,8,0.703703703703704
+"BP|||COMMON_ALL_METHODS|||cell projection morphogenesis","cell projection morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,117,117,30,117,30,21,9,0.7
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein serine threonine kinase signaling pathway","cell surface receptor protein serine/threonine kinase signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,73,73,20,73,20,10,10,0.5
+"BP|||COMMON_ALL_METHODS|||cellular anatomical entity morphogenesis","cellular anatomical entity morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,28,28,13,28,13,8,5,0.615384615384615
+"BP|||COMMON_ALL_METHODS|||cellular component assembly involved in morphogenesis","cellular component assembly involved in morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,28,28,13,28,13,8,5,0.615384615384615
+"BP|||COMMON_ALL_METHODS|||cellular response to bmp stimulus","cellular response to BMP stimulus","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,35,35,12,35,12,4,8,0.333333333333333
+"BP|||COMMON_ALL_METHODS|||cellular response to decreased oxygen levels","cellular response to decreased oxygen levels","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,39,39,11,39,11,8,3,0.727272727272727
+"BP|||COMMON_ALL_METHODS|||cellular response to hypoxia","cellular response to hypoxia","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,37,37,10,37,10,7,3,0.7
+"BP|||COMMON_ALL_METHODS|||cellular response to nitric oxide","cellular response to nitric oxide","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,10,10,3,10,3,2,1,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||cellular response to oxygen levels","cellular response to oxygen levels","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,43,43,12,43,12,8,4,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||cellular response to reactive nitrogen species","cellular response to reactive nitrogen species","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,10,10,3,10,3,2,1,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||cerebral cortex radially oriented cell migration","cerebral cortex radially oriented cell migration","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,11,11,2,11,2,2,0,1
+"BP|||COMMON_ALL_METHODS|||chemotaxis","chemotaxis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,95,95,26,93,26,18,8,0.692307692307692
+"BP|||COMMON_ALL_METHODS|||circulatory system process","circulatory system process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,97,97,29,97,29,16,13,0.551724137931034
+"BP|||COMMON_ALL_METHODS|||developmental growth","developmental growth","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,76,76,22,76,22,17,5,0.772727272727273
+"BP|||COMMON_ALL_METHODS|||developmental growth involved in morphogenesis","developmental growth involved in morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,41,41,9,41,9,6,3,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||disruption of cell in another organism","disruption of cell in another organism","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,5,14,5,2,3,0.4
+"BP|||COMMON_ALL_METHODS|||endothelial cell migration","endothelial cell migration","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,56,56,18,56,18,12,6,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||endothelial cell proliferation","endothelial cell proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,39,39,9,39,9,5,4,0.555555555555556
+"BP|||COMMON_ALL_METHODS|||epidermis development","epidermis development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,47,47,7,47,7,3,4,0.428571428571429
+"BP|||COMMON_ALL_METHODS|||epithelial cell differentiation","epithelial cell differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,105,105,23,105,23,13,10,0.565217391304348
+"BP|||COMMON_ALL_METHODS|||epithelial cell proliferation","epithelial cell proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,74,74,22,74,22,15,7,0.681818181818182
+"BP|||COMMON_ALL_METHODS|||epithelial tube morphogenesis","epithelial tube morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,46,46,17,46,17,11,6,0.647058823529412
+"BP|||COMMON_ALL_METHODS|||establishment or maintenance of cell polarity","establishment or maintenance of cell polarity","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,49,49,14,49,14,7,7,0.5
+"BP|||COMMON_ALL_METHODS|||forebrain cell migration","forebrain cell migration","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,2,15,2,2,0,1
+"BP|||COMMON_ALL_METHODS|||forebrain development","forebrain development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,57,57,13,57,13,7,6,0.538461538461538
+"BP|||COMMON_ALL_METHODS|||g protein coupled receptor signaling pathway","G protein-coupled receptor signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,117,117,26,116,26,15,11,0.576923076923077
+"BP|||COMMON_ALL_METHODS|||granulocyte migration","granulocyte migration","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,30,30,10,30,10,5,5,0.5
+"BP|||COMMON_ALL_METHODS|||growth","growth","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,127,127,36,127,36,28,8,0.777777777777778
+"BP|||COMMON_ALL_METHODS|||head development","head development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,113,113,26,113,26,15,11,0.576923076923077
+"BP|||COMMON_ALL_METHODS|||heart contraction","heart contraction","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,44,44,15,44,15,8,7,0.533333333333333
+"BP|||COMMON_ALL_METHODS|||heart development","heart development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,84,84,24,84,24,13,11,0.541666666666667
+"BP|||COMMON_ALL_METHODS|||heart process","heart process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,47,47,16,47,16,9,7,0.5625
+"BP|||COMMON_ALL_METHODS|||hemostasis","hemostasis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,47,47,15,47,15,12,3,0.8
+"BP|||COMMON_ALL_METHODS|||host mediated suppression of symbiont invasion","host-mediated suppression of symbiont invasion","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,10,10,4,10,4,3,1,0.75
+"BP|||COMMON_ALL_METHODS|||immune response activating cell surface receptor signaling pathway","immune response-activating cell surface receptor signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,61,61,10,61,10,7,3,0.7
+"BP|||COMMON_ALL_METHODS|||immune response regulating cell surface receptor signaling pathway","immune response-regulating cell surface receptor signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,66,66,12,66,12,8,4,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||immune response regulating signaling pathway","immune response-regulating signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,102,102,19,102,19,15,4,0.789473684210526
+"BP|||COMMON_ALL_METHODS|||keratinocyte differentiation","keratinocyte differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,23,23,4,23,4,2,2,0.5
+"BP|||COMMON_ALL_METHODS|||killing of cells of another organism","killing of cells of another organism","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,5,14,5,2,3,0.4
+"BP|||COMMON_ALL_METHODS|||leukocyte cell cell adhesion","leukocyte cell-cell adhesion","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,83,83,14,83,14,8,6,0.571428571428571
+"BP|||COMMON_ALL_METHODS|||leukocyte chemotaxis","leukocyte chemotaxis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,46,46,17,46,17,11,6,0.647058823529412
+"BP|||COMMON_ALL_METHODS|||leukocyte proliferation","leukocyte proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,50,50,12,50,12,6,6,0.5
+"BP|||COMMON_ALL_METHODS|||lymphocyte activation","lymphocyte activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,132,132,28,131,28,16,12,0.571428571428571
+"BP|||COMMON_ALL_METHODS|||lymphocyte proliferation","lymphocyte proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,42,42,8,42,8,3,5,0.375
+"BP|||COMMON_ALL_METHODS|||mhc class ii protein complex assembly","MHC class II protein complex assembly","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,7,7,0,7,0,0,0,
+"BP|||COMMON_ALL_METHODS|||mitochondrial fission","mitochondrial fission","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,5,15,5,4,1,0.8
+"BP|||COMMON_ALL_METHODS|||mononuclear cell proliferation","mononuclear cell proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,43,43,8,43,8,3,5,0.375
+"BP|||COMMON_ALL_METHODS|||morphogenesis of a branching epithelium","morphogenesis of a branching epithelium","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,24,24,8,24,8,7,1,0.875
+"BP|||COMMON_ALL_METHODS|||morphogenesis of a branching structure","morphogenesis of a branching structure","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,26,26,8,26,8,7,1,0.875
+"BP|||COMMON_ALL_METHODS|||morphogenesis of an epithelium","morphogenesis of an epithelium","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,71,71,21,71,21,13,8,0.619047619047619
+"BP|||COMMON_ALL_METHODS|||multicellular organismal level homeostasis","multicellular organismal-level homeostasis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,130,130,29,130,29,23,6,0.793103448275862
+"BP|||COMMON_ALL_METHODS|||muscle cell differentiation","muscle cell differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,74,74,26,74,26,20,6,0.769230769230769
+"BP|||COMMON_ALL_METHODS|||muscle contraction","muscle contraction","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,74,74,23,74,23,15,8,0.652173913043478
+"BP|||COMMON_ALL_METHODS|||muscle organ development","muscle organ development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,57,57,21,57,21,13,8,0.619047619047619
+"BP|||COMMON_ALL_METHODS|||muscle organ morphogenesis","muscle organ morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,17,17,7,17,7,5,2,0.714285714285714
+"BP|||COMMON_ALL_METHODS|||muscle system process","muscle system process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,95,95,30,95,30,18,12,0.6
+"BP|||COMMON_ALL_METHODS|||muscle tissue development","muscle tissue development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,62,62,21,62,21,12,9,0.571428571428571
+"BP|||COMMON_ALL_METHODS|||muscle tissue morphogenesis","muscle tissue morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,17,17,7,17,7,5,2,0.714285714285714
+"BP|||COMMON_ALL_METHODS|||myeloid leukocyte migration","myeloid leukocyte migration","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,44,44,14,44,14,8,6,0.571428571428571
+"BP|||COMMON_ALL_METHODS|||myofibril assembly","myofibril assembly","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,18,18,8,18,8,5,3,0.625
+"BP|||COMMON_ALL_METHODS|||negative regulation of alpha beta t cell activation","negative regulation of alpha-beta T cell activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,14,14,4,14,4,2,2,0.5
+"BP|||COMMON_ALL_METHODS|||negative regulation of apoptotic signaling pathway","negative regulation of apoptotic signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,49,49,14,49,14,9,5,0.642857142857143
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell adhesion","negative regulation of cell adhesion","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,58,58,14,58,14,7,7,0.5
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell differentiation","negative regulation of cell differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,106,106,37,106,37,24,13,0.648648648648649
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell motility","negative regulation of cell motility","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,65,65,23,65,23,13,10,0.565217391304348
+"BP|||COMMON_ALL_METHODS|||negative regulation of cell population proliferation","negative regulation of cell population proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,121,121,41,120,41,21,20,0.51219512195122
+"BP|||COMMON_ALL_METHODS|||negative regulation of cytoskeleton organization","negative regulation of cytoskeleton organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,42,42,12,42,12,10,2,0.833333333333333
+"BP|||COMMON_ALL_METHODS|||negative regulation of endothelial cell proliferation","negative regulation of endothelial cell proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,3,15,3,2,1,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||negative regulation of epithelial cell proliferation","negative regulation of epithelial cell proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,31,31,8,31,8,5,3,0.625
+"BP|||COMMON_ALL_METHODS|||negative regulation of immune system process","negative regulation of immune system process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,99,99,26,99,26,14,12,0.538461538461538
+"BP|||COMMON_ALL_METHODS|||negative regulation of locomotion","negative regulation of locomotion","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,66,66,23,66,23,13,10,0.565217391304348
+"BP|||COMMON_ALL_METHODS|||negative regulation of lymphocyte activation","negative regulation of lymphocyte activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,32,32,6,32,6,2,4,0.333333333333333
+"BP|||COMMON_ALL_METHODS|||negative regulation of protein containing complex disassembly","negative regulation of protein-containing complex disassembly","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,26,26,3,26,3,3,0,1
+"BP|||COMMON_ALL_METHODS|||negative regulation of protein depolymerization","negative regulation of protein depolymerization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,24,24,3,24,3,3,0,1
+"BP|||COMMON_ALL_METHODS|||negative regulation of supramolecular fiber organization","negative regulation of supramolecular fiber organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,44,44,11,44,11,9,2,0.818181818181818
+"BP|||COMMON_ALL_METHODS|||negative regulation of t cell activation","negative regulation of T cell activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,28,28,6,28,6,2,4,0.333333333333333
+"BP|||COMMON_ALL_METHODS|||neuron apoptotic process","neuron apoptotic process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,53,53,19,53,19,15,4,0.789473684210526
+"BP|||COMMON_ALL_METHODS|||neuron projection morphogenesis","neuron projection morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,112,112,29,112,29,20,9,0.689655172413793
+"BP|||COMMON_ALL_METHODS|||peptide antigen assembly with mhc class ii protein complex","peptide antigen assembly with MHC class II protein complex","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,7,7,0,7,0,0,0,
+"BP|||COMMON_ALL_METHODS|||plasma membrane bounded cell projection morphogenesis","plasma membrane bounded cell projection morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,115,115,30,115,30,21,9,0.7
+"BP|||COMMON_ALL_METHODS|||positive chemotaxis","positive chemotaxis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,19,19,8,18,8,6,2,0.75
+"BP|||COMMON_ALL_METHODS|||positive regulation of angiogenesis","positive regulation of angiogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,46,46,12,46,12,9,3,0.75
+"BP|||COMMON_ALL_METHODS|||positive regulation of cd4 positive alpha beta t cell activation","positive regulation of CD4-positive, alpha-beta T cell activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,13,13,3,13,3,1,2,0.333333333333333
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell cell adhesion","positive regulation of cell-cell adhesion","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,63,63,15,63,15,8,7,0.533333333333333
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell activation","positive regulation of cell activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,70,70,15,70,15,11,4,0.733333333333333
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell adhesion","positive regulation of cell adhesion","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,93,93,23,93,23,13,10,0.565217391304348
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell development","positive regulation of cell development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,80,80,20,80,20,15,5,0.75
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell migration","positive regulation of cell migration","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,118,118,35,117,35,23,12,0.657142857142857
+"BP|||COMMON_ALL_METHODS|||positive regulation of cell motility","positive regulation of cell motility","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,121,121,35,120,35,23,12,0.657142857142857
+"BP|||COMMON_ALL_METHODS|||positive regulation of chemotaxis","positive regulation of chemotaxis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,39,39,14,39,14,11,3,0.785714285714286
+"BP|||COMMON_ALL_METHODS|||positive regulation of endothelial cell proliferation","positive regulation of endothelial cell proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,24,24,6,24,6,3,3,0.5
+"BP|||COMMON_ALL_METHODS|||positive regulation of hemopoiesis","positive regulation of hemopoiesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,41,41,12,41,12,10,2,0.833333333333333
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte activation","positive regulation of leukocyte activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,68,68,15,68,15,11,4,0.733333333333333
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte cell cell adhesion","positive regulation of leukocyte cell-cell adhesion","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,58,58,13,58,13,8,5,0.615384615384615
+"BP|||COMMON_ALL_METHODS|||positive regulation of leukocyte differentiation","positive regulation of leukocyte differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,41,41,12,41,12,10,2,0.833333333333333
+"BP|||COMMON_ALL_METHODS|||positive regulation of locomotion","positive regulation of locomotion","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,124,124,35,123,35,23,12,0.657142857142857
+"BP|||COMMON_ALL_METHODS|||positive regulation of lymphocyte activation","positive regulation of lymphocyte activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,61,61,13,61,13,9,4,0.692307692307692
+"BP|||COMMON_ALL_METHODS|||positive regulation of microtubule polymerization","positive regulation of microtubule polymerization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,3,15,3,3,0,1
+"BP|||COMMON_ALL_METHODS|||positive regulation of microtubule polymerization or depolymerization","positive regulation of microtubule polymerization or depolymerization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,16,16,3,16,3,3,0,1
+"BP|||COMMON_ALL_METHODS|||positive regulation of myoblast differentiation","positive regulation of myoblast differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,5,15,5,3,2,0.6
+"BP|||COMMON_ALL_METHODS|||positive regulation of t cell activation","positive regulation of T cell activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,53,53,11,53,11,7,4,0.636363636363636
+"BP|||COMMON_ALL_METHODS|||positive regulation of t cell differentiation","positive regulation of T cell differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,28,28,6,28,6,4,2,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||positive regulation of vasculature development","positive regulation of vasculature development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,47,47,12,47,12,9,3,0.75
+"BP|||COMMON_ALL_METHODS|||protein depolymerization","protein depolymerization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,36,36,7,36,7,6,1,0.857142857142857
+"BP|||COMMON_ALL_METHODS|||reactive oxygen species metabolic process","reactive oxygen species metabolic process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,45,45,10,45,10,7,3,0.7
+"BP|||COMMON_ALL_METHODS|||regulation of actin filament depolymerization","regulation of actin filament depolymerization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,20,20,5,20,5,5,0,1
+"BP|||COMMON_ALL_METHODS|||regulation of angiogenesis","regulation of angiogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,74,74,16,74,16,10,6,0.625
+"BP|||COMMON_ALL_METHODS|||regulation of apoptotic signaling pathway","regulation of apoptotic signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,75,75,24,75,24,16,8,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||regulation of blood circulation","regulation of blood circulation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,45,45,14,45,14,7,7,0.5
+"BP|||COMMON_ALL_METHODS|||regulation of body fluid levels","regulation of body fluid levels","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,65,65,22,65,22,14,8,0.636363636363636
+"BP|||COMMON_ALL_METHODS|||regulation of cd4 positive alpha beta t cell activation","regulation of CD4-positive, alpha-beta T cell activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,21,21,5,21,5,2,3,0.4
+"BP|||COMMON_ALL_METHODS|||regulation of cell activation","regulation of cell activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,109,109,21,109,21,12,9,0.571428571428571
+"BP|||COMMON_ALL_METHODS|||regulation of cell growth","regulation of cell growth","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,82,82,20,82,20,15,5,0.75
+"BP|||COMMON_ALL_METHODS|||regulation of cell projection organization","regulation of cell projection organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,130,130,32,130,32,23,9,0.71875
+"BP|||COMMON_ALL_METHODS|||regulation of chemotaxis","regulation of chemotaxis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,49,49,18,49,18,15,3,0.833333333333333
+"BP|||COMMON_ALL_METHODS|||regulation of endothelial cell chemotaxis","regulation of endothelial cell chemotaxis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,9,9,4,9,4,4,0,1
+"BP|||COMMON_ALL_METHODS|||regulation of endothelial cell proliferation","regulation of endothelial cell proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,38,38,9,38,9,5,4,0.555555555555556
+"BP|||COMMON_ALL_METHODS|||regulation of epithelial cell proliferation","regulation of epithelial cell proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,69,69,21,69,21,14,7,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||regulation of growth","regulation of growth","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,101,101,28,101,28,23,5,0.821428571428571
+"BP|||COMMON_ALL_METHODS|||regulation of heart contraction","regulation of heart contraction","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,40,40,14,40,14,7,7,0.5
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte activation","regulation of leukocyte activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,101,101,20,101,20,12,8,0.6
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte cell cell adhesion","regulation of leukocyte cell-cell adhesion","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,75,75,14,75,14,8,6,0.571428571428571
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte differentiation","regulation of leukocyte differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,62,62,20,62,20,14,6,0.7
+"BP|||COMMON_ALL_METHODS|||regulation of leukocyte proliferation","regulation of leukocyte proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,44,44,11,44,11,5,6,0.454545454545455
+"BP|||COMMON_ALL_METHODS|||regulation of lymphocyte activation","regulation of lymphocyte activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,92,92,18,92,18,10,8,0.555555555555556
+"BP|||COMMON_ALL_METHODS|||regulation of lymphocyte proliferation","regulation of lymphocyte proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,38,38,8,38,8,3,5,0.375
+"BP|||COMMON_ALL_METHODS|||regulation of mitochondrial fission","regulation of mitochondrial fission","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,13,13,5,13,5,4,1,0.8
+"BP|||COMMON_ALL_METHODS|||regulation of mononuclear cell proliferation","regulation of mononuclear cell proliferation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,39,39,8,39,8,3,5,0.375
+"BP|||COMMON_ALL_METHODS|||regulation of muscle contraction","regulation of muscle contraction","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,35,35,11,35,11,7,4,0.636363636363636
+"BP|||COMMON_ALL_METHODS|||regulation of muscle system process","regulation of muscle system process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,53,53,17,53,17,9,8,0.529411764705882
+"BP|||COMMON_ALL_METHODS|||regulation of phosphatidylinositol 3 kinase protein kinase b signal transduction","regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,57,57,16,56,16,10,6,0.625
+"BP|||COMMON_ALL_METHODS|||regulation of plasma membrane bounded cell projection organization","regulation of plasma membrane bounded cell projection organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,127,127,31,127,31,22,9,0.709677419354839
+"BP|||COMMON_ALL_METHODS|||regulation of protein containing complex disassembly","regulation of protein-containing complex disassembly","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,40,40,7,40,7,6,1,0.857142857142857
+"BP|||COMMON_ALL_METHODS|||regulation of protein depolymerization","regulation of protein depolymerization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,31,31,6,31,6,5,1,0.833333333333333
+"BP|||COMMON_ALL_METHODS|||regulation of ruffle assembly","regulation of ruffle assembly","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,13,13,5,13,5,4,1,0.8
+"BP|||COMMON_ALL_METHODS|||regulation of smad protein signal transduction","regulation of SMAD protein signal transduction","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,21,21,9,21,9,4,5,0.444444444444444
+"BP|||COMMON_ALL_METHODS|||regulation of system process","regulation of system process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,96,96,31,96,31,18,13,0.580645161290323
+"BP|||COMMON_ALL_METHODS|||regulation of t cell activation","regulation of T cell activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,76,76,15,76,15,8,7,0.533333333333333
+"BP|||COMMON_ALL_METHODS|||regulation of t cell differentiation","regulation of T cell differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,40,40,8,40,8,4,4,0.5
+"BP|||COMMON_ALL_METHODS|||regulation of vasculature development","regulation of vasculature development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,75,75,16,75,16,10,6,0.625
+"BP|||COMMON_ALL_METHODS|||renal system process","renal system process","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,25,25,9,25,9,4,5,0.444444444444444
+"BP|||COMMON_ALL_METHODS|||respiratory burst","respiratory burst","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,11,11,1,11,1,0,1,0
+"BP|||COMMON_ALL_METHODS|||response to bacterium","response to bacterium","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,99,99,25,98,25,17,8,0.68
+"BP|||COMMON_ALL_METHODS|||response to bmp","response to BMP","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,35,35,12,35,12,4,8,0.333333333333333
+"BP|||COMMON_ALL_METHODS|||response to decreased oxygen levels","response to decreased oxygen levels","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,64,64,17,64,17,12,5,0.705882352941177
+"BP|||COMMON_ALL_METHODS|||response to growth factor","response to growth factor","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,144,144,38,144,38,24,14,0.631578947368421
+"BP|||COMMON_ALL_METHODS|||response to hypoxia","response to hypoxia","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,63,63,16,63,16,11,5,0.6875
+"BP|||COMMON_ALL_METHODS|||response to molecule of bacterial origin","response to molecule of bacterial origin","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,65,65,14,65,14,11,3,0.785714285714286
+"BP|||COMMON_ALL_METHODS|||response to nitric oxide","response to nitric oxide","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,11,11,3,11,3,2,1,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||response to reactive oxygen species","response to reactive oxygen species","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,47,47,11,47,11,7,4,0.636363636363636
+"BP|||COMMON_ALL_METHODS|||response to wounding","response to wounding","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,99,99,28,99,28,21,7,0.75
+"BP|||COMMON_ALL_METHODS|||response to xenobiotic stimulus","response to xenobiotic stimulus","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,67,67,13,67,13,11,2,0.846153846153846
+"BP|||COMMON_ALL_METHODS|||ruffle assembly","ruffle assembly","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,6,15,6,5,1,0.833333333333333
+"BP|||COMMON_ALL_METHODS|||ruffle organization","ruffle organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,18,18,8,18,8,5,3,0.625
+"BP|||COMMON_ALL_METHODS|||sarcomere organization","sarcomere organization","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,14,14,6,14,6,3,3,0.5
+"BP|||COMMON_ALL_METHODS|||smad protein signal transduction","SMAD protein signal transduction","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,28,28,10,28,10,5,5,0.5
+"BP|||COMMON_ALL_METHODS|||striated muscle cell differentiation","striated muscle cell differentiation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,61,61,20,61,20,14,6,0.7
+"BP|||COMMON_ALL_METHODS|||striated muscle contraction","striated muscle contraction","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,53,53,17,53,17,11,6,0.647058823529412
+"BP|||COMMON_ALL_METHODS|||striated muscle tissue development","striated muscle tissue development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,58,58,20,58,20,11,9,0.55
+"BP|||COMMON_ALL_METHODS|||t cell activation","T cell activation","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,99,99,20,98,20,10,10,0.5
+"BP|||COMMON_ALL_METHODS|||t cell receptor signaling pathway","T cell receptor signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,34,34,5,34,5,2,3,0.4
+"BP|||COMMON_ALL_METHODS|||taxis","taxis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,95,95,26,93,26,18,8,0.692307692307692
+"BP|||COMMON_ALL_METHODS|||telencephalon cell migration","telencephalon cell migration","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,14,14,2,14,2,2,0,1
+"BP|||COMMON_ALL_METHODS|||telencephalon development","telencephalon development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,43,43,10,43,10,5,5,0.5
+"BP|||COMMON_ALL_METHODS|||tissue morphogenesis","tissue morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,93,93,28,93,28,18,10,0.642857142857143
+"BP|||COMMON_ALL_METHODS|||tissue remodeling","tissue remodeling","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,38,38,9,38,9,6,3,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||vascular endothelial growth factor receptor signaling pathway","vascular endothelial growth factor receptor signaling pathway","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,18,18,7,18,7,7,0,1
+"BP|||COMMON_ALL_METHODS|||vasculature development","vasculature development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,143,143,37,143,37,24,13,0.648648648648649
+"BP|||COMMON_ALL_METHODS|||ventricular cardiac muscle tissue development","ventricular cardiac muscle tissue development","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,15,15,6,15,6,4,2,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||ventricular cardiac muscle tissue morphogenesis","ventricular cardiac muscle tissue morphogenesis","BP","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,13,13,6,13,6,4,2,0.666666666666667
+"BP|||DISCORDANT_ANY_METHOD|||cellular respiration","cellular respiration","BP","DISCORDANT_ANY_METHOD","ONLY_siNRP1_5",0,15,15,2,10,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||activation of gtpase activity","activation of GTPase activity","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,2,2,1,0,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||activation of protein kinase activity","activation of protein kinase activity","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,2,2,1,0,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||establishment of protein localization to endoplasmic reticulum","establishment of protein localization to endoplasmic reticulum","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,2,2,0,0,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||positive regulation of catalytic activity","positive regulation of catalytic activity","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,4,4,1,0,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||positive regulation of molecular function","positive regulation of molecular function","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,4,4,1,0,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||protein targeting to er","protein targeting to ER","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,2,2,0,0,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||regulation of catalytic activity","regulation of catalytic activity","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,4,4,1,0,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||regulation of kinase activity","regulation of kinase activity","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,3,3,1,0,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||regulation of protein kinase activity","regulation of protein kinase activity","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,3,3,1,0,0,0,0,
+"BP|||EXCLUSIVE_UPPERQUARTILE|||regulation of transferase activity","regulation of transferase activity","BP","EXCLUSIVE_UPPERQUARTILE","ONLY_siNRP1_5",0,4,4,1,0,0,0,0,
+"CC|||COMMON_ALL_METHODS|||cell cell junction","cell-cell junction","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,107,107,25,107,25,15,10,0.6
+"CC|||COMMON_ALL_METHODS|||cell substrate junction","cell-substrate junction","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,112,112,23,112,23,15,8,0.652173913043478
+"CC|||COMMON_ALL_METHODS|||contractile muscle fiber","contractile muscle fiber","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,52,52,13,52,13,8,5,0.615384615384615
+"CC|||COMMON_ALL_METHODS|||cortical actin cytoskeleton","cortical actin cytoskeleton","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,24,24,6,24,6,4,2,0.666666666666667
+"CC|||COMMON_ALL_METHODS|||cortical cytoskeleton","cortical cytoskeleton","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,32,32,7,32,7,5,2,0.714285714285714
+"CC|||COMMON_ALL_METHODS|||endocytic vesicle","endocytic vesicle","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,83,83,11,83,11,7,4,0.636363636363636
+"CC|||COMMON_ALL_METHODS|||endocytic vesicle membrane","endocytic vesicle membrane","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,51,51,5,51,5,4,1,0.8
+"CC|||COMMON_ALL_METHODS|||external side of plasma membrane","external side of plasma membrane","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,63,63,12,63,12,9,3,0.75
+"CC|||COMMON_ALL_METHODS|||focal adhesion","focal adhesion","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,107,107,22,107,22,14,8,0.636363636363636
+"CC|||COMMON_ALL_METHODS|||membrane microdomain","membrane microdomain","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,64,64,15,64,15,5,10,0.333333333333333
+"CC|||COMMON_ALL_METHODS|||membrane raft","membrane raft","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,63,63,14,63,14,4,10,0.285714285714286
+"CC|||COMMON_ALL_METHODS|||mhc class ii protein complex","MHC class II protein complex","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,8,8,0,8,0,0,0,
+"CC|||COMMON_ALL_METHODS|||microtubule end","microtubule end","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,16,16,5,16,5,3,2,0.6
+"CC|||COMMON_ALL_METHODS|||myofibril","myofibril","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,50,50,13,50,13,8,5,0.615384615384615
+"CC|||COMMON_ALL_METHODS|||plasma membrane protein complex","plasma membrane protein complex","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,97,97,22,97,22,11,11,0.5
+"CC|||COMMON_ALL_METHODS|||sarcomere","sarcomere","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,47,47,13,47,13,8,5,0.615384615384615
+"CC|||COMMON_ALL_METHODS|||side of membrane","side of membrane","CC","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,126,126,32,126,32,18,14,0.5625
+"MF|||COMMON_ALL_METHODS|||actinin binding","actinin binding","MF","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,12,12,5,12,5,1,4,0.2
+"MF|||COMMON_ALL_METHODS|||calcium dependent protein binding","calcium-dependent protein binding","MF","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,23,23,4,23,4,2,2,0.5
+"MF|||COMMON_ALL_METHODS|||calcium ion binding","calcium ion binding","MF","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,114,114,31,114,31,23,8,0.741935483870968
+"MF|||COMMON_ALL_METHODS|||cytokine activity","cytokine activity","MF","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,48,48,13,47,13,7,6,0.538461538461538
+"MF|||COMMON_ALL_METHODS|||cytokine receptor binding","cytokine receptor binding","MF","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,54,54,15,52,15,6,9,0.4
+"MF|||COMMON_ALL_METHODS|||growth factor activity","growth factor activity","MF","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,41,41,12,41,12,7,5,0.583333333333333
+"MF|||COMMON_ALL_METHODS|||mhc protein complex binding","MHC protein complex binding","MF","COMMON_ALL_METHODS","ONLY_siNRP1_5",0,13,13,1,13,1,1,0,1
+"REACTOME|||ALTERNATIVE_ONLY|||developmental lineage of mammary gland luminal epithelial cells","Developmental Lineage of Mammary Gland Luminal Epithelial Cells","Reactome","ALTERNATIVE_ONLY","ONLY_siNRP1_5",0,3,3,2,0,0,0,0,
+"REACTOME|||ALTERNATIVE_ONLY|||developmental lineage of mammary gland myoepithelial cells","Developmental Lineage of Mammary Gland Myoepithelial Cells","Reactome","ALTERNATIVE_ONLY","ONLY_siNRP1_5",0,3,3,2,0,0,0,0,
+"BP|||COMMON_ALL_METHODS|||cell chemotaxis","cell chemotaxis","BP","COMMON_ALL_METHODS","SHARED",45,69,93,45,67,21,15,6,0.714285714285714
+"BP|||COMMON_ALL_METHODS|||cell surface receptor protein tyrosine kinase signaling pathway","cell surface receptor protein tyrosine kinase signaling pathway","BP","COMMON_ALL_METHODS","SHARED",97,118,182,100,118,36,24,12,0.666666666666667
+"BP|||COMMON_ALL_METHODS|||cellular response to growth factor stimulus","cellular response to growth factor stimulus","BP","COMMON_ALL_METHODS","SHARED",91,138,196,94,139,38,24,14,0.631578947368421
+"BP|||COMMON_ALL_METHODS|||muscle structure development","muscle structure development","BP","COMMON_ALL_METHODS","SHARED",84,127,170,84,127,41,29,12,0.707317073170732
+"BP|||COMMON_ALL_METHODS|||ossification","ossification","BP","COMMON_ALL_METHODS","SHARED",59,76,111,62,76,27,15,12,0.555555555555556
+"CC|||COMMON_ALL_METHODS|||external encapsulating structure","external encapsulating structure","CC","COMMON_ALL_METHODS","SHARED",71,84,124,73,85,34,20,14,0.588235294117647
+"CC|||COMMON_ALL_METHODS|||extracellular matrix","extracellular matrix","CC","COMMON_ALL_METHODS","SHARED",71,84,124,73,85,34,20,14,0.588235294117647
+"CC|||COMMON_ALL_METHODS|||receptor complex","receptor complex","CC","COMMON_ALL_METHODS","SHARED",52,70,103,52,70,19,11,8,0.578947368421053
+"MF|||COMMON_ALL_METHODS|||growth factor binding","growth factor binding","MF","COMMON_ALL_METHODS","SHARED",34,37,57,34,37,14,9,5,0.642857142857143
+"MF|||COMMON_ALL_METHODS|||receptor ligand activity","receptor ligand activity","MF","COMMON_ALL_METHODS","SHARED",59,105,133,60,102,32,21,11,0.65625
+"MF|||COMMON_ALL_METHODS|||signaling receptor activator activity","signaling receptor activator activity","MF","COMMON_ALL_METHODS","SHARED",61,107,137,62,105,33,22,11,0.666666666666667
+"MF|||COMMON_ALL_METHODS|||signaling receptor regulator activity","signaling receptor regulator activity","MF","COMMON_ALL_METHODS","SHARED",64,112,142,65,110,36,25,11,0.694444444444444

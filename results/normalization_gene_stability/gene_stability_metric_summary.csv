@@ -1,0 +1,3 @@
+"contrast","genes_analyzed","significant_all_methods","significant_subset_methods","not_significant_any_method","genes_near_FDR_threshold","genes_logFC_range_ge_0_5","genes_direction_concordant_all"
+"siNRP1_3_vs_siNT",17531,2444,504,14583,1142,0,16603
+"siNRP1_5_vs_siNT",17531,3305,230,13996,924,0,17230

@@ -1,0 +1,44 @@
+TRANSCRIPTOME-X
+SCRIPT 41 - INTEGRATED CANDIDATE GENE VALIDATION
+============================================================
+
+Integrated candidates: 1913
+Final shortlist: 79
+Robust cross-layer candidates: 23
+
+CLASS DISTRIBUTION
+------------------
+ROBUST_CROSS_LAYER: 23
+MULTI_LAYER_SUPPORTED: 56
+TRANSCRIPTOMICALLY_SUPPORTED: 1810
+NETWORK_PRIORITY_ONLY: 0
+EXPLORATORY: 24
+
+TOP 10 CANDIDATES
+-----------------
+1. THBS1 | Score 97.41 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 65 | Modules 2
+2. CCN3 | Score 97.08 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 45 | Modules 2
+3. NRP1 | Score 94.63 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 69 | Modules 1
+4. TGFBR3 | Score 94.51 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 59 | Modules 1
+5. VEGFC | Score 94.04 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 41 | Modules 1
+6. PIK3CA | Score 94.02 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 39 | Modules 1
+7. FGF1 | Score 93.76 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 39 | Modules 1
+8. RELN | Score 93.39 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 30 | Modules 1
+9. MET | Score 92.57 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 25 | Modules 1
+10. PAK2 | Score 92.50 | ROBUST_CROSS_LAYER | CONCORDANT | Pathways 23 | Modules 1
+
+SCORING FRAMEWORK
+-----------------
+Network evidence: 25%
+Differential expression: 30%
+Directional agreement: 20%
+Pathway support: 15%
+Module support: 10%
+
+INTERPRETATION
+--------------
+The integrated score is a descriptive prioritization score.
+It is not a statistical significance measure or causal estimate.
+Pathway and module annotations are overlapping evidence layers.
+Missing FDR values are not considered statistically significant.
+Concordance across knockdown conditions does not establish causality.

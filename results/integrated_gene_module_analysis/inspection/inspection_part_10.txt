@@ -1,0 +1,3 @@
+﻿CSV inspected: 13
+Output report: C:\Users\luank\Dropbox\PC\Desktop\PYTHON\TRANSCRIPTOME_X\results\integrated_gene_module_analysis\inspection\SCRIPT33_COMPLETE_INSPECTION.txt
+Inspection completed: 2026-11-21 11:22:32

@@ -1,0 +1,113 @@
+============================================================
+TRANSCRIPTOME-X
+SCRIPT 37 - GENE-PATHWAY-MODULE NETWORK ANALYSIS
+CORRECTED VERSION
+============================================================
+
+NETWORK SIZE
+                        metric value
+                    gene_nodes  1913
+                 pathway_nodes   282
+                  module_nodes     4
+            gene_pathway_edges 15399
+             gene_module_edges    84
+          pathway_module_edges    73
+     multi_module_bridge_genes     3
+ hub_candidates_top_10_percent   192
+  genes_without_defined_module  1833
+
+MODULE SUMMARY
+                           module unique_genes pathways_represented significant_both
+                   ECM_REMODELING           26                   19               18
+       CELL_ADHESION_CYTOSKELETON           24                   23                7
+ GROWTH_FACTOR_RECEPTOR_SIGNALING           19                   17                8
+               TGFB_BMP_SIGNALING           15                   14                7
+ concordant_genes discordant_genes multi_module_genes mean_hub_score
+               15                3                  3          52.47
+                2                5                  0          43.51
+                6                2                  1          56.82
+                4                3                  3          60.06
+
+KNOWN BRIDGE GENE VALIDATION
+ gene_symbol module_count
+        CCN3            2
+       THBS1            2
+        CCN2            3
+                                                            module_list       bridge_status
+                                    ECM_REMODELING | TGFB_BMP_SIGNALING MULTI_MODULE_BRIDGE
+                                    ECM_REMODELING | TGFB_BMP_SIGNALING MULTI_MODULE_BRIDGE
+ ECM_REMODELING | GROWTH_FACTOR_RECEPTOR_SIGNALING | TGFB_BMP_SIGNALING MULTI_MODULE_BRIDGE
+ hub_score hub_rank
+     82.69        1
+     80.24        2
+     68.52       10
+
+TOP 20 HUB CANDIDATES
+ gene_symbol pathway_count module_count shared_pathway_count hub_score hub_rank      hub_class
+        CCN3            45            2                    9     82.69        1 TOP_10_PERCENT
+       THBS1            65            2                    6     80.24        2 TOP_10_PERCENT
+       TGFB2            83            1                    8     78.27        3 TOP_10_PERCENT
+        BMP4            89            1                    6     75.53        4 TOP_10_PERCENT
+        FGF1            39            1                    8     73.51        5 TOP_10_PERCENT
+        NRP1            69            1                    5     72.99        6 TOP_10_PERCENT
+       VEGFC            41            1                    7     72.20        7 TOP_10_PERCENT
+        BMP5            42            1                    6     70.15        8 TOP_10_PERCENT
+      TGFBR3            59            1                    4     69.29        9 TOP_10_PERCENT
+        CCN2             9            3                    4     68.52       10 TOP_10_PERCENT
+        RELN            30            1                    5     67.22       11 TOP_10_PERCENT
+        IL6R            33            1                    4     65.81       12 TOP_10_PERCENT
+      LGALS9            53            0                    6     64.97       13 TOP_10_PERCENT
+        CCL2            58            0                    5     64.94       14 TOP_10_PERCENT
+       PDGFB            46            1                   10     64.29       15 TOP_10_PERCENT
+        GPC1            19            1                    6     64.28       16 TOP_10_PERCENT
+      PIK3CA            39            1                    2     63.90       17 TOP_10_PERCENT
+         PTN            37            0                    5     62.17       18 TOP_10_PERCENT
+         MET            25            1                    3     62.08       19 TOP_10_PERCENT
+        TPM1            45            1                    1     61.98       20 TOP_10_PERCENT
+       bridge_status
+ MULTI_MODULE_BRIDGE
+ MULTI_MODULE_BRIDGE
+       SINGLE_MODULE
+       SINGLE_MODULE
+       SINGLE_MODULE
+       SINGLE_MODULE
+       SINGLE_MODULE
+       SINGLE_MODULE
+       SINGLE_MODULE
+ MULTI_MODULE_BRIDGE
+       SINGLE_MODULE
+       SINGLE_MODULE
+   NO_DEFINED_MODULE
+   NO_DEFINED_MODULE
+       SINGLE_MODULE
+       SINGLE_MODULE
+       SINGLE_MODULE
+   NO_DEFINED_MODULE
+       SINGLE_MODULE
+       SINGLE_MODULE
+
+MULTI-MODULE BRIDGE GENES
+ gene_symbol module_count
+        CCN2            3
+        CCN3            2
+       THBS1            2
+                                                            module_list pathway_count
+ ECM_REMODELING | GROWTH_FACTOR_RECEPTOR_SIGNALING | TGFB_BMP_SIGNALING             9
+                                    ECM_REMODELING | TGFB_BMP_SIGNALING            45
+                                    ECM_REMODELING | TGFB_BMP_SIGNALING            65
+ hub_score hub_rank
+     68.52       10
+     82.69        1
+     80.24        2
+
+METHODOLOGICAL NOTES
+- Multi-module annotations are expanded into separate associations.
+- NO_DEFINED_MODULE is excluded from biological module counts.
+- Hub scores are descriptive ranking metrics.
+- Gene-pathway and gene-module edges represent annotations, not causal interactions.
+- A gene may be associated with multiple pathways and modules.
+- No new differential expression or enrichment analysis was performed.
+
+============================================================
+END OF SCRIPT 37
+============================================================

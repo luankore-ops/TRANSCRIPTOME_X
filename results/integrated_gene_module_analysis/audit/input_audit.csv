@@ -1,0 +1,3 @@
+"contrast","input_file","total_records","records_with_symbol","unique_symbols","significant_genes","up_genes","down_genes"
+"siNRP1_3_vs_siNT","C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/normalization_sensitivity/DE_TMM_siNRP1_3_vs_siNT.csv",17531,17531,17475,2690,1165,1525
+"siNRP1_5_vs_siNT","C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/normalization_sensitivity/DE_TMM_siNRP1_5_vs_siNT.csv",17531,17531,17475,3420,1647,1773

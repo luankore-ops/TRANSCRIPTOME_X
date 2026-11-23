@@ -1,0 +1,3 @@
+"comparison","ensembl_id","gene_name","logFC","FDR","significant","direction","included_in_533"
+"siNRP1_3_vs_siNT","ENSG00000099250","NRP1",-0.692876967820272,0.0247835265929449,TRUE,"DOWN",TRUE
+"siNRP1_5_vs_siNT","ENSG00000099250","NRP1",-4.87695296739976,3.02363667601604e-07,TRUE,"DOWN",TRUE

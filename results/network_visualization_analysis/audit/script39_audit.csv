@@ -1,0 +1,11 @@
+"metric","value"
+"input_gene_pathway_edges",15399
+"input_gene_module_edges",84
+"input_pathway_module_edges",73
+"unique_edges",15556
+"network_nodes",2199
+"network_edges",15556
+"bridge_genes",3
+"connected_components",5
+"communities",16
+"top_nodes_exported",30

@@ -1,0 +1,10 @@
+"metric","value"
+"gene_nodes",1913
+"pathway_nodes",282
+"module_nodes",4
+"gene_pathway_edges",15399
+"gene_module_edges",84
+"pathway_module_edges",73
+"multi_module_bridge_genes",3
+"hub_candidates_top_10_percent",192
+"genes_without_defined_module",1833

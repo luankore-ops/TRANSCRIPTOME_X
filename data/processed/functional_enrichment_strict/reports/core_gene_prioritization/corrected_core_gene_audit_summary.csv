@@ -1,0 +1,4 @@
+"comparison","direction","strict_records","distinct_ensembl","significant_DE","direction_consistent"
+"siNRP1_3_vs_siNT","DOWN",703,703,703,703
+"siNRP1_5_vs_siNT","DOWN",143,143,143,143
+"siNRP1_5_vs_siNT","UP",809,809,809,809

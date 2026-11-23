@@ -1,0 +1,8 @@
+"check","passed"
+"Candidate identifiers are unique",TRUE
+"All top candidates belong to assessment",TRUE
+"All candidate evidence rows have gene identifiers",TRUE
+"NRP1 summary generated",TRUE
+"Research hypotheses generated",TRUE
+"All hypothesis records have candidate identifiers",TRUE
+"Final report generated",TRUE

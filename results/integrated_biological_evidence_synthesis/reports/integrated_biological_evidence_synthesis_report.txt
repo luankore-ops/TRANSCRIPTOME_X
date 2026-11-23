@@ -1,0 +1,95 @@
+============================================================
+TRANSCRIPTOME-X
+SCRIPT 49 - INTEGRATED BIOLOGICAL EVIDENCE SYNTHESIS
+============================================================
+
+Execution date: 2026-11-23 17:01:18.144643
+
+1. INPUT DATASETS
+Final evidence matrix: 79 rows
+Integrated candidate ranking: 1913 rows
+Final candidate shortlist: 79 rows
+Integrated validation: 1913 rows
+Gene-pathway associations: 15399 rows
+Gene-module associations: 84 rows
+
+2. FINAL CANDIDATE PANEL
+Unique candidates: 79
+Evidence ledger records: 79
+
+3. EVIDENCE LAYER COVERAGE
+Differential expression:79candidates (100%)
+Network:79candidates (100%)
+Pathway:79candidates (100%)
+Functional module:79candidates (100%)
+
+4. EVIDENCE CONVERGENCE
+0 evidence layers: 0 candidates ( 0 %)
+1 evidence layers: 0 candidates ( 0 %)
+2 evidence layers: 0 candidates ( 0 %)
+3 evidence layers: 0 candidates ( 0 %)
+4 evidence layers: 79 candidates ( 100 %)
+
+5. PATHWAY SUPPORT
+Distinct pathways represented among final candidates: 247
+
+Top pathways by number of represented candidates:
+external encapsulating structure | CC | candidates: 32 | genes: ADAMTS6;BGN;CCN2;CCN3;COL4A1;COL4A2;COL5A1;COL6A1;FBLN1;FGF1;FRAS1;GPC1;HTRA1;ITGB4;LUM;MATN2;MMP1;MMP3;MMP9;PDGFB;PLOD2;RELN;SDC2;SERPINE1;SERPINH1;TGFB2;THBS1;TIMP2;TIMP3;TIMP4;TNC;VTN
+extracellular matrix | CC | candidates: 32 | genes: ADAMTS6;BGN;CCN2;CCN3;COL4A1;COL4A2;COL5A1;COL6A1;FBLN1;FGF1;FRAS1;GPC1;HTRA1;ITGB4;LUM;MATN2;MMP1;MMP3;MMP9;PDGFB;PLOD2;RELN;SDC2;SERPINE1;SERPINH1;TGFB2;THBS1;TIMP2;TIMP3;TIMP4;TNC;VTN
+cellular response to growth factor stimulus | BP | candidates: 31 | genes: ACVR2B;BMP4;BMP5;BMP6;BMPR1B;CAV1;CCN3;COL4A2;CTNNB1;EGFR;ENG;ERBB2;FGF1;FGFR3;FLT1;GPC1;ITGB5;KDR;NOG;NRP1;PAK2;PDGFB;PIK3CA;SMAD2;SMAD6;TGFB2;TGFBR2;TGFBR3;THBS1;VEGFC;VTN
+cell surface receptor protein tyrosine kinase signaling pathway | BP | candidates: 27 | genes: BMP5;CAV2;COL4A2;CTNNB1;EGF;EGFR;ERBB2;FGF1;FGFR3;FLT1;GPC1;GRB2;IGF1R;IGFBP3;ITGA1;KDR;LYN;MET;MMP9;NOG;NRP1;PAK2;PDGFB;PIK3CA;THBS1;VEGFC;VTN
+response to growth factor | BP | candidates: 25 | genes: ACVR2B;BMP4;BMP5;BMP6;CAV1;CCN3;COL4A2;ENG;ERBB2;FGF1;FLT1;GPC1;KDR;LUM;NRP1;PAK2;PDGFB;PIK3CA;ROCK2;SMAD2;TGFB2;TGFBR2;TGFBR3;THBS1;VEGFC
+growth factor binding | MF | candidates: 24 | genes: ACVR2B;CCN2;COL4A1;COL5A1;COL6A1;EGFR;ENG;ERBB2;FGFR3;FLT1;GPC1;HTRA1;IGF1R;IGFBP3;IL6R;ITGA6;ITGB4;KDR;NOG;NRP1;PDGFB;TGFBR2;TGFBR3;THBS1
+blood vessel development | BP | candidates: 23 | genes: ACVR2B;BMP4;CAV1;CCN3;COL4A2;EGF;ENG;ERBB2;FGF1;FLT1;IL6;IL6R;KDR;NRP1;PDGFB;PIK3CA;ROCK2;SERPINE1;TGFB2;TGFBR2;TGFBR3;THBS1;VEGFC
+vasculature development | BP | candidates: 23 | genes: ACVR2B;BMP4;CAV1;CCN3;COL4A2;EGF;ENG;ERBB2;FGF1;FLT1;IL6;IL6R;KDR;NRP1;PDGFB;PIK3CA;ROCK2;SERPINE1;TGFB2;TGFBR2;TGFBR3;THBS1;VEGFC
+blood vessel morphogenesis | BP | candidates: 21 | genes: BMP4;CAV1;CCN3;COL4A2;EGF;ENG;ERBB2;FGF1;FLT1;IL6;KDR;NRP1;PDGFB;PIK3CA;ROCK2;SERPINE1;TGFB2;TGFBR2;TGFBR3;THBS1;VEGFC
+Extracellular matrix organization | Reactome | candidates: 21 | genes: BMP4;CDH1;COL4A1;COL4A2;COL5A1;FBLN1;HTRA1;ITGA1;ITGA2;ITGA6;ITGB5;LUM;MMP1;PLOD2;SDC2;SDC4;SERPINH1;TGFB2;THBS1;TIMP2;VTN
+positive regulation of cell migration | BP | candidates: 21 | genes: BMP4;CAV1;EGF;FBLN1;FGF1;FLT1;IL6;IL6R;KDR;LYN;MET;MMP9;NRP1;PDGFB;RELN;ROCK2;SERPINE1;TGFB2;TGFBR3;THBS1;VEGFC
+positive regulation of cell motility | BP | candidates: 21 | genes: BMP4;CAV1;EGF;FBLN1;FGF1;FLT1;IL6;IL6R;KDR;LYN;MET;MMP9;NRP1;PDGFB;RELN;ROCK2;SERPINE1;TGFB2;TGFBR3;THBS1;VEGFC
+positive regulation of locomotion | BP | candidates: 21 | genes: BMP4;CAV1;EGF;FBLN1;FGF1;FLT1;IL6;IL6R;KDR;LYN;MET;MMP9;NRP1;PDGFB;RELN;ROCK2;SERPINE1;TGFB2;TGFBR3;THBS1;VEGFC
+receptor complex | CC | candidates: 21 | genes: ACVR2B;BMPR1B;EGFR;ENG;ERBB2;FGFR3;FLT1;IGF1R;IL6;IL6R;ITGA1;ITGA2;ITGA6;ITGB4;ITGB5;KDR;LYN;MET;NRP1;TGFBR2;TGFBR3
+response to wounding | BP | candidates: 21 | genes: CAV1;CCN2;COL5A1;ENG;ERBB2;FBLN1;FGF1;IL6;IL6R;ITGB4;KDR;LYN;NRP1;PDGFB;PIK3CA;SERPINE1;TGFB2;THBS1;TNC;TPM1;VCL
+
+6. FUNCTIONAL MODULE SUPPORT
+Distinct modules represented among final candidates: 4
+
+Module support:
+ECM_REMODELING | candidates: 26 | genes: ADAMTS6;BGN;CCN2;CCN3;COL4A1;COL4A2;COL5A1;COL6A1;FBLN1;FRAS1;HTRA1;LUM;MATN2;MMP1;MMP3;MMP9;PLOD2;RELN;SERPINE1;SERPINH1;THBS1;TIMP2;TIMP3;TIMP4;TNC;VTN
+CELL_ADHESION_CYTOSKELETON | candidates: 23 | genes: CAV1;CAV2;CDH1;CNN1;CTNNB1;FSCN1;GPC1;ITGA1;ITGA2;ITGA6;ITGB4;ITGB5;MYL9;PAK2;PDLIM1;PDLIM5;ROCK2;SDC1;SDC2;SDC4;TAGLN;TPM1;VCL
+GROWTH_FACTOR_RECEPTOR_SIGNALING | candidates: 19 | genes: CCN2;EGF;EGFR;ERBB2;FGF1;FGFR3;FLT1;GRB2;IGF1R;IGFBP3;IL6;IL6R;KDR;LYN;MET;NRP1;PDGFB;PIK3CA;VEGFC
+TGFB_BMP_SIGNALING | candidates: 15 | genes: ACVR2B;BMP4;BMP5;BMP6;BMPR1B;CCN2;CCN3;ENG;NOG;SMAD2;SMAD6;TGFB2;TGFBR2;TGFBR3;THBS1
+
+7. EXPRESSION DIRECTION
+DOWNREGULATED_BOTH : 30 candidates
+OPPOSITE_DIRECTIONS : 34 candidates
+UPREGULATED_BOTH : 15 candidates
+
+8. TOP PRIORITY CANDIDATES
+1 THBS1 | score: 97.412 | class: ROBUST_CROSS_LAYER
+2 CCN3 | score: 97.085 | class: ROBUST_CROSS_LAYER
+3 NRP1 | score: 94.628 | class: ROBUST_CROSS_LAYER
+4 TGFBR3 | score: 94.511 | class: ROBUST_CROSS_LAYER
+5 VEGFC | score: 94.045 | class: ROBUST_CROSS_LAYER
+6 PIK3CA | score: 94.024 | class: ROBUST_CROSS_LAYER
+7 FGF1 | score: 93.758 | class: ROBUST_CROSS_LAYER
+8 RELN | score: 93.391 | class: ROBUST_CROSS_LAYER
+9 MET | score: 92.565 | class: ROBUST_CROSS_LAYER
+10 PAK2 | score: 92.498 | class: ROBUST_CROSS_LAYER
+11 COL4A2 | score: 91.397 | class: ROBUST_CROSS_LAYER
+12 FBLN1 | score: 91.099 | class: ROBUST_CROSS_LAYER
+13 CCN2 | score: 90.789 | class: ROBUST_CROSS_LAYER
+14 COL5A1 | score: 90.559 | class: ROBUST_CROSS_LAYER
+15 PLOD2 | score: 85.418 | class: ROBUST_CROSS_LAYER
+
+9. INTERPRETATION AND LIMITATIONS
+
+This synthesis integrates previously generated transcriptomic, network, pathway and module evidence.
+Existing validation scores and candidate rankings were preserved and were not recalculated.
+Pathway and module association counts represent the annotations present in the input network tables.
+They do not independently establish pathway activation, causal relationships or direct molecular interactions.
+Evidence convergence indicates support across analytical layers and should not be interpreted as independent experimental validation.
+The two siNRP1 conditions represent concordance within the analyzed dataset, not independent external replication.
+
+============================================================
+END OF REPORT
+============================================================

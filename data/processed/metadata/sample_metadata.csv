@@ -1,0 +1,10 @@
+sample_id,gsm,cell_line,condition,replicate,replicate_type,organism,sequencing_layout,read_length_bp,reference_genome,aligner,quantifier,batch
+counts.MDAMB231.siNT.RNA.1,GSM8250651,MDA-MB-231,siNT,1,biological,Homo sapiens,paired-end,150,GRCh38,STAR 2.7.2b,RSEM 1.3.3,
+counts.MDAMB231.siNT.RNA.2,GSM8250652,MDA-MB-231,siNT,2,biological,Homo sapiens,paired-end,150,GRCh38,STAR 2.7.2b,RSEM 1.3.3,
+counts.MDAMB231.siNT.RNA.3,GSM8250653,MDA-MB-231,siNT,3,biological,Homo sapiens,paired-end,150,GRCh38,STAR 2.7.2b,RSEM 1.3.3,
+counts.MDAMB231.siNRP1.3.RNA.1,GSM8250645,MDA-MB-231,siNRP1_3,1,biological,Homo sapiens,paired-end,150,GRCh38,STAR 2.7.2b,RSEM 1.3.3,
+counts.MDAMB231.siNRP1.3.RNA.2,GSM8250646,MDA-MB-231,siNRP1_3,2,biological,Homo sapiens,paired-end,150,GRCh38,STAR 2.7.2b,RSEM 1.3.3,
+counts.MDAMB231.siNRP1.3.RNA.3,GSM8250647,MDA-MB-231,siNRP1_3,3,biological,Homo sapiens,paired-end,150,GRCh38,STAR 2.7.2b,RSEM 1.3.3,
+counts.MDAMB231.siNRP1.5.RNA.1,GSM8250648,MDA-MB-231,siNRP1_5,1,biological,Homo sapiens,paired-end,150,GRCh38,STAR 2.7.2b,RSEM 1.3.3,
+counts.MDAMB231.siNRP1.5.RNA.2,GSM8250649,MDA-MB-231,siNRP1_5,2,biological,Homo sapiens,paired-end,150,GRCh38,STAR 2.7.2b,RSEM 1.3.3,
+counts.MDAMB231.siNRP1.5.RNA.3,GSM8250650,MDA-MB-231,siNRP1_5,3,biological,Homo sapiens,paired-end,150,GRCh38,STAR 2.7.2b,RSEM 1.3.3,

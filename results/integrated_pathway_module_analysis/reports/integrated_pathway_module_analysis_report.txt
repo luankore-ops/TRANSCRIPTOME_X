@@ -1,0 +1,81 @@
+============================================================
+TRANSCRIPTOME-X
+INTEGRATED PATHWAY-MODULE-DE ANALYSIS - SCRIPT 34
+============================================================
+
+PROJECT: C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X 
+OUTPUT: C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/integrated_pathway_module_analysis 
+
+AUDIT
+------------------------------------------------------------
+                                   metric value
+                    integrated_input_rows   159
+                  integrated_unique_genes   155
+       integrated_gene_module_assignments   159
+            module_definition_assignments   178
+            signature_module_overlap_rows  4178
+            signature_module_summary_rows  1424
+             overlap_rows_with_DE_support  4178
+                      unique_bridge_genes     3
+           pathway_module_comparison_rows   670
+            shared_pathway_module_signals    42
+ siNRP1_3_specific_pathway_module_signals    89
+ siNRP1_5_specific_pathway_module_signals   539
+
+PATHWAY-MODULE SIGNALS BY CONTRAST
+------------------------------------------------------------
+         contrast significant_siNRP1_3 significant_siNRP1_5 significant_both
+ siNRP1_3_vs_siNT                  838                  618              618
+ siNRP1_5_vs_siNT                 1832                 3332             1828
+ concordant_significant_both discordant_significant_both
+                         422                         196
+                        1132                         696
+
+SHARED VS SPECIFIC SIGNALS
+------------------------------------------------------------
+          Var1 Freq
+ ONLY_siNRP1_3   89
+ ONLY_siNRP1_5  539
+        SHARED   42
+
+CROSS-MODULE BRIDGE GENES
+------------------------------------------------------------
+ gene_symbol module_count
+        CCN2            3
+        CCN3            2
+       THBS1            2
+                                                                modules logFC_siNRP1_3
+ ECM_REMODELING | GROWTH_FACTOR_RECEPTOR_SIGNALING | TGFB_BMP_SIGNALING      0.7379655
+                                    ECM_REMODELING | TGFB_BMP_SIGNALING     -0.9850759
+                                    ECM_REMODELING | TGFB_BMP_SIGNALING     -1.9130429
+  FDR_siNRP1_3 logFC_siNRP1_5 FDR_siNRP1_5                 joint_class
+ 0.02337581094      0.8767935  0.007692087 SIGNIFICANT_BOTH_CONCORDANT
+ 0.01203308332     -0.8059750  0.024226963 SIGNIFICANT_BOTH_CONCORDANT
+ 0.00009850147     -0.5727093  0.041282742 SIGNIFICANT_BOTH_CONCORDANT
+
+INTERPRETATION LIMITATIONS
+------------------------------------------------------------
+1. Le sovrapposizioni pathway-modulo sono descrittive.
+2. Non sono stati eseguiti nuovi test di arricchimento.
+3. La presenza in una signature non dimostra attivazione del pathway.
+4. I geni possono appartenere a più moduli; i conteggi per modulo
+   non devono essere sommati per ottenere geni unici.
+5. La concordanza descrive il segno del logFC nei due contrasti,
+   non dimostra un effetto causale comune.
+
+OUTPUT FILES
+------------------------------------------------------------
+
+C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/integrated_pathway_module_analysis/tables
+cross_module_bridge_genes.csv
+gene_module_membership.csv
+module_pathway_counts.csv
+pathway_module_gene_integration.csv
+pathway_module_support_summary.csv
+shared_vs_specific_pathway_module_signals.csv 
+
+C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/integrated_pathway_module_analysis/audit
+script34_audit.csv 
+
+C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/integrated_pathway_module_analysis/reports
+integrated_pathway_module_analysis_report.txt 

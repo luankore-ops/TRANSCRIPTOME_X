@@ -1,0 +1,5 @@
+"module","candidate_genes","detected_siNRP1_3","detected_siNRP1_5","detected_both","significant_siNRP1_3","significant_siNRP1_5","significant_both","significant_both_concordant","significant_both_discordant","up_siNRP1_3","down_siNRP1_3","up_siNRP1_5","down_siNRP1_5"
+"ECM_REMODELING",52,47,47,47,20,25,18,15,3,4,16,11,14
+"TGFB_BMP_SIGNALING",32,28,28,28,11,12,7,4,3,1,10,6,6
+"CELL_ADHESION_CYTOSKELETON",49,48,48,48,16,16,7,2,5,2,14,12,4
+"GROWTH_FACTOR_RECEPTOR_SIGNALING",45,36,36,36,12,16,8,6,2,4,8,10,6

@@ -1,0 +1,180 @@
+============================================================
+TRANSCRIPTOME-X
+SCRIPT 50 - FINAL CANDIDATE BIOLOGICAL EVIDENCE ASSESSMENT
+============================================================
+
+Date: 2026-11-23 17:04:46.494502
+
+PROJECT OVERVIEW
+------------------------------------------------------------
+Candidates assessed: 79
+Pathway associations: 1810
+Distinct pathways: 247
+Module associations: 83
+Distinct modules: 4
+Pathway-module candidate connections: 1938
+
+EVIDENCE CLASSIFICATION
+------------------------------------------------------------
+           evidence_assessment candidate_count candidate_percentage
+ MULTILAYER_FUNCTIONAL_SUPPORT              79                  100
+
+FUNCTIONAL SUPPORT
+------------------------------------------------------------
+           functional_support candidate_count candidate_percentage
+ PATHWAY_AND_MODULE_SUPPORTED              79                  100
+
+TOP 20 CANDIDATES
+------------------------------------------------------------
+ final_assessment_rank gene_symbol original_priority_rank unique_pathway_count
+                     1       THBS1                      1                   65
+                     2        CCN3                      2                   45
+                     3        NRP1                      3                   69
+                     4      TGFBR3                      4                   59
+                     5       VEGFC                      5                   41
+                     6      PIK3CA                      6                   39
+                     7        FGF1                      7                   39
+                     8        RELN                      8                   30
+                     9         MET                      9                   25
+                    10        PAK2                     10                   23
+                    11      COL4A2                     11                   19
+                    12       FBLN1                     12                   18
+                    13        CCN2                     13                    9
+                    14      COL5A1                     14                   16
+                    15       PLOD2                     15                    8
+                    16         LUM                     16                    8
+                    17        MMP1                     17                    7
+                    18       MATN2                     18                    6
+                    19     ADAMTS6                     19                    6
+                    20       HTRA1                     20                    4
+ unique_module_count           evidence_assessment
+                   2 MULTILAYER_FUNCTIONAL_SUPPORT
+                   2 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   3 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+                   1 MULTILAYER_FUNCTIONAL_SUPPORT
+
+TOP PATHWAY ASSOCIATIONS
+------------------------------------------------------------
+                                                                        pathway_identifier
+                                CC|||COMMON_ALL_METHODS|||external encapsulating structure
+                                            CC|||COMMON_ALL_METHODS|||extracellular matrix
+                     BP|||COMMON_ALL_METHODS|||cellular response to growth factor stimulus
+ BP|||COMMON_ALL_METHODS|||cell surface receptor protein tyrosine kinase signaling pathway
+                                       BP|||COMMON_ALL_METHODS|||response to growth factor
+                                           MF|||COMMON_ALL_METHODS|||growth factor binding
+                                        BP|||COMMON_ALL_METHODS|||blood vessel development
+                                         BP|||COMMON_ALL_METHODS|||vasculature development
+                                      BP|||COMMON_ALL_METHODS|||blood vessel morphogenesis
+                           BP|||COMMON_ALL_METHODS|||positive regulation of cell migration
+                            BP|||COMMON_ALL_METHODS|||positive regulation of cell motility
+                               BP|||COMMON_ALL_METHODS|||positive regulation of locomotion
+                                            BP|||COMMON_ALL_METHODS|||response to wounding
+                                                CC|||COMMON_ALL_METHODS|||receptor complex
+                         REACTOME|||COMMON_ALL_METHODS|||extracellular matrix organization
+ candidate_gene_count
+                   32
+                   32
+                   31
+                   27
+                   25
+                   24
+                   23
+                   23
+                   21
+                   21
+                   21
+                   21
+                   21
+                   21
+                   21
+
+MODULE LANDSCAPE
+------------------------------------------------------------
+                           module candidate_gene_count
+                   ECM_REMODELING                   26
+       CELL_ADHESION_CYTOSKELETON                   23
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                   19
+               TGFB_BMP_SIGNALING                   15
+
+PATHWAY-MODULE CONVERGENCE
+------------------------------------------------------------
+                                                                                pathway_identifier
+                                        CC|||COMMON_ALL_METHODS|||external encapsulating structure
+                                                    CC|||COMMON_ALL_METHODS|||extracellular matrix
+         BP|||COMMON_ALL_METHODS|||cell surface receptor protein tyrosine kinase signaling pathway
+                             BP|||COMMON_ALL_METHODS|||cellular response to growth factor stimulus
+                           BP|||COMMON_ALL_METHODS|||external encapsulating structure organization
+                                       BP|||COMMON_ALL_METHODS|||extracellular matrix organization
+                                    BP|||COMMON_ALL_METHODS|||extracellular structure organization
+                                 REACTOME|||COMMON_ALL_METHODS|||extracellular matrix organization
+                                                BP|||COMMON_ALL_METHODS|||blood vessel development
+                                   BP|||COMMON_ALL_METHODS|||positive regulation of cell migration
+                                    BP|||COMMON_ALL_METHODS|||positive regulation of cell motility
+                                       BP|||COMMON_ALL_METHODS|||positive regulation of locomotion
+                                                 BP|||COMMON_ALL_METHODS|||vasculature development
+                                                        CC|||COMMON_ALL_METHODS|||receptor complex
+                                                   MF|||COMMON_ALL_METHODS|||growth factor binding
+ BP|||COMMON_ALL_METHODS|||cell surface receptor protein serine threonine kinase signaling pathway
+                                               BP|||COMMON_ALL_METHODS|||response to growth factor
+                                            BP|||COMMON_ALL_METHODS|||muscle structure development
+                                                            BP|||COMMON_ALL_METHODS|||angiogenesis
+                                              BP|||COMMON_ALL_METHODS|||blood vessel morphogenesis
+                           module shared_candidate_count
+                   ECM_REMODELING                     26
+                   ECM_REMODELING                     26
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     16
+               TGFB_BMP_SIGNALING                     14
+                   ECM_REMODELING                     12
+                   ECM_REMODELING                     12
+                   ECM_REMODELING                     12
+                   ECM_REMODELING                     12
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     11
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     11
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     11
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     11
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     11
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     11
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     11
+               TGFB_BMP_SIGNALING                     11
+               TGFB_BMP_SIGNALING                     11
+       CELL_ADHESION_CYTOSKELETON                     10
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     10
+ GROWTH_FACTOR_RECEPTOR_SIGNALING                     10
+
+INTERPRETATION AND LIMITATIONS
+------------------------------------------------------------
+This assessment integrates previously generated evidence from differential expression, network, pathway and module analyses.
+Pathway and module associations represent functional annotations and network relationships; they do not demonstrate pathway activation
+or causal biological effects.
+Evidence-layer convergence is based on the indicators already defined in the previous integrated analyses. It is not independent experimental validation.
+Candidate prioritization should therefore be interpreted as computational evidence-based prioritization requiring further experimental and external validation.
+
+CONSISTENCY CHECKS
+------------------------------------------------------------
+                                         check passed
+              Candidate identifiers are unique   TRUE
+            All candidates have pathway counts   TRUE
+             All candidates have module counts   TRUE
+ Pathway associations refer to candidate genes   TRUE
+  Module associations refer to candidate genes   TRUE
+               Final assessment rank is unique   TRUE
+                    No negative pathway counts   TRUE
+                     No negative module counts   TRUE
+
+STATUS: COMPLETED

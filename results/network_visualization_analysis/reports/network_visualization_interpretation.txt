@@ -1,0 +1,55 @@
+TRANSCRIPTOME-X
+NETWORK VISUALIZATION AND BIOLOGICAL INTERPRETATION
+===================================================
+
+Network nodes: 2199
+Network edges: 15556
+Connected components: 5
+Communities represented: 16
+Bridge genes: 3
+
+TOP NODES BY BETWEENNESS CENTRALITY
+-----------------------------------
+BP|||COMMON_ALL_METHODS|||cell surface receptor protein tyrosine kinase signaling pathway (0.05332)
+BP|||COMMON_ALL_METHODS|||cellular response to growth factor stimulus (0.04762)
+BP|||COMMON_ALL_METHODS|||muscle structure development (0.04743)
+MF|||COMMON_ALL_METHODS|||calcium ion binding (0.04021)
+BP|||COMMON_ALL_METHODS|||multicellular organismal level homeostasis (0.03458)
+REACTOME|||COMMON_ALL_METHODS|||hemostasis (0.03292)
+BP|||COMMON_ALL_METHODS|||ossification (0.03206)
+CC|||COMMON_ALL_METHODS|||side of membrane (0.03171)
+BP|||COMMON_ALL_METHODS|||g protein coupled receptor signaling pathway (0.03051)
+CC|||COMMON_ALL_METHODS|||cell cell junction (0.02744)
+
+BRIDGE GENES
+------------
+THBS1 | modules=2 | betweenness=0.0204
+CCN3 | modules=2 | betweenness=0.008055
+CCN2 | modules=3 | betweenness=0.0009696
+
+INTERPRETATION
+--------------
+Degree describes the number of direct network connections.
+Betweenness describes the extent to which a node lies on shortest paths.
+Bridge genes connect multiple annotated modules or network neighborhoods.
+A higher module count does not necessarily imply higher betweenness.
+Network communities are computational partitions, not necessarily
+independent biological pathways.
+
+IMPORTANT LIMITATIONS
+---------------------
+The network integrates gene-pathway-module annotation relationships.
+Its edges are not experimentally validated physical interactions.
+Topological centrality does not establish biological causality.
+Network topology depends on the annotations and input gene signatures.
+Enrichment and network structure do not demonstrate pathway activation.
+
+OUTPUT FIGURES
+--------------
+01_full_network_overview.png
+02_top_betweenness_nodes.png
+03_bridge_gene_betweenness.png
+04_network_edge_composition.png
+05_bridge_gene_subnetwork.png
+06_community_size_distribution.png
+07_connected_component_sizes.png

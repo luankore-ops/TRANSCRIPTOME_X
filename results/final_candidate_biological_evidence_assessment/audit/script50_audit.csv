@@ -1,0 +1,9 @@
+"metric","value"
+"candidate_count",79
+"pathway_association_count",1810
+"distinct_pathway_count",247
+"module_association_count",83
+"distinct_module_count",4
+"pathway_module_connection_count",1938
+"top_candidate_count",20
+"consistency_checks_passed",8

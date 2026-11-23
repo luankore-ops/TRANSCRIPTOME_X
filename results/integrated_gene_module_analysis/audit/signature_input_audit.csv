@@ -1,0 +1,2 @@
+"file","rows","columns","gene_column_detected","term_column_detected","contrast_column_detected","group_column_detected","ontology_column_detected"
+"C:/Users/luank/Dropbox/PC/Desktop/PYTHON/TRANSCRIPTOME_X/results/functional_enrichment_interpretation/tables/significant_term_gene_signatures.csv",588,8,"genes","Description","contrast","group","ontology"

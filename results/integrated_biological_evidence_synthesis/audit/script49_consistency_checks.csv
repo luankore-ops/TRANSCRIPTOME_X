@@ -1,0 +1,7 @@
+"check","passed"
+"Shortlist and ledger have identical candidate counts",TRUE
+"No duplicated genes in evidence ledger",TRUE
+"All shortlisted genes represented in ledger",TRUE
+"All pathway associations belong to shortlisted genes",TRUE
+"All module associations belong to shortlisted genes",TRUE
+"Evidence layer count is between zero and four",TRUE

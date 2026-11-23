@@ -1,0 +1,9 @@
+"check","passed"
+"Candidate identifiers are unique",TRUE
+"All candidates have pathway counts",TRUE
+"All candidates have module counts",TRUE
+"Pathway associations refer to candidate genes",TRUE
+"Module associations refer to candidate genes",TRUE
+"Final assessment rank is unique",TRUE
+"No negative pathway counts",TRUE
+"No negative module counts",TRUE

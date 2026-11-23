@@ -1,0 +1,4 @@
+"gene_name","ensembl_id_1","ensembl_id_2","identical_profile","max_absolute_difference","pearson_correlation","total_count_1","total_count_2"
+"CRLF2","ENSG00000205755","ENSG00000292363",TRUE,0,1,212.5,212.5
+"CSF2RA","ENSG00000198223","ENSG00000292357",TRUE,0,1,3967,3967
+"PLCXD1","ENSG00000182378","ENSG00000292344",TRUE,0,1,1106,1106
