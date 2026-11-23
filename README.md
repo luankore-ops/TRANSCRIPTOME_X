@@ -1,32 +1,35 @@
 # TRANSCRIPTOME-X
 
-**RNA-seq differential expression and functional enrichment analysis of NRP1 knockdown in MDA-MB-231 breast cancer cells.**
+**Integrated RNA-seq analysis and candidate prioritization of NRP1 knockdown in MDA-MB-231 claudin-low breast cancer cells.**
 
-## Overview
+## Project overview
 
-TRANSCRIPTOME-X is a bioinformatics analysis of public RNA-seq dataset GSE266566. It investigates transcriptional changes associated with two independent NRP1 knockdown conditions (siNRP1.3 and siNRP1.5) compared with non-targeting control (siNT) in MDA-MB-231 cells.
+TRANSCRIPTOME-X is a computational reanalysis of the MDA-MB-231 subset of the public RNA-sequencing dataset [GEO GSE266566](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE266566). It investigates transcriptional changes associated with two independent NRP1-targeting siRNA conditions (siNRP1#3 and siNRP1#5) compared with a non-targeting control (siNT).
 
-The analysis includes differential expression, cross-knockdown agreement, functional enrichment, and gene-level annotation and expression-profile quality checks.
+The project combines differential expression, cross-knockdown comparison, normalization sensitivity, functional enrichment, gene/network/module integration, candidate prioritization and biological hypothesis generation. The final computational workflow is documented through Script 51.
 
 ## Dataset and experimental design
 
 - **Source:** [NCBI GEO – GSE266566](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE266566)
-- **Cell line:** MDA-MB-231
-- **Conditions:** siNT, siNRP1.3, siNRP1.5
+- **Cell line analyzed:** MDA-MB-231
+- **Conditions:** siNT, siNRP1#3, siNRP1#5
 - **Biological replicates:** 3 per condition (9 samples total)
-- **Input:** RSEM expected counts
+- **Input:** RSEM gene-level expected counts
+- **Input matrix:** 78,894 gene rows; 17,531 retained after expression filtering
 
-The input matrix contains 78,894 gene rows and 9 samples. Lowly expressed genes were filtered with edgeR::filterByExpr; 17,531 genes were retained. Fractional expected counts were retained without rounding.
+The parent GEO series includes multiple claudin-low breast cancer cell lines and perturbation modalities. This repository's conclusions are restricted to the selected MDA-MB-231 siRNA subset.
 
 ## Methods
 
-- TMM normalization
-- Differential expression with edgeR quasi-likelihood methodology and robust dispersion estimation
-- Separate contrasts: siNRP1_3_vs_siNT and siNRP1_5_vs_siNT
+- Expression filtering with `edgeR::filterByExpr`
+- TMM normalization for the primary differential-expression workflow
+- Differential expression using edgeR quasi-likelihood methodology
+- Separate contrasts: siNRP1#3 vs siNT and siNRP1#5 vs siNT
 - Significance threshold: FDR < 0.05
-- Functional enrichment using Gene Ontology (BP, CC, MF) and Reactome
-- Cross-knockdown concordance analysis
-- Gene identity/annotation and duplicate expression-profile audits
+- Normalization sensitivity comparison: TMM, TMMwsp, RLE and upper-quartile
+- Functional enrichment using Gene Ontology and Reactome annotations
+- Cross-knockdown concordance, annotation and expression-profile audits
+- Integrated network, pathway and module evidence for candidate prioritization
 
 ## Main results
 
@@ -34,39 +37,44 @@ The input matrix contains 78,894 gene rows and 9 samples. Lowly expressed genes 
 
 | Contrast | DE genes (FDR < 0.05) |
 |---|---:|
-| siNRP1.3 vs siNT | 2,690 |
-| siNRP1.5 vs siNT | 3,420 |
+| siNRP1#3 vs siNT | 2,690 |
+| siNRP1#5 vs siNT | 3,420 |
 
-NRP1 (ENSG00000099250.18) showed negative differential expression in both contrasts:
+NRP1 showed negative differential expression in both contrasts. These are model-based RNA-seq estimates, not direct measurements of protein-level knockdown efficiency.
 
-| Contrast | logFC | FDR |
-|---|---:|---:|
-| siNRP1.3 vs siNT | -0.692877 | 0.02478353 |
-| siNRP1.5 vs siNT | -4.876953 | 3.023637e-07 |
+### Final integrated candidate assessment
 
-These are model-based RNA-seq estimates, not direct measurements of protein-level knockdown efficiency.
+| Metric | Result |
+|---|---:|
+| Genes evaluated in integrated candidate ranking | 1,913 |
+| Final candidate shortlist | 79 |
+| Candidate–pathway associations | 1,810 |
+| Distinct pathway annotations | 247 |
+| Candidate–module associations | 83 |
+| Distinct modules | 4 |
+| Research hypotheses generated | 21 |
 
-### Cross-knockdown concordance
+Top-ranked candidates were THBS1, CCN3, NRP1, TGFBR3 and VEGFC. NRP1 ranked third, with 69 pathway associations and one module association (GROWTH_FACTOR_RECEPTOR_SIGNALING).
 
-Among 17,531 genes tested in both contrasts, 737 were significant in both; 533 showed the same direction of change and 204 showed opposite directions. The concordant set is a prioritization result, not independent proof of reproducibility.
+Pathway and module association counts reflect annotation coverage in the integrated evidence tables. They do not establish pathway activation, inhibition, direct molecular interaction or causality. Later evidence layers also reuse information generated in earlier analysis stages, so convergence should not be interpreted as fully independent validation.
 
-### Functional enrichment
+## Final documentation
 
-The strict enrichment analysis identified different patterns across contrasts and directions. Notable results included extracellular-matrix organization and glycosylation among genes downregulated in siNRP1.3, and translation-related, focal-adhesion/cell-substrate-junction, and contractile/cytoskeletal annotations among genes upregulated in siNRP1.5.
+The final scientific dossier summarizes the study design, methods, quantitative results, candidate ranking, NRP1-focused interpretation, research hypotheses, limitations and proposed experimental validation:
 
-Enrichment represents statistical over-representation of annotations. It does not by itself demonstrate pathway activation, inhibition, or causal mechanisms. Related GO and Reactome terms may overlap.
+- [Final scientific dossier (Markdown)](publication/reports/FINAL_SCIENTIFIC_DOSSIER.md)
 
-## Quality checks and interpretation
+The curated publication snapshot includes selected analysis scripts, result tables and figures under `publication/R`, `publication/tables` and `publication/figures`. It is not a byte-for-byte mirror of the local working directory.
 
-The project includes audits of gene identifiers, annotation mappings, cross-contrast direction consistency, and identical expression profiles. Identical profiles or ambiguous annotations are reported rather than automatically collapsed or removed.
+## Reproducibility and data availability
 
-Results are specific to this dataset and experimental model. Follow-up validation is required before drawing mechanistic or translational conclusions.
+The analysis was performed in R 4.6.2 with Bioconductor 3.23. Key package versions recorded in the project include edgeR 4.10.7, clusterProfiler 4.20.3, ReactomePA 1.56.0, AnnotationDbi 1.74.0 and org.Hs.eg.db 3.23.1.
 
-## Reproducibility
+Raw input data are not redistributed. Retrieve the original dataset from GEO using accession GSE266566. Local environments, caches, credentials, raw/external data and temporary files are excluded from this repository.
 
-The analysis was performed in R 4.6.2 with Bioconductor 3.23. Key package versions include edgeR 4.10.7, clusterProfiler 4.20.3, ReactomePA 1.56.0, AnnotationDbi 1.74.0, and org.Hs.eg.db 3.23.1.
+## Limitations
 
-Raw data are not redistributed; retrieve the original dataset from GEO using the accession above. Analysis scripts, selected result tables, figures, and additional documentation will be added from the local project directory.
+The analyzed subset has three biological replicates per condition and represents one cell model and one perturbation modality. Normalization robustness is not independent biological replication. Candidate ranking and pathway/module annotations support hypothesis generation, not mechanistic proof. Experimental validation is required before causal or translational conclusions can be drawn.
 
 ## Author
 
